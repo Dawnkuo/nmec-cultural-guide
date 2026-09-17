@@ -1,0 +1,52 @@
+{
+  "target": "http://127.0.0.1:4181/nmec-cultural-guide/",
+  "testedAt": "2026-09-17T08:49:20.498Z",
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "passed": true,
+      "floors": [
+        "nmec-arrival",
+        "nmec-mummies-level"
+      ],
+      "errors": []
+    },
+    {
+      "width": 1094,
+      "height": 768,
+      "passed": true,
+      "floors": [
+        "nmec-arrival",
+        "nmec-mummies-level"
+      ],
+      "errors": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "passed": true,
+      "floors": [
+        "nmec-arrival",
+        "nmec-mummies-level"
+      ],
+      "errors": []
+    }
+  ],
+  "offline": {
+    "passed": true,
+    "cached": {
+      "keys": [
+        "nmec-cultural-guide-4572ed600c22fb85"
+      ],
+      "scopes": [
+        "http://127.0.0.1:4181/nmec-cultural-guide/"
+      ]
+    },
+    "deepLink": "http://127.0.0.1:4181/nmec-cultural-guide/guides/national-museum-egyptian-civilization/#object-nmec-mummies",
+    "maps": [
+      "mummies-3d",
+      "exterior-3d"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+/* A building's identity must survive the layout. Never stretch a landscape
+   cover to the height of its adjacent copy, or hide half of it behind copy. */
+.guide-directory { gap: 2rem; background: var(--ink); }
+.guide-directory > a { grid-template-columns: minmax(0, 46%) minmax(0, 1fr); align-items: center; border: 1px solid var(--line); }
+.guide-directory img.guide-cover { position: static; width: 100%; height: auto; max-height: 480px; align-self: center; background: var(--navy); }
+.guide-directory > a > div { min-width: 0; }
+.coverage-grid > a { grid-template-columns: 1fr; }
+.coverage-grid img.guide-cover { width: 100%; height: auto; aspect-ratio: 3 / 2; background: var(--navy); }
+.guide-list a { grid-template-columns: minmax(0, 44%) minmax(0, 1fr); align-items: center; }
+.guide-list img.guide-cover { height: auto; aspect-ratio: 3 / 2; }
+.guide-hero { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); align-items: center; min-height: 0; padding: 3rem max(5vw, calc((100% - 1280px) / 2)); gap: 2.5rem; background: var(--navy); }
+.guide-hero > img.guide-cover { position: static; grid-column: 2; grid-row: 1; width: 100%; height: auto; max-height: 650px; }
+.guide-hero > .hero-shade { display: none; }
+.guide-hero > div:last-child { grid-column: 1; grid-row: 1; padding: 1rem 0; width: 100%; min-width: 0; }
+.guide-hero h1 { font-size: 2.8rem; line-height: 1.35; letter-spacing: 0; }
+.cover-credit { color: var(--muted); font-size: .76rem; line-height: 1.8; }
+.cover-credit a { color: var(--gold); }
+@media (max-width: 1094px) {
+  .guide-hero { grid-template-columns: 1fr; gap: 1.5rem; }
+  .guide-hero > img.guide-cover { grid-column: 1; grid-row: 1; max-height: 560px; }
+  .guide-hero > div:last-child { grid-column: 1; grid-row: 2; }
+  .guide-hero h1 { font-size: 2.5rem; }
+  .guide-directory > a { grid-template-columns: minmax(0, 46%) minmax(0, 1fr); }
+  .guide-directory h2 { font-size: 1.6rem; }
+}
+@media (max-width: 760px) {
+  .guide-directory > a { grid-template-columns: minmax(0, 1fr); }
+  .guide-directory img.guide-cover { width: 100%; height: auto; max-height: none; }
+  .guide-directory > a > div { padding: 1.3rem; }
+  .coverage-grid > a, .guide-list a { grid-template-columns: minmax(0, 1fr); }
+  .coverage-grid img.guide-cover, .guide-list img.guide-cover { height: auto; aspect-ratio: 3 / 2; }
+  .guide-hero { padding: 1.2rem; gap: 1rem; }
+  .guide-hero > img.guide-cover { max-height: none; }
+  .guide-hero > div:last-child { padding: .5rem 0 1.5rem; }
+  .guide-hero h1 { font-size: 2rem; }
+  .guide-hero-actions { flex-wrap: wrap; }
+}

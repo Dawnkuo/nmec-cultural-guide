@@ -1,0 +1,697 @@
+{
+  "version": 2,
+  "mode": "single-site",
+  "delivery": {
+    "target": "deployed",
+    "url": "https://dawnkuo.github.io/nmec-cultural-guide/"
+  },
+  "scope": {
+    "guideSlugs": [
+      "national-museum-egyptian-civilization"
+    ],
+    "note": "Publication of the existing 10-theme guide selection, not a collection-scale expansion"
+  },
+  "evidence": [
+    {
+      "id": "review-content",
+      "kind": "content",
+      "artifact": "docs/release-review.md",
+      "revision": "nmec-cultural-guide-4572ed600c22fb85"
+    },
+    {
+      "id": "review-visual",
+      "kind": "visual",
+      "artifact": "docs/release-review.md",
+      "revision": "nmec-cultural-guide-4572ed600c22fb85"
+    },
+    {
+      "id": "review-spatial",
+      "kind": "spatial",
+      "artifact": "docs/release-review.md",
+      "revision": "nmec-cultural-guide-4572ed600c22fb85"
+    },
+    {
+      "id": "review-interaction",
+      "kind": "interaction",
+      "artifact": "docs/qa/browser-report.json",
+      "revision": "nmec-cultural-guide-4572ed600c22fb85"
+    },
+    {
+      "id": "review-offline",
+      "kind": "offline",
+      "artifact": "docs/qa/browser-report.json",
+      "revision": "nmec-cultural-guide-4572ed600c22fb85"
+    },
+    {
+      "id": "review-offline-resume",
+      "kind": "offline-resume",
+      "artifact": "docs/qa/resume-report.json",
+      "revision": "nmec-cultural-guide-4572ed600c22fb85"
+    }
+  ],
+  "site": {
+    "title": "埃及国家文明博物馆",
+    "theme": "museum-navy-gold",
+    "hideItineraryPrices": true,
+    "readyForRelease": true
+  },
+  "itinerary": {
+    "days": []
+  },
+  "sources": [
+    {
+      "id": "src-nmec-hall-photo",
+      "title": "NMEC-MainHall.jpg — exhibition interior, 2017",
+      "publisher": "Roland Unger / Wikimedia Commons",
+      "authority": "media",
+      "url": "https://commons.wikimedia.org/wiki/File:NMEC-MainHall.jpg",
+      "verifiedAt": "2026-09-17",
+      "scopes": [
+        "nmec-historical-hall-photograph"
+      ],
+      "note": "CC BY-SA 4.0. Visually checked glass display cases and high ceiling, not a tourism sign. Historical interior photograph; not the 2026 exhibition arrangement. Provenance: /images/guides/nmec-reviewed-media.json."
+    },
+    {
+      "id": "src-nmec-exterior-plan-2023",
+      "title": "Investigating the Socio-Economic Sustainability within the Egyptian Museums over the Last Decade — Fig.4(a–e)",
+      "publisher": "Sustainability 2023, 15, 16746",
+      "authority": "authoritative",
+      "url": "https://www.mdpi.com/2071-1050/15/24/16746",
+      "verifiedAt": "2026-09-17",
+      "scopes": [
+        "nmec-integrated-exterior-plan",
+        "nmec-arrival-building"
+      ],
+      "note": "PDF pp12–13 visually reviewed. Fig.4(b) orthographic integrated plan preserves relative rotation; Fig.4(a) is a maquette/birdseye image, not a current survey. Reference numbering is inconsistent: drawings credited in reference40 to Keseeba 2007, caption cites41. No claim of 2026 as-built metric geometry."
+    },
+    {
+      "id": "src-nmec-architect-plan-2024",
+      "title": "The role of historical architectural scale models in Egyptian Museums — Fig.17",
+      "publisher": "Osama Abdelhady Aboelyazed Khalifa / CPAS",
+      "authority": "authoritative",
+      "url": "https://publication-cpas-egypt.com/wp-content/uploads/2025/01/007.pdf",
+      "verifiedAt": "2026-09-17",
+      "scopes": [
+        "nmec-exhibition-building-outline",
+        "nmec-central-structure"
+      ],
+      "note": "PDF p15 Fig.17 visually reviewed; plan explicitly credited to architect Al-Ghazali Kesseiba. Uniform scale into integrated exterior coordinates; no current exhibit assignment inferred."
+    },
+    {
+      "id": "src-nmec-model-photo",
+      "title": "NMEC-Model.jpg — museum architectural maquette",
+      "publisher": "Roland Unger / Wikimedia Commons",
+      "authority": "authoritative",
+      "url": "https://commons.wikimedia.org/wiki/File:NMEC-Model.jpg",
+      "verifiedAt": "2026-09-17",
+      "scopes": [
+        "nmec-roof-hierarchy",
+        "nmec-exterior-component-relationships"
+      ],
+      "note": "2017 photograph, CC BY-SA4.0. Inspected as a historic building model, NOT a photograph of the actual building or source of measured heights. Current entrance and museum facade photographs checked separately."
+    },
+    {
+      "id": "src-nmec-pavilion-section",
+      "title": "NMEC Top Panorama — 3D corner section, 2019",
+      "publisher": "Mahmoud Hussain, architectural modeling and drawings",
+      "authority": "authoritative",
+      "url": "https://www.behance.net/gallery/116304541/NMEC-Top-Panorama-(Capital-Museum)",
+      "verifiedAt": "2026-09-17",
+      "scopes": [
+        "nmec-pavilion-pyramid",
+        "nmec-pavilion-inverted-glass-base",
+        "nmec-pavilion-piers"
+      ],
+      "note": "Author credits architect Ghazali Kesseiba and exhibit designer Arata Isozaki; section visually inspected for pavilion structure. Private research reference, original image not published in the site."
+    },
+    {
+      "id": "src-nmec-facade-photo",
+      "title": "NMEC-MainEntrance.jpg — actual main entrance",
+      "publisher": "Roland Unger / Wikimedia Commons",
+      "authority": "authoritative",
+      "url": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+      "verifiedAt": "2026-09-17",
+      "scopes": [
+        "nmec-entrance-portico",
+        "nmec-as-built-pavilion-silhouette"
+      ],
+      "note": "2017-03-05, CC BY-SA4.0. Actual facade/4 stone entrance piers/glazing inspected; canonical cover asset includes attribution and license provenance. Not a floor-plan source."
+    },
+    {
+      "id": "src-nmec",
+      "title": "National Museum of Egyptian Civilization",
+      "publisher": "NMEC",
+      "authority": "official",
+      "url": "https://nmec.gov.eg/new-home/",
+      "verifiedAt": "2026-09-16",
+      "scopes": [
+        "nmec-identity",
+        "visitor-information",
+        "collections"
+      ]
+    },
+    {
+      "id": "src-nmec-main",
+      "title": "NMEC Main Gallery",
+      "publisher": "NMEC",
+      "authority": "official",
+      "url": "https://nmec.gov.eg/main-gallery/",
+      "verifiedAt": "2026-09-16",
+      "scopes": [
+        "nmec-main-gallery",
+        "chronology",
+        "themes"
+      ]
+    },
+    {
+      "id": "src-nmec-mummies",
+      "title": "NMEC Royal Mummies Hall",
+      "publisher": "NMEC",
+      "authority": "official",
+      "url": "https://nmec.gov.eg/mummies-hall/",
+      "verifiedAt": "2026-09-17",
+      "scopes": [
+        "royal-mummies",
+        "display-ethics"
+      ],
+      "note": "官方页面列出哈特谢普苏特、图特摩斯三世等人物，并说明展厅借鉴帝王谷墓葬氛围。此前核对记录中的男女数量拆分差异保留在来源层；游客入门卡不以数量或核对过程代替参观看点。"
+    },
+    {
+      "id": "src-nmec-plan-study",
+      "title": "Sustainability Assessment of the National Museum of Egyptian Civilization (NMEC): Environmental, Social, Economic, and Cultural Analysis — Figure 5",
+      "publisher": "Aboulnaga, Puma, Eletrby, Bayomi & Farid / Sustainability 14(20), 13080 (2022), CC BY 4.0",
+      "authority": "authoritative",
+      "url": "https://www.mdpi.com/2071-1050/14/20/13080",
+      "verifiedAt": "2026-09-16",
+      "scopes": [
+        "nmec-main-hall-plan",
+        "nmec-mummies-hall-plan",
+        "footprint",
+        "spaces",
+        "levels"
+      ]
+    },
+    {
+      "id": "src-commons-media",
+      "title": "Local guide media manifest",
+      "publisher": "Wikimedia Commons contributors",
+      "authority": "media",
+      "url": "https://commons.wikimedia.org/",
+      "verifiedAt": "2026-09-16",
+      "scopes": [
+        "guide-media"
+      ],
+      "note": "逐图文件名、作者、许可证与原始页面见本地 /images/guides/media-manifest.json。"
+    }
+  ],
+  "guides": [
+    {
+      "slug": "national-museum-egyptian-civilization",
+      "title": "埃及国家文明博物馆",
+      "originalTitle": "National Museum of Egyptian Civilization",
+      "city": "开罗",
+      "region": "福斯塔特",
+      "category": "博物馆",
+      "tier": "major",
+      "itemIds": [],
+      "coordinates": {
+        "lat": 30.0074,
+        "lng": 31.2483
+      },
+      "hero": {
+        "src": "/images/covers/national-museum-egyptian-civilization.jpg",
+        "alt": "埃及国家文明博物馆正门广场、石质主立面与上方金字塔形玻璃屋顶",
+        "caption": "Roland Unger · CC BY-SA 4.0 · 拍摄：2017-03-05",
+        "credit": {
+          "author": "Roland Unger",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "photographedAt": "2017-03-05"
+        },
+        "framing": {
+          "hero": "contain",
+          "directory": "contain",
+          "card": "contain",
+          "thumbnail": "contain"
+        },
+        "dimensions": {
+          "width": 1920,
+          "height": 1280
+        }
+      },
+      "deck": "先搭一条跨越史前至现代的文明主线，再进入皇家木乃伊与纺织、工艺等专题；这里的重点不是“追明星文物”，而是理解文明如何延续。",
+      "overview": "NMEC 的独特之处在于以“文明”而非单一王朝或发掘地为组织原则。主展厅把政治、信仰、社会、材料和日常生活放在一条长时段中；皇家木乃伊展厅则要求放慢速度，以人的遗存、葬祭观念与现代保存伦理共同阅读。",
+      "orientation": [
+        {
+          "title": "主展厅：从器物看生活",
+          "body": "这里从史前讲到近现代。水钟、假脚趾和战车，把计时、身体与王权变成看得见的故事。先看一件器物的材料与做法，再读它属于什么年代、由谁使用，比只记法老姓名更容易串起文明的变化。"
+        },
+        {
+          "title": "皇家木乃伊厅：先认识人",
+          "body": "哈特谢普苏特、图特摩斯三世等王名，在这里对应真实的人。先读姓名、年代与生平，再了解木乃伊的迁藏与保存。展厅借鉴帝王谷墓葬的氛围，适合放慢脚步，把人物与卢克索的神庙、王陵联系起来。"
+        },
+        {
+          "title": "先看通史，再看木乃伊",
+          "body": "建议先通览主展厅，挑几件感兴趣的器物细看；喜欢服饰与织造，可加看纺织专题。为皇家木乃伊厅留出一段完整时间，不要临近离馆才匆匆进入。时间有限时，先保留主展厅与皇家木乃伊这两个重点。"
+        }
+      ],
+      "visitChapters": [
+        {
+          "id": "exterior",
+          "label": "外观与抵达",
+          "title": "先把博物馆放回福斯塔特",
+          "summary": "抵达时先看现代博物馆、艾因西拉湖与福斯塔特历史城区的关系。建筑不是一座脱离城市的容器：宽阔入口、水平展开的主体和上部金字塔形大厅共同提示，这里要把漫长文明史压缩进一座当代公共建筑。",
+          "checkpoints": [
+            "在入口广场先辨认主入口，不把湖岸景观入口当作展厅入口。",
+            "退后观察低矮横向体量与上部金字塔形大厅的层级。",
+            "把湖面、福斯塔特遗址与新馆视为三个时代层，而不是一幅古代复原景观。"
+          ],
+          "accessNote": "抵达后先按馆方标识找到游客入口与安检；落客位置以当天指引为准。",
+          "image": {
+            "src": "/images/guides/national-museum-egyptian-civilization/01.jpg",
+            "alt": "博物馆正门与入口广场，2017年。",
+            "caption": "博物馆正门与入口广场，2017年。 Roland Unger · CC BY-SA 4.0。",
+            "credit": {
+              "author": "Roland Unger",
+              "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "photographedAt": "2017-03-05"
+            }
+          },
+          "sourceIds": [
+            "src-nmec",
+            "src-commons-media"
+          ]
+        },
+        {
+          "id": "interior",
+          "label": "内部参观",
+          "title": "从主展厅建立年代，再进入专题展厅",
+          "summary": "内部先用主展厅建立从史前到近现代的时间骨架，再转向纺织、皇家木乃伊等专题。这样能避免一进馆就追逐王名，也能把日常材料、工艺和活态传统放回“文明延续”的主线。",
+          "checkpoints": [
+            "先找主展厅的年代提示，选择农业、书写、王权或工艺作为贯穿线索。",
+            "中段主动寻找纺织、日常器物和晚期古代材料，不让参观在法老时期中止。",
+            "把皇家木乃伊展厅放在体力仍充足的后半段，先读人物生平，再慢慢观察。"
+          ],
+          "accessNote": "主展厅与皇家木乃伊厅分层参观；换层时留意馆内标识，需要无障碍通行协助可询问工作人员。",
+          "image": {
+            "src": "/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+            "alt": "埃及国家文明博物馆展厅内的玻璃展柜与挑高空间（2017年实景）",
+            "caption": "展厅实景，2017年3月5日；仅说明展陈空间，不代表2026年展柜与动线。Roland Unger，NMEC-MainHall.jpg，CC BY-SA 4.0。",
+            "dimensions": {
+              "width": 1920,
+              "height": 1262
+            },
+            "credit": {
+              "author": "Roland Unger",
+              "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainHall.jpg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "photographedAt": "2017-03-05"
+            }
+          },
+          "sourceIds": [
+            "src-nmec-main",
+            "src-nmec-mummies",
+            "src-commons-media"
+          ]
+        }
+      ],
+      "spatial": {
+        "mode": "stacked-floorplan",
+        "deliveryMode": "interactive-schematic",
+        "floorCount": 2,
+        "spaceCount": 9,
+        "routeStopCount": 0,
+        "verticalLinkCount": 0,
+        "crossFloorRoute": false,
+        "fallback": "svg",
+        "sourceIds": [
+          "src-nmec-plan-study"
+        ],
+        "file": "src/data/guide.json",
+        "exteriorModelId": "nmec-exterior-complete"
+      },
+      "highlights": [
+        {
+          "id": "nmec-architecture",
+          "nodeId": "nmec-main",
+          "title": "从大厅先看“文明叙事”",
+          "period": "当代博物馆",
+          "location": "主展厅入口",
+          "summary": "大厅的尺度与展柜关系把不同历史阶段放进同一视野，适合先建立整体时间感。",
+          "whyItMatters": "它提示这不是某一王朝的专馆，而是一部跨时代的社会史。",
+          "lookFor": "先找时间轴，再找同一主题在不同时期的材料变化。",
+          "image": "/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "sourceIds": [
+            "src-nmec",
+            "src-nmec-main",
+            "src-nmec-mummies",
+            "src-nmec-hall-photo",
+            "src-commons-media"
+          ],
+          "imageAlt": "埃及国家文明博物馆展厅内的玻璃展柜与挑高空间（2017年实景）"
+        },
+        {
+          "id": "nmec-prehistory",
+          "nodeId": "nmec-main",
+          "title": "史前生活：技术早于王朝",
+          "period": "史前时期",
+          "location": "主展厅早期章节",
+          "summary": "石器、容器和生活工具应作为环境适应与技术积累来读，而不只是“最古老”的标签。",
+          "whyItMatters": "王朝国家并非突然出现；长期的聚落、生产和交换构成前提。",
+          "lookFor": "比较器物的磨制、穿孔与表面处理，想象制作步骤。",
+          "image": "/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "sourceIds": [
+            "src-nmec-main",
+            "src-commons-media"
+          ],
+          "imageAlt": "埃及国家文明博物馆展厅内的玻璃展柜与挑高空间（2017年实景）"
+        },
+        {
+          "id": "nmec-kingship",
+          "nodeId": "nmec-main",
+          "title": "王权形象：固定程式中的选择",
+          "period": "法老时期",
+          "location": "主展厅国家与社会线索",
+          "summary": "正面性、比例和冠饰让统治者超越个体肖像，成为秩序的可视符号。",
+          "whyItMatters": "同一套视觉语法跨越漫长年代，却会因材料、尺度和政治语境而改变。",
+          "lookFor": "看头饰、步姿、铭文位置与身体是否依附背柱。",
+          "image": "/images/guides/national-museum-egyptian-civilization/07.jpg",
+          "sourceIds": [
+            "src-nmec-main",
+            "src-commons-media"
+          ],
+          "imageAlt": "主展厅石刻、雕塑与陈列空间，2022年摄。"
+        },
+        {
+          "id": "nmec-textile-material",
+          "nodeId": "nmec-textile",
+          "title": "纺织物：最脆弱的社会档案",
+          "period": "法老时期至晚期传统",
+          "location": "纺织主题",
+          "summary": "纤维、染色和补缀保留服饰、劳动与贸易的信息，其意义不低于石雕。",
+          "whyItMatters": "柔软材料很少能长期保存，因此每一块残片都能补足日常生活史。",
+          "lookFor": "找经纬密度、色线交界与磨损；避免把现代复原色当原状。",
+          "image": "/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "sourceIds": [
+            "src-nmec",
+            "src-commons-media"
+          ],
+          "imageAlt": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。"
+        },
+        {
+          "id": "nmec-coptic",
+          "nodeId": "nmec-textile",
+          "title": "科普特织物：图像在衣料上迁徙",
+          "period": "晚期古代",
+          "location": "纺织主题",
+          "summary": "圆章、人物和植物纹样把地中海图像传统带入衣饰与室内织物。",
+          "whyItMatters": "它把宗教、身份和跨文化交流放回可穿戴的日常媒介。",
+          "lookFor": "留意图像边框怎样适应织物结构，以及不同色线的层次。",
+          "image": "/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "sourceIds": [
+            "src-nmec",
+            "src-commons-media"
+          ],
+          "imageAlt": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。"
+        },
+        {
+          "id": "nmec-islamic-textile",
+          "nodeId": "nmec-textile",
+          "title": "伊斯兰纺织：书写成为建筑尺度",
+          "period": "伊斯兰时期",
+          "location": "纺织与宗教工艺线索",
+          "summary": "大型帷幕与带状书写把纺织技术、赞助制度和宗教空间联结起来。",
+          "whyItMatters": "书法不仅是可读文字，也是控制尺度、节奏与观看距离的设计。",
+          "lookFor": "先远看文字带的整体节奏，再近看针脚、金属线和修补。",
+          "image": "/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "sourceIds": [
+            "src-nmec",
+            "src-commons-media"
+          ],
+          "imageAlt": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。"
+        },
+        {
+          "id": "nmec-mummies-parade",
+          "nodeId": "nmec-mummies",
+          "title": "从迁藏到新叙事",
+          "period": "2021 年迁藏 / 古代遗存",
+          "location": "皇家木乃伊展厅前置语境",
+          "summary": "皇家木乃伊迁入 NMEC 的事件本身，改变了公众观看这些遗存的仪式与媒介环境。",
+          "whyItMatters": "现代博物馆并不是中性的容器；运输、保存和展示方式也构成对象的新历史。",
+          "lookFor": "进入展厅前先阅读馆方对保存与展示环境的说明。",
+          "image": "/images/guides/national-museum-egyptian-civilization/04.jpg",
+          "sourceIds": [
+            "src-nmec-mummies",
+            "src-commons-media"
+          ],
+          "imageAlt": "馆内关于代尔巴哈里皇家木乃伊藏所的历史展板，2022年摄；不是皇家木乃伊本体照片。"
+        },
+        {
+          "id": "nmec-mummies",
+          "nodeId": "nmec-mummies",
+          "title": "皇家木乃伊：先看人，再看王名",
+          "period": "新王国等时期",
+          "location": "皇家木乃伊展厅",
+          "summary": "展陈应同时理解个体身体、木乃伊制作、王室葬祭和现代科学研究。",
+          "whyItMatters": "只把遗存当“名人面孔”会抹去死亡伦理和保存工作的复杂性。",
+          "lookFor": "降低说话音量，先读墓葬迁移与身份判断证据，再观察包裹和保存差异。",
+          "image": "/images/guides/national-museum-egyptian-civilization/04.jpg",
+          "sourceIds": [
+            "src-nmec-mummies",
+            "src-commons-media"
+          ],
+          "imageAlt": "馆内关于代尔巴哈里皇家木乃伊藏所的历史展板，2022年摄；不是皇家木乃伊本体照片。"
+        },
+        {
+          "id": "nmec-fustat",
+          "nodeId": "nmec-dye",
+          "title": "福斯塔特：博物馆之外的城市层",
+          "period": "早期伊斯兰时期至今",
+          "location": "场馆外部与周边",
+          "summary": "博物馆位于福斯塔特历史地景，而不是脱离城市的一座孤立新馆。",
+          "whyItMatters": "场址把古代文明叙事连接到开罗持续生长的城市史。",
+          "lookFor": "从外部辨认场馆、湖面与历史城区的关系，但不要把景观水体误作古代原貌。",
+          "image": "/images/guides/national-museum-egyptian-civilization/01.jpg",
+          "sourceIds": [
+            "src-nmec",
+            "src-commons-media"
+          ],
+          "imageAlt": "博物馆正门与入口广场，2017年。"
+        },
+        {
+          "id": "nmec-living-heritage",
+          "nodeId": "nmec-main",
+          "title": "活态传统：文明仍在生产",
+          "period": "近现代",
+          "location": "主展厅末段",
+          "summary": "工艺、服饰、音乐和日常实践把“文明”从古物转回仍在变化的社会。",
+          "whyItMatters": "它防止参观在法老时代戛然而止，也让古代材料技术与今天形成连续问题。",
+          "lookFor": "找一种延续至今的材料或动作，并比较其用途而非只找外形相似。",
+          "image": "/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "sourceIds": [
+            "src-nmec-main",
+            "src-commons-media"
+          ],
+          "imageAlt": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。"
+        }
+      ],
+      "sequence": [
+        {
+          "nodeId": "nmec-main",
+          "title": "01｜用时间轴搭骨架",
+          "body": "先走主展厅一轮，选择农业、书写、信仰或工艺作为贯穿主题。"
+        },
+        {
+          "nodeId": "nmec-textile",
+          "title": "02｜从硬质纪念物转向材料",
+          "body": "用纺织与工艺观察日常生活、劳动和跨文化交流。"
+        },
+        {
+          "nodeId": "nmec-mummies",
+          "title": "03｜最后进入皇家木乃伊展厅",
+          "body": "保留充足精力，先读人物生平与迁藏经历，再慢慢观察；交谈时保持低声。"
+        },
+        {
+          "nodeId": "nmec-dye",
+          "title": "04｜离馆前回到福斯塔特",
+          "body": "在外部重新理解博物馆与开罗历史地景的关系。"
+        }
+      ],
+      "practical": [
+        "开放时间、临展、摄影和皇家木乃伊展厅规则可能变化；出发前查看 NMEC 官方页面。",
+        "皇家木乃伊展陈涉及人体遗存；遵守现场摄影、音量与停留规则。",
+        "展区关系示意，实际通行以现场指引为准。"
+      ],
+      "sourceIds": [
+        "src-nmec",
+        "src-nmec-main",
+        "src-nmec-mummies",
+        "src-nmec-hall-photo"
+      ],
+      "tags": [
+        "文明通史",
+        "皇家木乃伊",
+        "纺织",
+        "福斯塔特"
+      ],
+      "coverage": {
+        "minHighlights": 10,
+        "requiredGroups": [
+          "arrival-and-building",
+          "civilization-and-materials",
+          "royal-mummies"
+        ],
+        "groups": [
+          {
+            "id": "arrival-and-building",
+            "highlightIds": [
+              "nmec-architecture",
+              "nmec-fustat"
+            ]
+          },
+          {
+            "id": "civilization-and-materials",
+            "highlightIds": [
+              "nmec-prehistory",
+              "nmec-kingship",
+              "nmec-textile-material",
+              "nmec-coptic",
+              "nmec-islamic-textile",
+              "nmec-living-heritage"
+            ]
+          },
+          {
+            "id": "royal-mummies",
+            "highlightIds": [
+              "nmec-mummies-parade",
+              "nmec-mummies"
+            ]
+          }
+        ],
+        "requiredChecks": [
+          "cover",
+          "exteriorContent",
+          "exteriorModel",
+          "interiorContent",
+          "interiorMap",
+          "highlights",
+          "interaction",
+          "offline"
+        ]
+      },
+      "acceptance": {
+        "cover": {
+          "status": "passed",
+          "evidenceIds": [
+            "review-visual"
+          ]
+        },
+        "exteriorContent": {
+          "status": "passed",
+          "evidenceIds": [
+            "review-content"
+          ]
+        },
+        "exteriorModel": {
+          "status": "passed",
+          "evidenceIds": [
+            "review-spatial",
+            "review-visual"
+          ]
+        },
+        "interiorContent": {
+          "status": "passed",
+          "evidenceIds": [
+            "review-content"
+          ]
+        },
+        "interiorMap": {
+          "status": "passed",
+          "evidenceIds": [
+            "review-spatial",
+            "review-visual"
+          ]
+        },
+        "highlights": {
+          "status": "passed",
+          "evidenceIds": [
+            "review-content",
+            "review-visual"
+          ]
+        },
+        "interaction": {
+          "status": "passed",
+          "evidenceIds": [
+            "review-interaction"
+          ]
+        },
+        "offline": {
+          "status": "passed",
+          "evidenceIds": [
+            "review-offline"
+          ]
+        }
+      }
+    }
+  ],
+  "maps": {
+    "overview": {
+      "status": "not-required"
+    },
+    "cities": []
+  },
+  "offline": {
+    "enabled": true,
+    "resumeRequired": true,
+    "precacheRoutes": [
+      "/nmec-cultural-guide/",
+      "/nmec-cultural-guide/guides/",
+      "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/"
+    ],
+    "precacheAssets": [
+      "/nmec-cultural-guide/404.html",
+      "/nmec-cultural-guide/assets/ExteriorMap-DdjSli8d.js",
+      "/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+      "/nmec-cultural-guide/assets/index-CPv8L1aI.js",
+      "/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+      "/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+      "/nmec-cultural-guide/guides/index.html",
+      "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+      "/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+      "/nmec-cultural-guide/images/guides/media-manifest.json",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/01.jpg",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/04.jpg",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/05.jpg",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/06.jpg",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/07.jpg",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/08.jpg",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/09.jpg",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/10.jpg",
+      "/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+      "/nmec-cultural-guide/index.html",
+      "/nmec-cultural-guide/maps/attractions/nmec-floor-plan.png",
+      "/nmec-cultural-guide/sw.js"
+    ]
+  },
+  "verification": {
+    "revision": "nmec-cultural-guide-4572ed600c22fb85",
+    "offlineResumeEvidenceIds": [
+      "review-offline-resume"
+    ],
+    "unit": "passed",
+    "build": "passed",
+    "offlineDeepLink": "passed",
+    "visual": {
+      "desktop": true,
+      "portrait": true,
+      "mobile": true,
+      "allGuides": true,
+      "webglFallback": true
+    },
+    "deployed": "pending"
+  }
+}

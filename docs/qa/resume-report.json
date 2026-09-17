@@ -1,0 +1,385 @@
+{
+  "scenario": "Actual Service Worker network interruption, page reopen, resume and partial release update",
+  "originalRelease": "nmec-cultural-guide-4572ed600c22fb85",
+  "interrupted": [
+    {
+      "key": "nmec-cultural-guide-4572ed600c22fb85",
+      "progress": {
+        "completed": 8,
+        "total": 22,
+        "phase": "downloading",
+        "version": "nmec-cultural-guide-4572ed600c22fb85",
+        "savedAt": "2026-09-17T08:48:59.212Z"
+      },
+      "verified": [
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/404.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/ExteriorMap-DdjSli8d.js",
+          "hash": "0e086c916befa52aca8be2d2b5ea1f3e817953950fb3921e4e9afb1a334b70e1"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+          "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/index-CPv8L1aI.js",
+          "hash": "7799d12d6394d4e612cd2c5161aafeee0227128ab3eb7c41c04e0f5af770f589"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+          "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/guides/index.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+          "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+        }
+      ]
+    }
+  ],
+  "resumed": {
+    "caches": [
+      {
+        "key": "nmec-cultural-guide-4572ed600c22fb85",
+        "progress": {
+          "completed": 22,
+          "total": 22,
+          "phase": "ready",
+          "version": "nmec-cultural-guide-4572ed600c22fb85",
+          "savedAt": "2026-09-17T08:49:00.038Z"
+        },
+        "verified": [
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/404.html",
+            "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/ExteriorMap-DdjSli8d.js",
+            "hash": "0e086c916befa52aca8be2d2b5ea1f3e817953950fb3921e4e9afb1a334b70e1"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+            "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/index-CPv8L1aI.js",
+            "hash": "7799d12d6394d4e612cd2c5161aafeee0227128ab3eb7c41c04e0f5af770f589"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+            "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/guides/index.html",
+            "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+            "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+            "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+            "hash": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/media-manifest.json",
+            "hash": "b4af3ede240284e997b00d87bb7eada515ce470ccc4daa96b76fa0460f3472b9"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/01.jpg",
+            "hash": "81cab31ad22e49e82cc8f61fdd3d2f3b23a059b440890f64b1ff55de719ce405"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/04.jpg",
+            "hash": "bfd1d94356a51e44acd96803211811ad84bdd4c1f5ea89823e88081535e06e1b"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/05.jpg",
+            "hash": "14bfde36ecf6b09a81851b67abc1e9b291d3170c8251fadd99c4bcbf9e211a7f"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/07.jpg",
+            "hash": "0a736c4699024aac0899e8218764a110b453e602d0839c2c9b46c59507a15d28"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/06.jpg",
+            "hash": "4c49511ded82e1540c8cdbe7b90b0b15d3377e807d6af7f98a7678d65ee11a35"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/08.jpg",
+            "hash": "dab781929e69a869a5edf59894298979dd19550f84f5bf38a857ef434ae1f190"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/09.jpg",
+            "hash": "b2008517fb200a75fe9ab391b8e554a9c62e19d35d3a35fe7718fd772e2d0b00"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/index.html",
+            "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/10.jpg",
+            "hash": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+            "hash": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/sw.js",
+            "hash": "7aa626c32ecead4dd33158ee2392e19b1fd02b4066dbf821dff29cfe1719b20e"
+          },
+          {
+            "url": "http://127.0.0.1:64591/nmec-cultural-guide/maps/attractions/nmec-floor-plan.png",
+            "hash": "6cbaaf458028441e917205723289b90bbcfae0d721228a900d518500d5003e32"
+          }
+        ]
+      }
+    ],
+    "requestsSinceReopen": [
+      "index.html",
+      "assets/index-t7V5tAp9.css",
+      "assets/index-CPv8L1aI.js",
+      "images/covers/national-museum-egyptian-civilization.jpg",
+      "images/guides/national-museum-egyptian-civilization/01.jpg",
+      "images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+      "offline-manifest.json",
+      "images/guides/national-museum-egyptian-civilization/05.jpg",
+      "images/guides/national-museum-egyptian-civilization/06.jpg",
+      "images/guides/national-museum-egyptian-civilization/07.jpg",
+      "images/guides/national-museum-egyptian-civilization/08.jpg",
+      "images/guides/national-museum-egyptian-civilization/09.jpg",
+      "images/guides/national-museum-egyptian-civilization/10.jpg",
+      "images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+      "index.html",
+      "maps/attractions/nmec-floor-plan.png",
+      "sw.js"
+    ]
+  },
+  "partialUpdate": [
+    {
+      "key": "nmec-cultural-guide-4572ed600c22fb85",
+      "progress": {
+        "completed": 22,
+        "total": 22,
+        "phase": "ready",
+        "version": "nmec-cultural-guide-4572ed600c22fb85",
+        "savedAt": "2026-09-17T08:49:00.038Z"
+      },
+      "verified": [
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/404.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/ExteriorMap-DdjSli8d.js",
+          "hash": "0e086c916befa52aca8be2d2b5ea1f3e817953950fb3921e4e9afb1a334b70e1"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+          "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/index-CPv8L1aI.js",
+          "hash": "7799d12d6394d4e612cd2c5161aafeee0227128ab3eb7c41c04e0f5af770f589"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+          "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/guides/index.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+          "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+          "hash": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/media-manifest.json",
+          "hash": "b4af3ede240284e997b00d87bb7eada515ce470ccc4daa96b76fa0460f3472b9"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/01.jpg",
+          "hash": "81cab31ad22e49e82cc8f61fdd3d2f3b23a059b440890f64b1ff55de719ce405"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/04.jpg",
+          "hash": "bfd1d94356a51e44acd96803211811ad84bdd4c1f5ea89823e88081535e06e1b"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/05.jpg",
+          "hash": "14bfde36ecf6b09a81851b67abc1e9b291d3170c8251fadd99c4bcbf9e211a7f"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/07.jpg",
+          "hash": "0a736c4699024aac0899e8218764a110b453e602d0839c2c9b46c59507a15d28"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/06.jpg",
+          "hash": "4c49511ded82e1540c8cdbe7b90b0b15d3377e807d6af7f98a7678d65ee11a35"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/08.jpg",
+          "hash": "dab781929e69a869a5edf59894298979dd19550f84f5bf38a857ef434ae1f190"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/09.jpg",
+          "hash": "b2008517fb200a75fe9ab391b8e554a9c62e19d35d3a35fe7718fd772e2d0b00"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/index.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "hash": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "hash": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/sw.js",
+          "hash": "7aa626c32ecead4dd33158ee2392e19b1fd02b4066dbf821dff29cfe1719b20e"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/maps/attractions/nmec-floor-plan.png",
+          "hash": "6cbaaf458028441e917205723289b90bbcfae0d721228a900d518500d5003e32"
+        }
+      ]
+    },
+    {
+      "key": "nmec-cultural-guide-abcdef1234567890",
+      "progress": null,
+      "verified": []
+    }
+  ],
+  "oldReleaseOffline": true,
+  "final": [
+    {
+      "key": "nmec-cultural-guide-abcdef1234567890",
+      "progress": {
+        "completed": 22,
+        "total": 22,
+        "phase": "ready",
+        "version": "nmec-cultural-guide-abcdef1234567890",
+        "savedAt": "2026-09-17T08:49:03.253Z"
+      },
+      "verified": [
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/404.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/ExteriorMap-DdjSli8d.js",
+          "hash": "0e086c916befa52aca8be2d2b5ea1f3e817953950fb3921e4e9afb1a334b70e1"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+          "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/index-CPv8L1aI.js",
+          "hash": "7799d12d6394d4e612cd2c5161aafeee0227128ab3eb7c41c04e0f5af770f589"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+          "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/guides/index.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+          "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+          "hash": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/media-manifest.json",
+          "hash": "b4af3ede240284e997b00d87bb7eada515ce470ccc4daa96b76fa0460f3472b9"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/01.jpg",
+          "hash": "81cab31ad22e49e82cc8f61fdd3d2f3b23a059b440890f64b1ff55de719ce405"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/04.jpg",
+          "hash": "bfd1d94356a51e44acd96803211811ad84bdd4c1f5ea89823e88081535e06e1b"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/05.jpg",
+          "hash": "14bfde36ecf6b09a81851b67abc1e9b291d3170c8251fadd99c4bcbf9e211a7f"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/06.jpg",
+          "hash": "4c49511ded82e1540c8cdbe7b90b0b15d3377e807d6af7f98a7678d65ee11a35"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/07.jpg",
+          "hash": "0a736c4699024aac0899e8218764a110b453e602d0839c2c9b46c59507a15d28"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/08.jpg",
+          "hash": "dab781929e69a869a5edf59894298979dd19550f84f5bf38a857ef434ae1f190"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/index.html",
+          "hash": "4fb743f50abc87815ec5743fe9dd7c4b3eb06233209d1058348c257a8c66c9ba"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/09.jpg",
+          "hash": "b2008517fb200a75fe9ab391b8e554a9c62e19d35d3a35fe7718fd772e2d0b00"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "hash": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "hash": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/sw.js",
+          "hash": "a0c930c0135046e149df8015f21669e2770b5b1df785145c747abd0600b90a8b"
+        },
+        {
+          "url": "http://127.0.0.1:64591/nmec-cultural-guide/maps/attractions/nmec-floor-plan.png",
+          "hash": "6cbaaf458028441e917205723289b90bbcfae0d721228a900d518500d5003e32"
+        }
+      ]
+    }
+  ],
+  "unrelatedCachePreserved": true,
+  "passed": true
+}

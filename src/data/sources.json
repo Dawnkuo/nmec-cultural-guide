@@ -1,0 +1,143 @@
+[
+  {
+    "id": "src-nmec-hall-photo",
+    "title": "NMEC-MainHall.jpg — exhibition interior, 2017",
+    "publisher": "Roland Unger / Wikimedia Commons",
+    "authority": "media-repository",
+    "url": "https://commons.wikimedia.org/wiki/File:NMEC-MainHall.jpg",
+    "verifiedAt": "2026-09-17",
+    "scopes": [
+      "nmec-historical-hall-photograph"
+    ],
+    "note": "CC BY-SA 4.0. Visually checked glass display cases and high ceiling, not a tourism sign. Historical interior photograph; not the 2026 exhibition arrangement. Provenance: /images/guides/nmec-reviewed-media.json."
+  },
+  {
+    "id": "src-nmec-exterior-plan-2023",
+    "title": "Investigating the Socio-Economic Sustainability within the Egyptian Museums over the Last Decade — Fig.4(a–e)",
+    "publisher": "Sustainability 2023, 15, 16746",
+    "authority": "authoritative",
+    "url": "https://www.mdpi.com/2071-1050/15/24/16746",
+    "verifiedAt": "2026-09-17",
+    "scopes": [
+      "nmec-integrated-exterior-plan",
+      "nmec-arrival-building"
+    ],
+    "note": "PDF pp12–13 visually reviewed. Fig.4(b) orthographic integrated plan preserves relative rotation; Fig.4(a) is a maquette/birdseye image, not a current survey. Reference numbering is inconsistent: drawings credited in reference40 to Keseeba 2007, caption cites41. No claim of 2026 as-built metric geometry."
+  },
+  {
+    "id": "src-nmec-architect-plan-2024",
+    "title": "The role of historical architectural scale models in Egyptian Museums — Fig.17",
+    "publisher": "Osama Abdelhady Aboelyazed Khalifa / CPAS",
+    "authority": "authoritative",
+    "url": "https://publication-cpas-egypt.com/wp-content/uploads/2025/01/007.pdf",
+    "verifiedAt": "2026-09-17",
+    "scopes": [
+      "nmec-exhibition-building-outline",
+      "nmec-central-structure"
+    ],
+    "note": "PDF p15 Fig.17 visually reviewed; plan explicitly credited to architect Al-Ghazali Kesseiba. Uniform scale into integrated exterior coordinates; no current exhibit assignment inferred."
+  },
+  {
+    "id": "src-nmec-model-photo",
+    "title": "NMEC-Model.jpg — museum architectural maquette",
+    "publisher": "Roland Unger / Wikimedia Commons",
+    "authority": "authoritative",
+    "url": "https://commons.wikimedia.org/wiki/File:NMEC-Model.jpg",
+    "verifiedAt": "2026-09-17",
+    "scopes": [
+      "nmec-roof-hierarchy",
+      "nmec-exterior-component-relationships"
+    ],
+    "note": "2017 photograph, CC BY-SA4.0. Inspected as a historic building model, NOT a photograph of the actual building or source of measured heights. Current entrance and museum facade photographs checked separately."
+  },
+  {
+    "id": "src-nmec-pavilion-section",
+    "title": "NMEC Top Panorama — 3D corner section, 2019",
+    "publisher": "Mahmoud Hussain, architectural modeling and drawings",
+    "authority": "authoritative",
+    "url": "https://www.behance.net/gallery/116304541/NMEC-Top-Panorama-(Capital-Museum)",
+    "verifiedAt": "2026-09-17",
+    "scopes": [
+      "nmec-pavilion-pyramid",
+      "nmec-pavilion-inverted-glass-base",
+      "nmec-pavilion-piers"
+    ],
+    "note": "Author credits architect Ghazali Kesseiba and exhibit designer Arata Isozaki; section visually inspected for pavilion structure. Private research reference, original image not published in the site."
+  },
+  {
+    "id": "src-nmec-facade-photo",
+    "title": "NMEC-MainEntrance.jpg — actual main entrance",
+    "publisher": "Roland Unger / Wikimedia Commons",
+    "authority": "authoritative",
+    "url": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+    "verifiedAt": "2026-09-17",
+    "scopes": [
+      "nmec-entrance-portico",
+      "nmec-as-built-pavilion-silhouette"
+    ],
+    "note": "2017-03-05, CC BY-SA4.0. Actual facade/4 stone entrance piers/glazing inspected; canonical cover asset includes attribution and license provenance. Not a floor-plan source."
+  },
+  {
+    "id": "src-nmec",
+    "title": "National Museum of Egyptian Civilization",
+    "publisher": "NMEC",
+    "authority": "official-primary",
+    "url": "https://nmec.gov.eg/new-home/",
+    "verifiedAt": "2026-09-16",
+    "scopes": [
+      "nmec-identity",
+      "visitor-information",
+      "collections"
+    ]
+  },
+  {
+    "id": "src-nmec-main",
+    "title": "NMEC Main Gallery",
+    "publisher": "NMEC",
+    "authority": "official-primary",
+    "url": "https://nmec.gov.eg/main-gallery/",
+    "verifiedAt": "2026-09-16",
+    "scopes": [
+      "nmec-main-gallery",
+      "chronology",
+      "themes"
+    ]
+  },
+  {
+    "id": "src-nmec-mummies",
+    "title": "NMEC Royal Mummies Hall",
+    "publisher": "NMEC",
+    "authority": "official-primary",
+    "url": "https://nmec.gov.eg/mummies-hall/",
+    "verifiedAt": "2026-09-17",
+    "scopes": [
+      "royal-mummies",
+      "display-ethics"
+    ],
+    "note": "官方页面列出哈特谢普苏特、图特摩斯三世等人物，并说明展厅借鉴帝王谷墓葬氛围。此前核对记录中的男女数量拆分差异保留在来源层；游客入门卡不以数量或核对过程代替参观看点。"
+  },
+  {
+    "id": "src-nmec-plan-study",
+    "title": "Sustainability Assessment of the National Museum of Egyptian Civilization (NMEC): Environmental, Social, Economic, and Cultural Analysis — Figure 5",
+    "publisher": "Aboulnaga, Puma, Eletrby, Bayomi & Farid / Sustainability 14(20), 13080 (2022), CC BY 4.0",
+    "authority": "authoritative",
+    "url": "https://www.mdpi.com/2071-1050/14/20/13080",
+    "verifiedAt": "2026-09-16",
+    "scopes": [
+      "nmec-main-hall-plan",
+      "nmec-mummies-hall-plan"
+    ]
+  },
+  {
+    "id": "src-commons-media",
+    "title": "Local guide media manifest",
+    "publisher": "Wikimedia Commons contributors",
+    "authority": "media-repository",
+    "url": "https://commons.wikimedia.org/",
+    "verifiedAt": "2026-09-16",
+    "scopes": [
+      "guide-media"
+    ],
+    "note": "逐图文件名、作者、许可证与原始页面见本地 /images/guides/media-manifest.json。"
+  }
+]
