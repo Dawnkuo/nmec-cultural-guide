@@ -692,6 +692,6 @@
       "allGuides": true,
       "webglFallback": true
     },
-    "deployed": "pending"
+    "deployed": "passed"
   }
 }
