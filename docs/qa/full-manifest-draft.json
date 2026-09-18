@@ -1,0 +1,300 @@
+{
+  "manifest": "guide-build-manifest.json",
+  "mode": "scheduled-journey",
+  "counts": {
+    "days": 12,
+    "items": 38,
+    "guides": 14,
+    "localAssets": 116
+  },
+  "draft": true,
+  "stage": "draft",
+  "target": "deployed",
+  "evidenceFilesChecked": true,
+  "acceptancePassed": false,
+  "fullCoverage": false,
+  "reducedChecks": [],
+  "errors": [],
+  "warnings": [
+    {
+      "path": "guides[0].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[0].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[0].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[0].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[0].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[1].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[1].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[1].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[1].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[1].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[2].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[2].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[2].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[2].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[2].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[3].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[3].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[3].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[3].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[3].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[4].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[4].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[4].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[4].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[4].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[5].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[5].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[5].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[5].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[5].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[6].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[6].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[6].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[6].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[6].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[7].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[7].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[7].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[7].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[7].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[8].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[8].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[8].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[8].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[8].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[9].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[9].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[9].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[9].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[9].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[10].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[10].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[10].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[10].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[10].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[11].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[11].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[11].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[11].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[11].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[12].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[12].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[12].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[12].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[12].acceptance.highlights",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[13].acceptance.exteriorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[13].acceptance.exteriorModel",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[13].acceptance.interiorContent",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[13].acceptance.interiorMap",
+      "message": "has not passed review"
+    },
+    {
+      "path": "guides[13].acceptance.highlights",
+      "message": "has not passed review"
+    }
+  ]
+}

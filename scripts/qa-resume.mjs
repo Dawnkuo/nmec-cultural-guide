@@ -17,10 +17,16 @@ await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));const url=`http
 const browser=await chromium.launch({channel:'chrome',headless:true});const context=await browser.newContext();
 const report={scenario:'Actual Service Worker network interruption, page reopen, resume and partial release update',originalRelease:originalManifest.release};
 const snapshot=page=>page.evaluate(async()=>{const values=[];for(const key of await caches.keys()){if(!key.startsWith('nmec-cultural-guide-'))continue;const cache=await caches.open(key);const entries=await cache.keys();const checkpoint=entries.find(r=>r.url.endsWith('/__offline-progress'));values.push({key,progress:checkpoint?await(await cache.match(checkpoint)).json():null,verified:(await Promise.all(entries.map(async r=>({url:r.url,hash:(await cache.match(r)).headers.get('X-Offline-Sha256')})))).filter(x=>x.hash)});}return values;});
+// Poll resolved snapshots from Node. The browser-side asynchronous predicate
+// could return before its CacheStorage reads settled in this Chrome build.
+async function failedCheckpoint(page,key){
+ const deadline=Date.now()+30000;
+ while(Date.now()<deadline){const values=await snapshot(page);if(values.some(v=>v.key===key&&v.progress?.phase==='failed'))return values;await page.waitForTimeout(100);}
+ throw new Error('No persisted failed checkpoint: '+JSON.stringify(await snapshot(page)));
+}
 try{
  let page=await context.newPage();await page.goto(url);
- await page.waitForFunction(async()=>{for(const name of await caches.keys()){const c=await caches.open(name);const r=await c.match(location.pathname+'__offline-progress');if(r&&(await r.json()).phase==='failed')return true;}return false;},{},{timeout:30000});
- const partial=(await snapshot(page)).filter(v=>v.progress);assert.ok(partial.length,JSON.stringify(await snapshot(page)));assert.ok(partial[0].progress.completed>0&&partial[0].progress.completed<partial[0].progress.total);report.interrupted=partial;
+ const partial=(await failedCheckpoint(page,originalManifest.release)).filter(v=>v.progress);assert.ok(partial.length);assert.equal(partial[0].progress.phase,'failed');assert.ok(partial[0].progress.completed>0&&partial[0].progress.completed<partial[0].progress.total);report.interrupted=partial;
  await page.close();block=false;const before=requests.length;page=await context.newPage();await page.goto(url,{waitUntil:'networkidle'});await page.locator('.offline-trigger').click();
  const initialResume=page.getByRole('button',{name:/^(继续下载|下载离线包)$/});if(await initialResume.isVisible()&&await initialResume.isEnabled())await initialResume.click();
  await page.waitForFunction(()=>document.querySelector('.offline-trigger')?.textContent.includes('已缓存'));
@@ -29,8 +35,7 @@ try{
  // Install a different SW release while one resource fails. The old complete
  // release must remain usable, and verified resources survive a page reopen.
  update=true;block=true;await page.evaluate(async()=>{const r=await navigator.serviceWorker.ready;await r.update();});
- await page.waitForFunction(async()=>{const c=await caches.open('nmec-cultural-guide-abcdef1234567890');const r=await c.match(new URL('__offline-progress',location.href).pathname);return r&&(await r.json()).phase==='failed';},{},{timeout:30000});
- const partialUpdate=await snapshot(page);assert.ok(partialUpdate.some(v=>v.key===originalManifest.release&&v.progress.phase==='ready'));report.partialUpdate=partialUpdate;
+ const partialUpdate=await failedCheckpoint(page,'nmec-cultural-guide-abcdef1234567890');assert.ok(partialUpdate.some(v=>v.key===originalManifest.release&&v.progress.phase==='ready'));report.partialUpdate=partialUpdate;
  await context.setOffline(true);await page.goto(url+'guides/national-museum-egyptian-civilization/',{waitUntil:'networkidle'});assert.match(await page.locator('h1').innerText(),/埃及国家文明博物馆/);assert.equal(await page.locator('.architecture-plan').getAttribute('data-active-floor'),'nmec-arrival');report.oldReleaseOffline=true;
  block=false;await context.setOffline(false);await page.reload({waitUntil:'networkidle'});await page.locator('.offline-trigger').click();const resumeButton=page.getByRole('button',{name:/^(继续下载|下载离线包)$/});if(await resumeButton.isVisible()&&await resumeButton.isEnabled())await resumeButton.click();
  try{await page.waitForFunction(()=>document.querySelector('.offline-trigger')?.textContent.includes('已缓存'),{},{timeout:5000});}catch(error){console.log('final diagnostic',await page.locator('.offline-widget').innerText(),JSON.stringify((await snapshot(page)).map(v=>({key:v.key,progress:v.progress,count:v.verified.length}))));throw error;}

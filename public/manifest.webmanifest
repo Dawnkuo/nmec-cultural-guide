@@ -1,0 +1,10 @@
+{
+  "name": "埃及纪行 2026",
+  "short_name": "埃及纪行",
+  "start_url": "/nmec-cultural-guide/",
+  "display": "standalone",
+  "background_color": "#06111e",
+  "theme_color": "#0a192a",
+  "lang": "zh-CN",
+  "scope": "/nmec-cultural-guide/"
+}

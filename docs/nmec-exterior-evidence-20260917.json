@@ -1,0 +1,41 @@
+{
+  "model": "nmec-exterior-complete",
+  "version": "2026-09-17-nmec-structure-2",
+  "reviewedAt": "2026-09-17",
+  "claimNamespace": "nmec-claim/{featureId}/{partId}",
+  "precision": "Derived proportional architectural interpretation. Not measured/as-built, photogrammetry or navigation.",
+  "sourceRegister": "src/data/sources.ts",
+  "registration": {
+    "integratedPlan": "Sustainability 2023 Fig.4(b), extracted 314x490 image; main building corners (26,7) (299,7) (299,280) (26,280)",
+    "detailedPlan": "CPAS Fig.17 p15, extracted 770x717 image, architect Kesseiba; main corners (86,31) (714,31) (714,659) (86,659)",
+    "transform": "x=26+(u-86)*273/628; z=7+(v-31)*273/628",
+    "method": "Manual pixel landmark identification; same scale in both axes, no photo perspective tracing",
+    "residual": "Outer corners coincide by construction; central (235,270) maps (90.77,110.90), approximately (90,109) in the lower-resolution integrated plan. About 2 source pixels; not survey accuracy.",
+    "entrance": "Main Entrance label at SOUTH recess of Fig.4(c), rotated in Fig.4(b). Door edge (153,439) to (203,426), outward normal approximately (0.252,0.968). Eastern Snack Bar terrace is NOT the main entrance.",
+    "heights": "All heights and glazing/roof thicknesses are display proportions from silhouette references. No measured height claim. Step count and window/glazing rhythm are schematic, not a census."
+  },
+  "claims": {
+    "nmec-pyramid": {"status":"derived","sources":["src-nmec-architect-plan-2024","src-nmec-pavilion-section","src-nmec-facade-photo"],"supports":"Position at central four-pier structure, four stone piers, inverted lower glass bowl, drum, four-sided pyramid roof","unknown":"Exact elevation, pane sizes/counts, construction joints"},
+    "nmec-wings": {"status":"derived","sources":["src-nmec-exterior-plan-2023","src-nmec-architect-plan-2024","src-nmec-model-photo"],"supports":"Square perimeter gallery ring, inner setback, principal segmented roof masses and lower window band","unknown":"Measured elevations, individual window positions/count, current roof equipment"},
+    "nmec-core": {"status":"derived","sources":["src-nmec-architect-plan-2024","src-nmec-model-photo"],"supports":"Central core outline and lower/intermediate roof hierarchy","unknown":"Roof access, current exhibits, detailed services"},
+    "nmec-link-shell": {"status":"derived","sources":["src-nmec-exterior-plan-2023","src-nmec-model-photo"],"supports":"Oblique connection between separate buildings and arched cover","unknown":"Exact arch radius, current use permissions"},
+    "nmec-arrival-shell": {"status":"derived","sources":["src-nmec-exterior-plan-2023","src-nmec-model-photo","src-nmec-facade-photo"],"supports":"Rotated entry-building boundary, setback at main entrance and stepped principal roofs","unknown":"Current internal partitions and service roofs"},
+    "nmec-entry-portico": {"status":"derived","sources":["src-nmec-exterior-plan-2023","src-nmec-facade-photo"],"supports":"Main entrance in south recess, four front stone piers, lintel and recessed doors","unknown":"Exact pier sizes, lintel elevation, step count/height"},
+    "nmec-theatre-shell": {"status":"derived","sources":["src-nmec-exterior-plan-2023","src-nmec-model-photo"],"supports":"Auditorium side wing separated from the entrance recess","unknown":"Roof truss and current public access"}
+  },
+  "files": [
+    {"file":"spatial-sources/nmec-socio-2023.pdf","sha256":"75871cde3864216543bfe89ec6e0e95e3e965acaaf9addb14b515fe71e088be4","reviewed":"PDF pp12–13 Fig.4; model image is a maquette, not an aerial survey"},
+    {"file":"spatial-sources/nmec-architectural-models-2024.pdf","sha256":"5ca5caafdee5d332b3bc889c8939a940ade86f5057e4c572a6598896fa5cd319","reviewed":"PDF p15 Fig.17; explicit architect plan credit"},
+    {"file":"spatial-sources/nmec-physical-model.jpg","sha256":"4b5e4c1464a7a93bed34d95eb3b5a1abc0016cc4fd415028f7d3a45a691e9a25","reviewed":"Historic 2017 maquette photograph; Roland Unger, CC BY-SA 4.0"},
+    {"file":"spatial-sources/nmec-panorama-section-2019.jpg","sha256":"60d00b4acde3b776895ab545fc15857924b439659022c3601fd2a2b9fdeb2595","reviewed":"Author's 2019 pavilion cutaway, local research only; not redistributed in site"},
+    {"file":"spatial-sources/nmec-h04.webp","sha256":"f487c62acf45a5861904c41de93df3129756b348a3169e61b3352080d750001d","reviewed":"Museum facade photo; actual pavilion silhouette and material cross-check"}
+  ],
+  "rejectedInputs": [
+    "Old isolated flat extrusions of the indoor research boundary",
+    "OSM outer site polygon used as if it were a building footprint",
+    "Historic maquette used as if it were an as-built facade photo",
+    "research/spatial-sources/nmec-sustainability.pdf: saved anti-bot response, not accepted as a verified PDF source",
+    "TurboSquid 2565253: commercial result, no acquired licensed mesh; not downloaded or used"
+  ],
+  "deliveryLimits": "Major public buildings only. No landscaping, hidden underground geometry, current visitor navigation or full physical reconstruction. Original reference PDF/section image kept in research, not public assets. No deployment."
+}

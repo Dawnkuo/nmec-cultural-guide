@@ -1,0 +1,30 @@
+import { drawing, rect, strip } from './drawing';
+import type { RoomSpec } from './drawing';
+const rooms:RoomSpec[]=[
+ ['abu-entrance','立面中央门道',rect(185,366,23,43),[197,386],'大神庙立面的中央入口，处在四尊巨像之间；先从外侧比较巨像与门的比例，再进入岩凿柱厅。','abu-great','passage'],
+ ['abu-first-hall','F · 八柱大厅',[[142,228],[252,228],[260,365],[135,365],[136,292]],[197,292],'两列各四座奥西里斯式柱像共同组织大厅。看立像的正面性与两侧叙事浮雕；这里不是露天庭院，而是深入岩体的第一重厅室。','abu-axis'],
+ ['abu-second-hall','E · 四柱厅',[[158,138],[235,138],[244,157],[244,200],[210,200],[210,217],[185,217],[185,200],[152,200],[152,146]],[197,173],'四根柱支撑第二重厅室；比第一厅更小、更深，继续收紧朝至圣所的中轴。'],
+ ['abu-vestibule','B · 横向前室',[[153,101],[243,101],[243,130],[235,130],[235,123],[209,123],[209,136],[185,136],[185,123],[169,123],[169,130],[153,130]],[197,113],'中轴上的横向过渡空间，三处后室分别开向这里。不要把三间后室都当成同一个圣所。'],
+ ['abu-sanctuary-space','A · 至圣所',rect(183,35,31,58),[198,72],'大神庙最深的中室，背壁四尊神圣坐像。阳光深入的现象发生在特定日期，普通日参观仍可理解层层门洞共同构成的光线轴线。','abu-sanctuary','sanctuary'],
+ ['abu-room-c','C · 圣所旁室',rect(155,74,18,23),[164,85],'历史图标C的独立旁室；保留轮廓与字母，不推断当前开放。',undefined,'side-room'],
+ ['abu-room-d','D · 圣所旁室',rect(228,76,16,21),[236,87],'历史图标D的独立旁室；不是四尊坐像所在的中室。',undefined,'side-room'],
+ ['abu-room-g','G · 侧向通道',[[124,165],[139,164],[147,195],[147,222],[133,222]],[135,191],'原图G通向两间狭长侧室。地图表达建筑连接，不意味着参观时允许进入。',undefined,'passage'],
+ ['abu-room-i','I · 侧室',[[14,175],[112,167],[113,185],[16,192]],[65,181],'原图I：向侧边深入岩体的狭长附室。原图没有给出可采用的专名。',undefined,'side-room'],
+ ['abu-room-h','H · 侧室',[[15,201],[115,191],[118,212],[17,222]],[65,208],'原图H：与I并排的附室，分别保留入口及轮廓。',undefined,'side-room'],
+ ['abu-room-k','K · 侧向通道',[[258,158],[279,162],[266,226],[247,226]],[264,191],'原图K组织另一侧附室；两组附室并不镜像对称，模型保留差异。',undefined,'passage'],
+ ['abu-room-l','L · 侧室',[[288,163],[374,168],[374,188],[282,185]],[330,178],'原图L，可辨认的狭长侧室。',undefined,'side-room'],
+ ['abu-room-m','M · 侧室',[[278,198],[373,202],[373,226],[274,220]],[326,210],'原图M；与L分开而非合并为一块。',undefined,'side-room'],
+ ['abu-room-n','N · 深长侧室',[[273,235],[360,235],[377,241],[386,251],[385,261],[376,268],[271,264]],[329,251],'原图N具有不规则末端；保留实际图形，不强行方正化。',undefined,'side-room'],
+ ['abu-room-o','O · 侧室',[[272,278],[368,279],[369,303],[270,299]],[320,290],'原图O；是否开放需看现场围挡。',undefined,'side-room'],
+];
+export const abuGreat=drawing({id:'abu-great-ground',source:{id:'src-abu-plan',asset:'/maps/attractions/abu-simbel-plan.png',sha256:'9ae53351cd99ae70d5769eb44d055f1c7ad6875e5ddf8b7f31f6c4758152abd4',width:399,height:560,projection:'orthographic',review:'Inspected historical rock-cut plan, original letters A–O retained; grey rock is not extruded as a room. Plan depicts Great Temple, not Small Temple or relocated artificial hills.'},drawingWidth:399,floor:'大神庙 · 岩凿内部',bounds:[7,27,382,389],entry:'abu-entrance',entryBasis:'Source central facade doorway leads directly to eight-pillar hall F; historical temple entrance, not ticket gate.',rooms,walls:[strip([133,224],[130,365],5),strip([130,367],[185,367],5),strip([210,367],[264,367],5),strip([265,365],[257,223],5),strip([141,224],[179,224],6),strip([214,224],[251,224],6),strip([147,199],[148,137],5),strip([245,201],[246,135],5),strip([153,133],[176,133],5),strip([219,133],[245,133],5),strip([150,99],[179,99],5),strip([218,99],[247,99],5),strip([178,99],[178,31],5),strip([217,97],[217,31],5),strip([182,30],[214,30],5),strip([153,72],[176,72],4),strip([229,74],[246,74],4),strip([151,74],[151,94],4),strip([248,77],[248,96],4),strip([9,170],[120,161],4),strip([9,196],[119,185],4),strip([10,226],[125,214],4),strip([282,158],[379,163],4),strip([277,191],[377,195],4),strip([273,226],[374,231],4),strip([266,272],[374,274],4),strip([267,306],[371,308],4)],columns:[],labels:rooms.map(r=>[r[1].match(/^[A-Z]/)?.[0]??'入口',r[3],r[0]]),limitations:['本分图为大神庙历史平面；小神庙独立制作，不能由此镜像复制。','柱像按原图方形柱基单独建模；不是套用圆柱，也不把整块山体假装成建筑墙。','历史侧室保留，但不承诺当日游客可进入。']});
+for(const [i,[x,y]] of [[153,238],[223,238],[153,267],[223,267],[153,298],[223,298],[153,327],[223,327],[174,150],[216,150],[174,174],[216,174]].entries())abuGreat.walls.push({id:`abu-square-pier-${i}`,polygon:rect(x,y,13,17),evidenceId:'abu-great-ground-plate'});
+export const abuSmall=drawing({id:'abu-small-ground',source:{id:'src-abu-small-plan',asset:'/maps/attractions/abu-small-plan.png',sha256:'90fa06f23ccf59d499fe06df82d1851e31a437b0c69e29ae6657514c99404365',width:600,height:345,projection:'orthographic',review:'Dieter Arnold, Lexikon der ägyptischen Baukunst (2000), p.10, top-down small temple plan. Separate source and coordinate frame; no copied Great Temple geometry.'},drawingWidth:600,floor:'小神庙 · 六柱厅与圣所',bounds:[123,17,293,281],entry:'abu-small-entry',entryBasis:'Single central doorway between the six facade statues leads to six-pillar hall.',rooms:[
+ ['abu-small-entry','小神庙中央门道',rect(260,230,15,41),[267,250],'中央门道位于六尊立像之间。立面中王后与国王的接近等高，和大神庙四尊坐像形成清晰对比。','abu-small','passage'],
+ ['abu-small-hall','六柱大厅',rect(204,105,127,123),[267,169],'两列各三根方柱；哈托尔形象与妮菲尔塔丽的王室主题相互呼应。柱基按图单独保留，不以大神庙八柱厅替换。'],
+ ['abu-small-vestibule','横向前室',[[205,64],[332,64],[332,93],[278,93],[278,103],[262,103],[262,93],[226,93],[226,103],[205,103]],[267,80],'第一厅之后的横向前室，后墙通往中央圣所，两端另有凹室。'],
+ ['abu-small-sanctuary','中央圣所',[[251,29],[275,27],[281,33],[280,54],[251,54]],[266,42],'进入最深处前看空间如何从六柱厅收紧到一个小室；此处与大神庙太阳照射圣所不是同一地点。',undefined,'sanctuary'],
+ ['abu-small-left','前室侧凹室',[[181,72],[202,70],[203,91],[182,94]],[193,82],'原图可辨认的小型附属凹室；不推定现代用途或开放状态。',undefined,'side-room'],
+ ['abu-small-right','前室另一侧凹室',[[334,65],[355,64],[355,84],[335,85]],[344,76],'与另一端凹室各自保留轮廓，不能与中央圣所合并。',undefined,'side-room'],
+ ],walls:[strip([202,104],[202,229],4),strip([334,103],[334,229],4),strip([202,229],[259,229],4),strip([276,229],[334,229],4),strip([204,62],[257,62],4),strip([274,62],[334,62],4),strip([203,65],[203,101],3),strip([333,65],[333,101],3),strip([224,99],[260,99],4),strip([280,99],[332,99],4),...[[228,126],[293,127],[229,159],[293,159],[229,191],[293,191]].map(([x,y])=>rect(x,y,13,13))],limitations:['图源为小神庙独立平面；与大神庙不共享比例或相对位置。','不按人物图像绘制虚构三维雕像；柱基来自平面，外观与雕刻细节另看实景照片。']});
+export const abuArchitectureLevels=[abuGreat,abuSmall];

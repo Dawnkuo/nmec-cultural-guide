@@ -1,10 +1,7 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import { GuidePage } from './GuidePage';
-import { guide } from './data/guides';
-import { base } from './paths';
+import App from './App';
 import './styles.css';
 import './components/guide-cover.css';
-const relative=location.pathname.slice(base.length).replace(/index\.html$/,'').replace(/\/+$/,'');
-const known=['','guides','guides/national-museum-egyptian-civilization'].includes(relative);
-createRoot(document.getElementById('root')!).render(<StrictMode>{known?<GuidePage guide={guide}/>:<main className="subpage"><section className="not-found"><h1>未找到页面</h1><a href={base}>返回博物馆导览</a></section></main>}</StrictMode>);
+
+createRoot(document.getElementById('root')!).render(<StrictMode><App /></StrictMode>);

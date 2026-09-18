@@ -1,0 +1,9 @@
+import {chromium} from 'playwright';
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import assert from 'node:assert/strict';
+const target=process.argv[2]||'http://127.0.0.1:4181/nmec-cultural-guide/';
+const catalog=JSON.parse(await readFile('artifacts/full/catalog.json','utf8'));
+const browser=await chromium.launch({channel:'chrome',headless:true});const context=await browser.newContext({viewport:{width:390,height:844}});
+await context.addInitScript(()=>{const get=HTMLCanvasElement.prototype.getContext;HTMLCanvasElement.prototype.getContext=function(type,...args){return type.includes('webgl')?null:get.call(this,type,...args);};});
+const page=await context.newPage();const report={scenario:'Simulated WebGL unavailability, not a real hardware failure',release:JSON.parse(await readFile('dist/offline-manifest.json','utf8')).release,guides:[]};
+try{for(const guide of catalog.guides){await page.goto(target+'guides/'+guide.slug+'/',{waitUntil:'networkidle'});const first=await page.locator('#spatial').getAttribute('data-active-place');await page.getByRole('button',{name:'3D 剖切',exact:true}).click();await page.getByText('3D 暂时无法显示，已保留所选地点并切回同模型 2D。',{exact:true}).waitFor();assert.equal(await page.locator('#spatial').getAttribute('data-active-place'),first);await page.locator('.architecture-plan').waitFor();await page.getByRole('button',{name:'建筑外观',exact:true}).click();await page.getByText('3D 无法显示，已切回同一模型的 2D 外观俯视；所选对象保留。',{exact:true}).waitFor();await page.locator('.architecture-plan').waitFor();report.guides.push({slug:guide.slug,interior:true,exterior:true});}report.passed=true;await mkdir('artifacts/full',{recursive:true});await writeFile('artifacts/full/fallback-report.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));}finally{await browser.close();}

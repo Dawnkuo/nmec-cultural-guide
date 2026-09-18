@@ -1,0 +1,3480 @@
+{
+  "scenario": "Actual Service Worker network interruption, page reopen, resume and partial release update",
+  "originalRelease": "nmec-cultural-guide-fffb43b1c37b46df",
+  "interrupted": [
+    {
+      "key": "nmec-cultural-guide-fffb43b1c37b46df",
+      "progress": {
+        "completed": 91,
+        "total": 213,
+        "phase": "failed",
+        "version": "nmec-cultural-guide-fffb43b1c37b46df",
+        "error": "/nmec-cultural-guide/images/guides/grand-egyptian-museum/08.jpg (503)",
+        "savedAt": "2026-09-18T07:14:49.053Z"
+      },
+      "verified": [
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/404.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/ExteriorMap-D_R7KhHV.js",
+          "hash": "da58b12824a84ba21c52972c22aaa7821c83e10a8d400eec80bbaf6735d30639"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+          "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-BssiyKwB.js",
+          "hash": "384937be870c727ecbd70494722420627402d534cd75296bc9201521d451995a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/bookings/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+          "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+          "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/aswan-nubia/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/cairo-giza/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/hurghada-red-sea/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/luxor-thebes/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/cairo-citadel/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/abu-simbel/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/colossi-of-memnon/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/edfu-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/giza-plateau/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/grand-egyptian-museum/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/hatshepsut-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/karnak/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/khan-el-khalili/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/kom-ombo/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/luxor-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/orange-bay/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/valley-of-the-kings/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/abu-simbel.jpg",
+          "hash": "af63117b1b70a4243da2deab8e8b50f382d2968d98dea3a73dffd1de66d85c40"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/colossi-of-memnon.jpg",
+          "hash": "024fb1eeec318190af79326469be870dfa3c24325aa9576c29a559bb9647df55"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/edfu-temple.jpg",
+          "hash": "61aa69d5f486a45ed40500c9e35a53199844db808e5ae119c0f3011ce642c0f1"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/cairo-citadel.jpg",
+          "hash": "4e94a09333ba4bd0c21caf7b42cd693f6af60a61fcfefc4de763b0103a3822f6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/grand-egyptian-museum.jpg",
+          "hash": "4cd49b677ac516ea05f9d9de8c79f1b0469e047e4628d9202035b4f46a9703c5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/giza-plateau.jpg",
+          "hash": "08baf546a280b132dbe958642f368bd53112ce3828eff693cac0aee87944b3a0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/hatshepsut-temple.jpg",
+          "hash": "91e348cb357a54e33fe634c7cf6ad61f83acd828c57442362b7e8039f6dffb95"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/karnak.jpg",
+          "hash": "46f6e328c6959f109d3d3bc5b8c13a10cdde5f571d7caa42769b1ae3e57a7560"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/kom-ombo.jpg",
+          "hash": "a265907f1edf77e0e3ad7db7752c5beddff002b2426e6b8b4091c4943d98b97a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+          "hash": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/luxor-temple.jpg",
+          "hash": "2ce9660ad21f1a2bb42a531354d1c3b8aaa599c646d2d965f9d689d1c183cee4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/khan-el-khalili.jpg",
+          "hash": "26e8bdcc5384859860840d53f8e4973d9c3eb450f12dbb486129c32a8b677d76"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/provenance.json",
+          "hash": "951a2d50cd5dbb874fe608c947d48ad0fb3736cc02e5b47736d459bfccd509a2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/ATTRIBUTION.md",
+          "hash": "6ffcb6847fc2b1910bcf8a6862e461a3804b9ef14997cb0c0813815b9c23e979"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/orange-bay.jpg",
+          "hash": "a5abd49f1fade6b92deb974df3826cc93544ccebb9b2bdea3e8477bde076e5dc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/valley-of-the-kings.jpg",
+          "hash": "d4623ac195fe3f84d3dbfd955e854c889489835e85b3952d51fbc6db7c12a39e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/giza-panorama.jpg",
+          "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khufu.jpg",
+          "hash": "292f153f8fe6f0de6b51de80b1fc16183f99fe69c4d227e2b50d59f71b9a8e89"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khafre.jpg",
+          "hash": "def5b399e164dd81980bc67ba175c253e0334f39c05f11df521e433758a2294a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/menkaure.jpg",
+          "hash": "8d067118e19de9e24e2d95904317f8e6c32773f5fcc3ea01e5159a9613be6f42"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/ATTRIBUTION.md",
+          "hash": "f22ab8d3200de548b69b2bec583a7f53dd5068539bbec04e0f13011afdb7a0f4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/valley-temple.jpg",
+          "hash": "9784b4e350728232a693e69ec9819d7f55aad31776c70281e0b38d05f828016e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/sphinx.jpg",
+          "hash": "c1df71cd964d5f0fb929006bf6c6bb9c74d022b7ad76a39fa411d81c3dfb8750"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/01.jpg",
+          "hash": "52d98f51b1af2771c380fdd9adbf7219fbfa399f89a076bdf7faf941a870b449"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/03.jpg",
+          "hash": "1cf0a6e03ff562a5ea801cc8de5a6ce799c6ddb79b25b468a1aa7dfaf56ec514"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/02.jpg",
+          "hash": "74cd3793b6c7ee304f3d1aacd3f3ab72a41aa6b6c3fea8fec2dae6bef857e104"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/05.jpg",
+          "hash": "de561972f64e84408f610d2468060d44a147be98441ca17435f2df093c1dcba2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/04.jpg",
+          "hash": "16459e0ebc9cabfdf5263e625355da6004bfb813584bbd12a9d83d466492daca"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/06.jpg",
+          "hash": "1e32d58a1eacb496063670dee7b9bb7ee424edf0300ba34ce66357843c1dd28e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/02.jpg",
+          "hash": "b37996130f8fa1568b671d348eeff992d906f2b5f99310c938f43b8d30424360"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/01.jpg",
+          "hash": "de2a1ab3e261865017fb5744dc800ed725650eb1b78ad894669c23348723d8e0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/07.jpg",
+          "hash": "92d3555c9fcef0548baae60d728776ef27004b71b18f0e221a0e2a7b65a5936c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/03.jpg",
+          "hash": "75d9561c15ca181224f6201b5df7bbd4869146c0a6a6e5b5a853a75ac1ccfbd6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/04.jpg",
+          "hash": "65ae8ca44f19f4e6d4ee6e1e4643a99490474142d33ac1f5d0214632b1448437"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/05.jpg",
+          "hash": "cb232007fdf5bc7cb3201b7ba39c3c670c1bb87403bf37e9b2dc734e65877713"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/06.jpg",
+          "hash": "dfb05f0d98d23090950ff6dc186d7590dc55df2f1130f3882699847c56787e8c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/07.jpg",
+          "hash": "770aa1ef10916e14f0f6d1514f6efaa159c63da1ebc2c0452d634f73d18f9701"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/01.jpg",
+          "hash": "8f5c8931bed6103cf6657577b95485e73cb1fbcd1a6a9e5aa27696a447291f59"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/02.jpg",
+          "hash": "2980af7f3923a71a74efc1d5a13d113043abb2d9d9427ae019311dbc2dc2abf9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/03.jpg",
+          "hash": "7a8d9392491f2d8ea4a90ed4062b89ad6f87c03f759d371dd7a836e0d5c5266c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/04.jpg",
+          "hash": "08dd42085da113ec97f8c9b27b8afc10a3dae2f01e0d615351366bf9d9e88f2a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/01.jpg",
+          "hash": "3df8e726e4a5efb7ec0a1b54cf367160120675278fa6241b72511b1663d62c35"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/06.jpg",
+          "hash": "5830605b4e43154995e19a95635d2c6afc39972ffed45acce70f71b1358ccfa5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/05.jpg",
+          "hash": "9a2106c8bbf1c331bcac1077809829f070bc1231c799a9fbc582981c0999226b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/02.jpg",
+          "hash": "44e980192796bebd717fee0cce8f9e1ac002169db8f8ca25c164bd86d5b7f4c2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/03.jpg",
+          "hash": "5f4214263ba12247901801363c5c4420153897d3af4c01ec9579790a60a6ab0d"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/04.jpg",
+          "hash": "2fa1aa452409b88a74ec773cf734bd679b4a947d978c052296af38960e992d58"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/05.jpg",
+          "hash": "f20ceda41ef7e5de12884c795f0f42c6e06c9b3eb9eb976d8cad9cd09cd1fd13"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/06.jpg",
+          "hash": "0b0454cbecc6f2a4eaca3eb56cd2b1bd3f6aef53b7daa0881428ec12c01d1a97"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/07.jpg",
+          "hash": "be6600356e88f808a1b82af3c6a5f4b8216224f23f3967da7d79f27a4281a2cb"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/01.jpg",
+          "hash": "617589c56c26d5b02630d70e4dbef40c33f534f740b9c86d1c1840476a435fbf"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/02.jpg",
+          "hash": "de7210b1c6055e2457c4ffb0367c91a479847f3b6039629f7f305b26fa18dad2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/03.jpg",
+          "hash": "27b9940733e6c2d5787b17032f0ac64235ef98e3120cb0cbfb6d27f4ea89392f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/04.jpg",
+          "hash": "b75becdc7c713f1deb7d4b65bc338b2dd589653378678bca6568f10e0b2cf700"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/05.jpg",
+          "hash": "89e33c6949c8ecb05c637c0c72bb8f33cda2f0a87dd3fa7b367701ebd285e43a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/06.jpg",
+          "hash": "b7602235d1b6a36db7d60de762eb704b56c60fa9a36d2c14d7ba58f60657f6c6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/07.jpg",
+          "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/03.jpg",
+          "hash": "1b7dac9c78c8ec541ad2109bd4540a1620045bf425f738273ea3f3ee765b5d59"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/01.jpg",
+          "hash": "1695e3667088678d98a8ebd28e208cb2c15e7c70ac20836022c3cde6acd4052e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/02.jpg",
+          "hash": "4ff6246f4cc75f33c357233629a9be8ef2888a6dc0ad28ff810fba73675b6343"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/05.jpg",
+          "hash": "fb5d6600e9399c5d25db79de19dbd7294c7d2f29ef37301ee43b8b493e5f1e5f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/04.jpg",
+          "hash": "d2f11756cf8f25d7ea17d71938d7c0d3320b2dc6f7a94dafa29c3ad88ad8fd94"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/07.jpg",
+          "hash": "c691ec9f4373946610dfb99c3d8cae3e10174641fa91aa9e4dc79e8e26e0ec81"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/06.jpg",
+          "hash": "df153ee12f15c767b6de0ae0eace674ffbaa8367ab980c0a33aa42be61ebe090"
+        }
+      ]
+    }
+  ],
+  "resumed": {
+    "caches": [
+      {
+        "key": "nmec-cultural-guide-fffb43b1c37b46df",
+        "progress": {
+          "completed": 213,
+          "total": 213,
+          "phase": "ready",
+          "version": "nmec-cultural-guide-fffb43b1c37b46df",
+          "savedAt": "2026-09-18T07:14:50.157Z"
+        },
+        "verified": [
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/404.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/ExteriorMap-D_R7KhHV.js",
+            "hash": "da58b12824a84ba21c52972c22aaa7821c83e10a8d400eec80bbaf6735d30639"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+            "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-BssiyKwB.js",
+            "hash": "384937be870c727ecbd70494722420627402d534cd75296bc9201521d451995a"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/bookings/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+            "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+            "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/aswan-nubia/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/cairo-giza/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/hurghada-red-sea/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/luxor-thebes/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/cairo-citadel/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/abu-simbel/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/colossi-of-memnon/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/edfu-temple/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/giza-plateau/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/grand-egyptian-museum/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/hatshepsut-temple/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/karnak/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/khan-el-khalili/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/kom-ombo/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/luxor-temple/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/orange-bay/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/valley-of-the-kings/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/abu-simbel.jpg",
+            "hash": "af63117b1b70a4243da2deab8e8b50f382d2968d98dea3a73dffd1de66d85c40"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/colossi-of-memnon.jpg",
+            "hash": "024fb1eeec318190af79326469be870dfa3c24325aa9576c29a559bb9647df55"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/edfu-temple.jpg",
+            "hash": "61aa69d5f486a45ed40500c9e35a53199844db808e5ae119c0f3011ce642c0f1"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/cairo-citadel.jpg",
+            "hash": "4e94a09333ba4bd0c21caf7b42cd693f6af60a61fcfefc4de763b0103a3822f6"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/grand-egyptian-museum.jpg",
+            "hash": "4cd49b677ac516ea05f9d9de8c79f1b0469e047e4628d9202035b4f46a9703c5"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/giza-plateau.jpg",
+            "hash": "08baf546a280b132dbe958642f368bd53112ce3828eff693cac0aee87944b3a0"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/hatshepsut-temple.jpg",
+            "hash": "91e348cb357a54e33fe634c7cf6ad61f83acd828c57442362b7e8039f6dffb95"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/karnak.jpg",
+            "hash": "46f6e328c6959f109d3d3bc5b8c13a10cdde5f571d7caa42769b1ae3e57a7560"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/kom-ombo.jpg",
+            "hash": "a265907f1edf77e0e3ad7db7752c5beddff002b2426e6b8b4091c4943d98b97a"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+            "hash": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/luxor-temple.jpg",
+            "hash": "2ce9660ad21f1a2bb42a531354d1c3b8aaa599c646d2d965f9d689d1c183cee4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/khan-el-khalili.jpg",
+            "hash": "26e8bdcc5384859860840d53f8e4973d9c3eb450f12dbb486129c32a8b677d76"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/provenance.json",
+            "hash": "951a2d50cd5dbb874fe608c947d48ad0fb3736cc02e5b47736d459bfccd509a2"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/ATTRIBUTION.md",
+            "hash": "6ffcb6847fc2b1910bcf8a6862e461a3804b9ef14997cb0c0813815b9c23e979"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/orange-bay.jpg",
+            "hash": "a5abd49f1fade6b92deb974df3826cc93544ccebb9b2bdea3e8477bde076e5dc"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/valley-of-the-kings.jpg",
+            "hash": "d4623ac195fe3f84d3dbfd955e854c889489835e85b3952d51fbc6db7c12a39e"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/giza-panorama.jpg",
+            "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khufu.jpg",
+            "hash": "292f153f8fe6f0de6b51de80b1fc16183f99fe69c4d227e2b50d59f71b9a8e89"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khafre.jpg",
+            "hash": "def5b399e164dd81980bc67ba175c253e0334f39c05f11df521e433758a2294a"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/menkaure.jpg",
+            "hash": "8d067118e19de9e24e2d95904317f8e6c32773f5fcc3ea01e5159a9613be6f42"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/ATTRIBUTION.md",
+            "hash": "f22ab8d3200de548b69b2bec583a7f53dd5068539bbec04e0f13011afdb7a0f4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/valley-temple.jpg",
+            "hash": "9784b4e350728232a693e69ec9819d7f55aad31776c70281e0b38d05f828016e"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/sphinx.jpg",
+            "hash": "c1df71cd964d5f0fb929006bf6c6bb9c74d022b7ad76a39fa411d81c3dfb8750"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/01.jpg",
+            "hash": "52d98f51b1af2771c380fdd9adbf7219fbfa399f89a076bdf7faf941a870b449"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/03.jpg",
+            "hash": "1cf0a6e03ff562a5ea801cc8de5a6ce799c6ddb79b25b468a1aa7dfaf56ec514"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/02.jpg",
+            "hash": "74cd3793b6c7ee304f3d1aacd3f3ab72a41aa6b6c3fea8fec2dae6bef857e104"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/05.jpg",
+            "hash": "de561972f64e84408f610d2468060d44a147be98441ca17435f2df093c1dcba2"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/04.jpg",
+            "hash": "16459e0ebc9cabfdf5263e625355da6004bfb813584bbd12a9d83d466492daca"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/06.jpg",
+            "hash": "1e32d58a1eacb496063670dee7b9bb7ee424edf0300ba34ce66357843c1dd28e"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/02.jpg",
+            "hash": "b37996130f8fa1568b671d348eeff992d906f2b5f99310c938f43b8d30424360"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/01.jpg",
+            "hash": "de2a1ab3e261865017fb5744dc800ed725650eb1b78ad894669c23348723d8e0"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/07.jpg",
+            "hash": "92d3555c9fcef0548baae60d728776ef27004b71b18f0e221a0e2a7b65a5936c"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/03.jpg",
+            "hash": "75d9561c15ca181224f6201b5df7bbd4869146c0a6a6e5b5a853a75ac1ccfbd6"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/04.jpg",
+            "hash": "65ae8ca44f19f4e6d4ee6e1e4643a99490474142d33ac1f5d0214632b1448437"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/05.jpg",
+            "hash": "cb232007fdf5bc7cb3201b7ba39c3c670c1bb87403bf37e9b2dc734e65877713"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/06.jpg",
+            "hash": "dfb05f0d98d23090950ff6dc186d7590dc55df2f1130f3882699847c56787e8c"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/07.jpg",
+            "hash": "770aa1ef10916e14f0f6d1514f6efaa159c63da1ebc2c0452d634f73d18f9701"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/01.jpg",
+            "hash": "8f5c8931bed6103cf6657577b95485e73cb1fbcd1a6a9e5aa27696a447291f59"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/02.jpg",
+            "hash": "2980af7f3923a71a74efc1d5a13d113043abb2d9d9427ae019311dbc2dc2abf9"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/03.jpg",
+            "hash": "7a8d9392491f2d8ea4a90ed4062b89ad6f87c03f759d371dd7a836e0d5c5266c"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/04.jpg",
+            "hash": "08dd42085da113ec97f8c9b27b8afc10a3dae2f01e0d615351366bf9d9e88f2a"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/01.jpg",
+            "hash": "3df8e726e4a5efb7ec0a1b54cf367160120675278fa6241b72511b1663d62c35"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/06.jpg",
+            "hash": "5830605b4e43154995e19a95635d2c6afc39972ffed45acce70f71b1358ccfa5"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/05.jpg",
+            "hash": "9a2106c8bbf1c331bcac1077809829f070bc1231c799a9fbc582981c0999226b"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/02.jpg",
+            "hash": "44e980192796bebd717fee0cce8f9e1ac002169db8f8ca25c164bd86d5b7f4c2"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/03.jpg",
+            "hash": "5f4214263ba12247901801363c5c4420153897d3af4c01ec9579790a60a6ab0d"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/04.jpg",
+            "hash": "2fa1aa452409b88a74ec773cf734bd679b4a947d978c052296af38960e992d58"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/05.jpg",
+            "hash": "f20ceda41ef7e5de12884c795f0f42c6e06c9b3eb9eb976d8cad9cd09cd1fd13"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/06.jpg",
+            "hash": "0b0454cbecc6f2a4eaca3eb56cd2b1bd3f6aef53b7daa0881428ec12c01d1a97"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/07.jpg",
+            "hash": "be6600356e88f808a1b82af3c6a5f4b8216224f23f3967da7d79f27a4281a2cb"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/01.jpg",
+            "hash": "617589c56c26d5b02630d70e4dbef40c33f534f740b9c86d1c1840476a435fbf"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/02.jpg",
+            "hash": "de7210b1c6055e2457c4ffb0367c91a479847f3b6039629f7f305b26fa18dad2"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/03.jpg",
+            "hash": "27b9940733e6c2d5787b17032f0ac64235ef98e3120cb0cbfb6d27f4ea89392f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/04.jpg",
+            "hash": "b75becdc7c713f1deb7d4b65bc338b2dd589653378678bca6568f10e0b2cf700"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/05.jpg",
+            "hash": "89e33c6949c8ecb05c637c0c72bb8f33cda2f0a87dd3fa7b367701ebd285e43a"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/06.jpg",
+            "hash": "b7602235d1b6a36db7d60de762eb704b56c60fa9a36d2c14d7ba58f60657f6c6"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/07.jpg",
+            "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/03.jpg",
+            "hash": "1b7dac9c78c8ec541ad2109bd4540a1620045bf425f738273ea3f3ee765b5d59"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/01.jpg",
+            "hash": "1695e3667088678d98a8ebd28e208cb2c15e7c70ac20836022c3cde6acd4052e"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/02.jpg",
+            "hash": "4ff6246f4cc75f33c357233629a9be8ef2888a6dc0ad28ff810fba73675b6343"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/05.jpg",
+            "hash": "fb5d6600e9399c5d25db79de19dbd7294c7d2f29ef37301ee43b8b493e5f1e5f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/04.jpg",
+            "hash": "d2f11756cf8f25d7ea17d71938d7c0d3320b2dc6f7a94dafa29c3ad88ad8fd94"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/07.jpg",
+            "hash": "c691ec9f4373946610dfb99c3d8cae3e10174641fa91aa9e4dc79e8e26e0ec81"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/06.jpg",
+            "hash": "df153ee12f15c767b6de0ae0eace674ffbaa8367ab980c0a33aa42be61ebe090"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/09.jpg",
+            "hash": "7e621d7c6d026bb270116cd4053f21dfc5d734b2f2ca0cc68b35456851778f5c"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/08.jpg",
+            "hash": "3de425cadbb9b9f96fa7781d26d349528a52f14ad821bef3f78beead9eeba32b"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/10.jpg",
+            "hash": "57ddeadd72d832c7b9ac6f7dbd4a090333d99a8914ed80e08c555281a934fbf7"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/11.jpg",
+            "hash": "8a5a1d7be996db19744b43d9493bb421af06deae2591d44ae2a29347691e2cc4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/12.jpg",
+            "hash": "535d062ab1edec3099fc3aac5cfa2acf98bfc015e0c283ba636285e0478f4d17"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/01.jpg",
+            "hash": "3fa190e04663e53a94b5626ab7f39813acfe54d101632ae629de07efd0ed9869"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/03.jpg",
+            "hash": "e7e3d760364d4ff58c55439e9874e92822073f4209e34508098890b682a7e8ac"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/02.jpg",
+            "hash": "a36ddc0f36803c331cb9a379a6ca8198e411a79d8e44f1e3459ff9995e0616c9"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/06.jpg",
+            "hash": "33fc8307db93ed1d6cf18cbbcf0ab0f6fa348e37efeefe8a9323b0e018bcc01a"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/04.jpg",
+            "hash": "6ae60dfbc466ae127bcf691a22e1a6e284e0e7480295b22b94677ae7dba504dd"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/05.jpg",
+            "hash": "c3d4e8a8eeb6e42c5e796e9a345c5b76d98edc31fd3f1f5de7568b1ee5a95be4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/07.jpg",
+            "hash": "edd2055e7ed2f214c1c0db0d5c46e376cb408c810316dec342977e6c1bb86f61"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/01.jpg",
+            "hash": "7873d0823dcda33e6de0b5647946769dc730941d588b977d852485da198bf0f3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/02.jpg",
+            "hash": "bb463683a650f534a6b24747d70c078fc8a67ba571c98a88d0898d8449ae7a4f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/04.jpg",
+            "hash": "15512a64cd473b8c60d9b91029f0f6e458bee5bafd6744a82a06101cfe2ce36f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/03.jpg",
+            "hash": "e03971589f507e0778b3986a43951940ef037124cfa49d06f0f9179f1994b43a"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/05.jpg",
+            "hash": "92b64d31470051a3da18ce394174faafafbc382ae5fd23c8f3a82b0b0b2beb21"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/06.jpg",
+            "hash": "e5d2e7d841c54746f333bcfb7e322d4c3a55159a8b3d7df1d6f188d8e57d720f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/07.jpg",
+            "hash": "2285835a2905e0a23d932447a42752620a1093149c166bd53517f5a49d329201"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/08.jpg",
+            "hash": "bd8e86f7d7f914f65c4dddfcd1e652180074b34a8679265367c1fe97479a180f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/09.jpg",
+            "hash": "50831907d0e1ee87ccb9f4d29f42466fcfa4a6696750b84aca3d1b4312567fa8"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/01.jpg",
+            "hash": "3236b81c5b0fbe8fb4dc2526719a523a09032c06958cb9892675a7e85557b0e8"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/03.jpg",
+            "hash": "6b99e52b43f8be98316e6082222d76efe1aabd3ff438cf87503dcb69727b1ff2"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/02.jpg",
+            "hash": "e0041dad12339eabfa8c682d9df5ed7d9451bcae09ef790fffaeab022788510b"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/04.jpg",
+            "hash": "fef2ff257754f6d7a38a2bfcb607690499e8d7c1836e06ee0e18879c8faef3b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/05.jpg",
+            "hash": "19d39256f6eed105813a6866e992fe253a329daa279da5a477cd49bcf7f63e80"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/01.jpg",
+            "hash": "8c2e1d4ea27239d126c3e761245db205baa5d83b831242902c12024c3415932f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/06.jpg",
+            "hash": "830063e06261de6142a4a28375dbbdf17703b00a90c37c079618c3f512195aa9"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/02.jpg",
+            "hash": "82b48fc4045c034def7501cebe4ecf61de6ee24727e101dd67c52375ea8869c6"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/03.jpg",
+            "hash": "f04c90c25b43ddaebbbc86ef1df4b473b07f4f2b07a453df4fc98124341dbe61"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/04.jpg",
+            "hash": "c3d4e8a8eeb6e42c5e796e9a345c5b76d98edc31fd3f1f5de7568b1ee5a95be4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/05.jpg",
+            "hash": "55df63a5359e71e29119d14217279b8cf5e2c2da51fabb559e3d047d03ffae3e"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/06.jpg",
+            "hash": "93f9c63f1d080b1aaf1d8fd231ca7c2d73ba3dd5549126687a30d1cef08f4c7f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/01.jpg",
+            "hash": "14db0cc9947999ead8c312cd5a0897330ffaf1d88f0dbeca6def5a471b7962c5"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/07.jpg",
+            "hash": "fd1bc370802ffafb2d6e8f359e02f390316353bac35e6fdfeef8eb0bebe9a7af"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/02.jpg",
+            "hash": "81622fb976e229787cdc0859883311f726dd06a403ef4800a2ad7f302c49452c"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/04.jpg",
+            "hash": "d4779912903a0825fc0e64fcfbe865b50588b42e6fe3c42817b0d6ae32496135"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/03.jpg",
+            "hash": "88542321303b6f36b3ceb630a0d5f11980ec9dc8f782360bb56f6182470cdbc2"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/05.jpg",
+            "hash": "ee96473b2b8c0a172139280bef974ab6b2c06605e972725204228343f8c7982d"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/06.jpg",
+            "hash": "49d7eba83d5ea2fb3a8d3a08e1fc0899a2d0158dc1a10f9c16a26929baaf415f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/media-manifest.json",
+            "hash": "ace7c640954e4d8f484f88079839a411813461976f7bf62b97753a6aaac85bb3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/01.jpg",
+            "hash": "81cab31ad22e49e82cc8f61fdd3d2f3b23a059b440890f64b1ff55de719ce405"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/07.jpg",
+            "hash": "bf8bb84c6f4bbad9638a389d24e01a5397c1ce2915fa5245fc78dab85e5e6398"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/02.jpg",
+            "hash": "e64e357bbf3baab65c7e255e8e4440f114bdc6e7ac344b598ce34db1efb95cd3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/03.jpg",
+            "hash": "8ed66516636a4f1e17ed61e2a10c86219069cd7557ee37ea49fceadc12d62597"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/04.jpg",
+            "hash": "bfd1d94356a51e44acd96803211811ad84bdd4c1f5ea89823e88081535e06e1b"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/05.jpg",
+            "hash": "14bfde36ecf6b09a81851b67abc1e9b291d3170c8251fadd99c4bcbf9e211a7f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/06.jpg",
+            "hash": "4c49511ded82e1540c8cdbe7b90b0b15d3377e807d6af7f98a7678d65ee11a35"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/08.jpg",
+            "hash": "dab781929e69a869a5edf59894298979dd19550f84f5bf38a857ef434ae1f190"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/07.jpg",
+            "hash": "0a736c4699024aac0899e8218764a110b453e602d0839c2c9b46c59507a15d28"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/09.jpg",
+            "hash": "b2008517fb200a75fe9ab391b8e554a9c62e19d35d3a35fe7718fd772e2d0b00"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/10.jpg",
+            "hash": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/nmec-reviewed-media.json",
+            "hash": "ebbc0cae16c327f3c387bd595ea0a2367be70580a054c844b8ac87c26791a7ce"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/01.jpg",
+            "hash": "ba38e9ad9e0f262932d9bea72acc141b326a1ab40496dbd8282d903afd5b2a41"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/02.jpg",
+            "hash": "b9297c6829dd1e2f7a1fbd52ba2378a79f897913827b24ddd27b7070beab2e9f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+            "hash": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/03.jpg",
+            "hash": "af134ca5756b6d12e0c0f3ca3ea6ef38d0356b48f9edb9c11bbb97a666d94388"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/06.jpg",
+            "hash": "2102fa832481ffe941c5c6d84c571aca52bba132fde6adcce25c6bfb1e491444"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/04.jpg",
+            "hash": "44456a9b1f36d697d1205c216abb461d157f8e6cd0eeb025a3a60eae895e1e0c"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/05.jpg",
+            "hash": "6858f4779e2f842cc23d20dcb7724ee3291cb44470a450c98ce224ae3bfa45fd"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/01.jpg",
+            "hash": "0af6c6982197baa51b3a0bfb7e45b9b4c4059c9a19631e6fd2a7bc4ed43822e6"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/03.jpg",
+            "hash": "04326c2b95ed514a7df5ea1195adefadd6f34c6ed73e7a338cf21b4f95b0b6bc"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/02.jpg",
+            "hash": "a3ba401c292bca5dd24edab3cf675d17aaa703937b914f8d79e496b9c3f299bd"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/04.jpg",
+            "hash": "30c14573681ef345e0920426f19b852e9e07f457b7aa7720e2315a3b59fc56b1"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/07.jpg",
+            "hash": "8a13fec5fab1ad8900eb3dba2155cb81a543e42a2c0772aa7c7850ba5bc9c533"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/06.jpg",
+            "hash": "b7f1276601dc94d9a68d2b33201bd539b97431eab15d82f9716425fcdbc959cc"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/05.jpg",
+            "hash": "278f04dbc04906b06ac65d6482c94f8b5509bfc7b5b796a7158d1979e93ea645"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/itinerary/index.html",
+            "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/manifest.webmanifest",
+            "hash": "bac95867cbd569cfc9a4c2dc7f2479ab5901f3f2f786576f3a80b12e7e489190"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/abu-simbel.json",
+            "hash": "7fbae0e7c004f0a2b7574324b28e2a157103fdae5065b949c59a4db746331c5e"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/cairo.json",
+            "hash": "8d90035f1deb12ff0f9d522b36c94d738b8aa4c8c45c69e02fef086cb7a549b6"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/edfu.json",
+            "hash": "56d1c9226e7ba4288f99ee26d1098f93e3ea591c52ec79cfbb0b5c4017feaa1f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/giza.json",
+            "hash": "54655e65a54dd4e9c47fc8b188c18676457eaf55f3b37d008eb230a60e08671b"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/hurghada.json",
+            "hash": "8a5d811724cfda1b129dd994ee0ba09e2f3c8eb54479b3fe39dbf7505c015b64"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/kom-ombo.json",
+            "hash": "3170c43aa554435d98507e86cfae1fb0c2fdfe23c9fe4b5fcdce783120a26ce1"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/luxor.json",
+            "hash": "2d4dc6f364b17c6fff946c6c7dd91d6456a32ae94ba597ec142b324258b6b691"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/manifest.json",
+            "hash": "b5752d9a53a7054d1de0ec66b1c32deee03b47422ab151e638cf0b36b57fb9cc"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/abu-simbel-plan.png",
+            "hash": "9ae53351cd99ae70d5769eb44d055f1c7ad6875e5ddf8b7f31f6c4758152abd4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/abu-small-plan.png",
+            "hash": "90fa06f23ccf59d499fe06df82d1851e31a437b0c69e29ae6657514c99404365"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/cairo-citadel-map.jpg",
+            "hash": "f76a66b5c8603a0c3fbf028937d16af50cabed862140cc35c057a95b2db46efa"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/edfu-plan.gif",
+            "hash": "9d08e3d506a012ede9f9447959a7f2a27061e1e7581428d206592f565e8214ea"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/citadel-mosque-plan.jpg",
+            "hash": "16ed251a96f109becc803dcf18b7b7fcd13df8365d409a9ae24fe3bea41525c4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-complex-map.jpg",
+            "hash": "143f2de82a185ff8480d093aaab2db2e51e1daaeca15bfee400acbced33854a0"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-ground-plan.png",
+            "hash": "ed638b8d57d21b049e3278e4df434234b2528594decf0fe53a3d2f3ecfa71fd0"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-context.json",
+            "hash": "b099106a17b8784d5163afc3159232eb88322637f58bd7f91a45f917bd63a37f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-gallery-sign.jpg",
+            "hash": "7146515e5fd846aa867f96ce67bd1880941c6abf0d85c9b105ac63101a79ae2c"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-drawing.png",
+            "hash": "3adb44eff1db53871f3784938c05c06701fe00dc8692e68f704b61e281a1c494"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-plan.jpg",
+            "hash": "6e05efca105c888b283b55ec6174b9ced380348a01d7ad80c01b820704bdcdb2"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-upper-plan.png",
+            "hash": "3326fd85d23be6579807a0956a991de69935a251fd1b03efd049b61cc5d6ff00"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-274.png",
+            "hash": "9e12c50dab8e23ee3b1ccb0118bb96e550f0fbe7dfb7bb4399fe132fcd405794"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/giza-plan.jpg",
+            "hash": "6371625976d5c656d7ac74e5811f1a5081f63a91edec617f6d55ee9b57b2726b"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-276.png",
+            "hash": "926e2de975cbcc3c7a5c8f2708cb39ef8279212b23dd89ecead5fed2a5525ded"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-275.png",
+            "hash": "22328812648a9fab7b8f082ff24276529ad14f928130d699c8fa656355d91958"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-277.png",
+            "hash": "15213a164ef831ee08f070558bd8dc8158c56bdea52fd9acb92ec566205fa3ab"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-278.png",
+            "hash": "f980e3c02f97648881e2d4305876641484c8a16834b1b609a429a707e94a3ac3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-279.png",
+            "hash": "c0d4c136e5b5eb8975f1e3155ca688be5c7414a0d5ef26fd68ec6f32f92968b2"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-whole-plan.png",
+            "hash": "54605b16ee57feeaa8570801b36ac7d206bcf496e6cdb5880f2df2f4ea5473bb"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-amun-plan.png",
+            "hash": "ebe6e77671b01355b9d92b611e1ee9d3571f890aa4dd500091ba37edae631fa3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-hypostyle-plan.jpg",
+            "hash": "2f388beecde8015cd5d2db8eeb1e17c5a6d50f20c898551b2827b330da760ce9"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khafre-valley-plan.jpg",
+            "hash": "0268cfc6cbad9735cac27800bc45c805fa9f7d15d6ea81322fa1f2697fa4d482"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-overall-plan.png",
+            "hash": "57200e6c7d32fcbd37955a164551165fcdc19b9c961e5db5b0b9ebc29eef584b"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-precinct-context.json",
+            "hash": "3ceef1fac0fb7b45e18a0e4816a88b685e0f85183c9e52435aff6b6f627853a3"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khan-el-khalili-context.svg",
+            "hash": "f77f7ffd8cbe53556bbfc1dc8a6add97f0c5578614ce643a5e455dfa27efaec6"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khan-native-context.json",
+            "hash": "4e04936f9eb96ec110899883debcbbdddd05d2678ad399e48a41382f78fa1bfe"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kom-ombo-labelled-plan.png",
+            "hash": "d2dae28afd767b5e96e5b2e1a12d3f9f866528d0e806acede3fee1fec3b566f4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kings-valley-context.json",
+            "hash": "f7244337160985f3acda87664dd84d91e6bdb866eb81bb94cc6ce8948a533e29"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kings-valley-plan.png",
+            "hash": "5909e204c20a2df1e8c1a94ba83844b92240d24ba37f9a30d00446ba548b5b67"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kom-ombo-plan.png",
+            "hash": "67d2af63ed484b292039fe22f92718512bd4c4c9e722bbdb3b087927f1524fed"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kv09-plan.png",
+            "hash": "3eeb00b8e63fb8ce66322239fab4faacd681ae674755717125ec166b9d88ed9f"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kv62-plan.png",
+            "hash": "f13371e8e20514fed65a35424549699c1fc2027824f0e70bedd281ae0faddec4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/luxor-key-plan.png",
+            "hash": "222bd9b02fc0921bb5c7b1862a4dee1460b602d3c35cf7393e36efc627e3e002"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/memnon-native-context.json",
+            "hash": "df5ea4770640110a549e9bf23a4d5abafbce34b69623877aa69654db36b741e0"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/nmec-floor-plan.png",
+            "hash": "6cbaaf458028441e917205723289b90bbcfae0d721228a900d518500d5003e32"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/orange-native-context.json",
+            "hash": "37e911afeb8edf4ef84f39ab85d9acacbed5830e2f0b0ca121558290ef68020b"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/orange-bay-context.svg",
+            "hash": "5c8491eab8d77f990dc2f56ce89221f3c9244ae426a382fb81000053a6f7dd39"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/nmec-osm.json",
+            "hash": "e32b1a9120b772aa7c05b2955f5e859f46218ca5ff41fd9ab65f6a9a439ac456"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/theban-necropolis.png",
+            "hash": "99e06b4ec13ee535758e1578f9db7d8f71553acf1578b0b679853706859ec204"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/nmec-source-footprints.svg",
+            "hash": "d3efdf66f0a07d90db09b5bcb307efa26738ec2a9aca45a141ee89160214ae51"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/valley-osm.json",
+            "hash": "5aec2e2d6fd76aa0bd2585a8f573a4f40fd6042b9b1b100a63d570576a291cc4"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/valley-terrain.json",
+            "hash": "068b8775c4d98df1be56171b3122c5a15dfb2ca5af3cf316ba6314679dd5b7fc"
+          },
+          {
+            "url": "http://127.0.0.1:51722/nmec-cultural-guide/sw.js",
+            "hash": "13c691e308849bea47d5d14cb26c20490c2a149315dbc6632303cf10fa8df2f8"
+          }
+        ]
+      }
+    ],
+    "requestsSinceReopen": [
+      "index.html",
+      "assets/index-t7V5tAp9.css",
+      "assets/index-BssiyKwB.js",
+      "images/giza/giza-panorama.jpg",
+      "offline-manifest.json",
+      "images/guides/grand-egyptian-museum/08.jpg",
+      "images/guides/grand-egyptian-museum/09.jpg",
+      "images/guides/grand-egyptian-museum/10.jpg",
+      "images/guides/grand-egyptian-museum/11.jpg",
+      "images/guides/grand-egyptian-museum/12.jpg",
+      "images/guides/hatshepsut-temple/01.jpg",
+      "images/guides/hatshepsut-temple/02.jpg",
+      "images/guides/hatshepsut-temple/03.jpg",
+      "images/guides/hatshepsut-temple/04.jpg",
+      "images/guides/hatshepsut-temple/05.jpg",
+      "images/guides/hatshepsut-temple/06.jpg",
+      "images/guides/hatshepsut-temple/07.jpg",
+      "images/guides/karnak/01.jpg",
+      "images/guides/karnak/02.jpg",
+      "images/guides/karnak/03.jpg",
+      "images/guides/karnak/04.jpg",
+      "images/guides/karnak/05.jpg",
+      "images/guides/karnak/06.jpg",
+      "images/guides/karnak/07.jpg",
+      "images/guides/karnak/08.jpg",
+      "images/guides/karnak/09.jpg",
+      "images/guides/khan-el-khalili/01.jpg",
+      "images/guides/khan-el-khalili/02.jpg",
+      "images/guides/khan-el-khalili/03.jpg",
+      "images/guides/khan-el-khalili/04.jpg",
+      "images/guides/khan-el-khalili/05.jpg",
+      "images/guides/khan-el-khalili/06.jpg",
+      "images/guides/kom-ombo/01.jpg",
+      "images/guides/kom-ombo/02.jpg",
+      "images/guides/kom-ombo/03.jpg",
+      "images/guides/kom-ombo/04.jpg",
+      "images/guides/kom-ombo/05.jpg",
+      "images/guides/kom-ombo/06.jpg",
+      "images/guides/kom-ombo/07.jpg",
+      "images/guides/luxor-temple/01.jpg",
+      "images/guides/luxor-temple/02.jpg",
+      "images/guides/luxor-temple/03.jpg",
+      "images/guides/luxor-temple/04.jpg",
+      "images/guides/luxor-temple/05.jpg",
+      "images/guides/luxor-temple/06.jpg",
+      "images/guides/luxor-temple/07.jpg",
+      "images/guides/media-manifest.json",
+      "images/guides/national-museum-egyptian-civilization/01.jpg",
+      "images/guides/national-museum-egyptian-civilization/02.jpg",
+      "images/guides/national-museum-egyptian-civilization/03.jpg",
+      "images/guides/national-museum-egyptian-civilization/04.jpg",
+      "images/guides/national-museum-egyptian-civilization/05.jpg",
+      "images/guides/national-museum-egyptian-civilization/06.jpg",
+      "images/guides/national-museum-egyptian-civilization/07.jpg",
+      "images/guides/national-museum-egyptian-civilization/08.jpg",
+      "images/guides/national-museum-egyptian-civilization/09.jpg",
+      "images/guides/national-museum-egyptian-civilization/10.jpg",
+      "images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+      "images/guides/nmec-reviewed-media.json",
+      "images/guides/orange-bay/01.jpg",
+      "images/guides/orange-bay/02.jpg",
+      "images/guides/orange-bay/03.jpg",
+      "images/guides/orange-bay/04.jpg",
+      "images/guides/orange-bay/05.jpg",
+      "images/guides/orange-bay/06.jpg",
+      "images/guides/valley-of-the-kings/01.jpg",
+      "images/guides/valley-of-the-kings/02.jpg",
+      "images/guides/valley-of-the-kings/03.jpg",
+      "images/guides/valley-of-the-kings/04.jpg",
+      "images/guides/valley-of-the-kings/05.jpg",
+      "images/guides/valley-of-the-kings/06.jpg",
+      "images/guides/valley-of-the-kings/07.jpg",
+      "index.html",
+      "itinerary/index.html",
+      "manifest.webmanifest",
+      "map-data/abu-simbel.json",
+      "map-data/cairo.json",
+      "map-data/edfu.json",
+      "map-data/giza.json",
+      "map-data/hurghada.json",
+      "map-data/kom-ombo.json",
+      "map-data/luxor.json",
+      "map-data/manifest.json",
+      "maps/attractions/abu-simbel-plan.png",
+      "maps/attractions/abu-small-plan.png",
+      "maps/attractions/cairo-citadel-map.jpg",
+      "maps/attractions/citadel-mosque-plan.jpg",
+      "maps/attractions/edfu-plan.gif",
+      "maps/attractions/gem-complex-map.jpg",
+      "maps/attractions/gem-gallery-sign.jpg",
+      "maps/attractions/gem-ground-plan.png",
+      "maps/attractions/gem-tut-context.json",
+      "maps/attractions/gem-tut-drawing.png",
+      "maps/attractions/gem-tut-plan.jpg",
+      "maps/attractions/gem-upper-plan.png",
+      "maps/attractions/giza-plan.jpg",
+      "maps/attractions/hatshepsut-plate-274.png",
+      "maps/attractions/hatshepsut-plate-275.png",
+      "maps/attractions/hatshepsut-plate-276.png",
+      "maps/attractions/hatshepsut-plate-277.png",
+      "maps/attractions/hatshepsut-plate-278.png",
+      "maps/attractions/hatshepsut-plate-279.png",
+      "maps/attractions/hatshepsut-whole-plan.png",
+      "maps/attractions/karnak-amun-plan.png",
+      "maps/attractions/karnak-hypostyle-plan.jpg",
+      "maps/attractions/karnak-overall-plan.png",
+      "maps/attractions/karnak-precinct-context.json",
+      "maps/attractions/khafre-valley-plan.jpg",
+      "maps/attractions/khan-el-khalili-context.svg",
+      "maps/attractions/khan-native-context.json",
+      "maps/attractions/kings-valley-context.json",
+      "maps/attractions/kings-valley-plan.png",
+      "maps/attractions/kom-ombo-labelled-plan.png",
+      "maps/attractions/kom-ombo-plan.png",
+      "maps/attractions/kv09-plan.png",
+      "maps/attractions/kv62-plan.png",
+      "maps/attractions/luxor-key-plan.png",
+      "maps/attractions/memnon-native-context.json",
+      "maps/attractions/nmec-floor-plan.png",
+      "maps/attractions/orange-bay-context.svg",
+      "maps/attractions/orange-native-context.json",
+      "maps/attractions/theban-necropolis.png",
+      "maps/exteriors/nmec-osm.json",
+      "maps/exteriors/nmec-source-footprints.svg",
+      "maps/exteriors/valley-osm.json",
+      "maps/exteriors/valley-terrain.json",
+      "sw.js"
+    ]
+  },
+  "partialUpdate": [
+    {
+      "key": "nmec-cultural-guide-fffb43b1c37b46df",
+      "progress": {
+        "completed": 213,
+        "total": 213,
+        "phase": "ready",
+        "version": "nmec-cultural-guide-fffb43b1c37b46df",
+        "savedAt": "2026-09-18T07:14:50.157Z"
+      },
+      "verified": [
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/404.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/ExteriorMap-D_R7KhHV.js",
+          "hash": "da58b12824a84ba21c52972c22aaa7821c83e10a8d400eec80bbaf6735d30639"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+          "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-BssiyKwB.js",
+          "hash": "384937be870c727ecbd70494722420627402d534cd75296bc9201521d451995a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/bookings/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+          "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+          "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/aswan-nubia/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/cairo-giza/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/hurghada-red-sea/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/luxor-thebes/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/cairo-citadel/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/abu-simbel/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/colossi-of-memnon/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/edfu-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/giza-plateau/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/grand-egyptian-museum/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/hatshepsut-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/karnak/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/khan-el-khalili/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/kom-ombo/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/luxor-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/orange-bay/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/valley-of-the-kings/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/abu-simbel.jpg",
+          "hash": "af63117b1b70a4243da2deab8e8b50f382d2968d98dea3a73dffd1de66d85c40"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/colossi-of-memnon.jpg",
+          "hash": "024fb1eeec318190af79326469be870dfa3c24325aa9576c29a559bb9647df55"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/edfu-temple.jpg",
+          "hash": "61aa69d5f486a45ed40500c9e35a53199844db808e5ae119c0f3011ce642c0f1"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/cairo-citadel.jpg",
+          "hash": "4e94a09333ba4bd0c21caf7b42cd693f6af60a61fcfefc4de763b0103a3822f6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/grand-egyptian-museum.jpg",
+          "hash": "4cd49b677ac516ea05f9d9de8c79f1b0469e047e4628d9202035b4f46a9703c5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/giza-plateau.jpg",
+          "hash": "08baf546a280b132dbe958642f368bd53112ce3828eff693cac0aee87944b3a0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/hatshepsut-temple.jpg",
+          "hash": "91e348cb357a54e33fe634c7cf6ad61f83acd828c57442362b7e8039f6dffb95"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/karnak.jpg",
+          "hash": "46f6e328c6959f109d3d3bc5b8c13a10cdde5f571d7caa42769b1ae3e57a7560"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/kom-ombo.jpg",
+          "hash": "a265907f1edf77e0e3ad7db7752c5beddff002b2426e6b8b4091c4943d98b97a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+          "hash": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/luxor-temple.jpg",
+          "hash": "2ce9660ad21f1a2bb42a531354d1c3b8aaa599c646d2d965f9d689d1c183cee4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/khan-el-khalili.jpg",
+          "hash": "26e8bdcc5384859860840d53f8e4973d9c3eb450f12dbb486129c32a8b677d76"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/provenance.json",
+          "hash": "951a2d50cd5dbb874fe608c947d48ad0fb3736cc02e5b47736d459bfccd509a2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/ATTRIBUTION.md",
+          "hash": "6ffcb6847fc2b1910bcf8a6862e461a3804b9ef14997cb0c0813815b9c23e979"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/orange-bay.jpg",
+          "hash": "a5abd49f1fade6b92deb974df3826cc93544ccebb9b2bdea3e8477bde076e5dc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/valley-of-the-kings.jpg",
+          "hash": "d4623ac195fe3f84d3dbfd955e854c889489835e85b3952d51fbc6db7c12a39e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/giza-panorama.jpg",
+          "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khufu.jpg",
+          "hash": "292f153f8fe6f0de6b51de80b1fc16183f99fe69c4d227e2b50d59f71b9a8e89"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khafre.jpg",
+          "hash": "def5b399e164dd81980bc67ba175c253e0334f39c05f11df521e433758a2294a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/menkaure.jpg",
+          "hash": "8d067118e19de9e24e2d95904317f8e6c32773f5fcc3ea01e5159a9613be6f42"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/ATTRIBUTION.md",
+          "hash": "f22ab8d3200de548b69b2bec583a7f53dd5068539bbec04e0f13011afdb7a0f4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/valley-temple.jpg",
+          "hash": "9784b4e350728232a693e69ec9819d7f55aad31776c70281e0b38d05f828016e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/sphinx.jpg",
+          "hash": "c1df71cd964d5f0fb929006bf6c6bb9c74d022b7ad76a39fa411d81c3dfb8750"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/01.jpg",
+          "hash": "52d98f51b1af2771c380fdd9adbf7219fbfa399f89a076bdf7faf941a870b449"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/03.jpg",
+          "hash": "1cf0a6e03ff562a5ea801cc8de5a6ce799c6ddb79b25b468a1aa7dfaf56ec514"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/02.jpg",
+          "hash": "74cd3793b6c7ee304f3d1aacd3f3ab72a41aa6b6c3fea8fec2dae6bef857e104"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/05.jpg",
+          "hash": "de561972f64e84408f610d2468060d44a147be98441ca17435f2df093c1dcba2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/04.jpg",
+          "hash": "16459e0ebc9cabfdf5263e625355da6004bfb813584bbd12a9d83d466492daca"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/06.jpg",
+          "hash": "1e32d58a1eacb496063670dee7b9bb7ee424edf0300ba34ce66357843c1dd28e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/02.jpg",
+          "hash": "b37996130f8fa1568b671d348eeff992d906f2b5f99310c938f43b8d30424360"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/01.jpg",
+          "hash": "de2a1ab3e261865017fb5744dc800ed725650eb1b78ad894669c23348723d8e0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/07.jpg",
+          "hash": "92d3555c9fcef0548baae60d728776ef27004b71b18f0e221a0e2a7b65a5936c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/03.jpg",
+          "hash": "75d9561c15ca181224f6201b5df7bbd4869146c0a6a6e5b5a853a75ac1ccfbd6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/04.jpg",
+          "hash": "65ae8ca44f19f4e6d4ee6e1e4643a99490474142d33ac1f5d0214632b1448437"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/05.jpg",
+          "hash": "cb232007fdf5bc7cb3201b7ba39c3c670c1bb87403bf37e9b2dc734e65877713"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/06.jpg",
+          "hash": "dfb05f0d98d23090950ff6dc186d7590dc55df2f1130f3882699847c56787e8c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/07.jpg",
+          "hash": "770aa1ef10916e14f0f6d1514f6efaa159c63da1ebc2c0452d634f73d18f9701"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/01.jpg",
+          "hash": "8f5c8931bed6103cf6657577b95485e73cb1fbcd1a6a9e5aa27696a447291f59"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/02.jpg",
+          "hash": "2980af7f3923a71a74efc1d5a13d113043abb2d9d9427ae019311dbc2dc2abf9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/03.jpg",
+          "hash": "7a8d9392491f2d8ea4a90ed4062b89ad6f87c03f759d371dd7a836e0d5c5266c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/04.jpg",
+          "hash": "08dd42085da113ec97f8c9b27b8afc10a3dae2f01e0d615351366bf9d9e88f2a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/01.jpg",
+          "hash": "3df8e726e4a5efb7ec0a1b54cf367160120675278fa6241b72511b1663d62c35"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/06.jpg",
+          "hash": "5830605b4e43154995e19a95635d2c6afc39972ffed45acce70f71b1358ccfa5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/05.jpg",
+          "hash": "9a2106c8bbf1c331bcac1077809829f070bc1231c799a9fbc582981c0999226b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/02.jpg",
+          "hash": "44e980192796bebd717fee0cce8f9e1ac002169db8f8ca25c164bd86d5b7f4c2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/03.jpg",
+          "hash": "5f4214263ba12247901801363c5c4420153897d3af4c01ec9579790a60a6ab0d"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/04.jpg",
+          "hash": "2fa1aa452409b88a74ec773cf734bd679b4a947d978c052296af38960e992d58"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/05.jpg",
+          "hash": "f20ceda41ef7e5de12884c795f0f42c6e06c9b3eb9eb976d8cad9cd09cd1fd13"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/06.jpg",
+          "hash": "0b0454cbecc6f2a4eaca3eb56cd2b1bd3f6aef53b7daa0881428ec12c01d1a97"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/07.jpg",
+          "hash": "be6600356e88f808a1b82af3c6a5f4b8216224f23f3967da7d79f27a4281a2cb"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/01.jpg",
+          "hash": "617589c56c26d5b02630d70e4dbef40c33f534f740b9c86d1c1840476a435fbf"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/02.jpg",
+          "hash": "de7210b1c6055e2457c4ffb0367c91a479847f3b6039629f7f305b26fa18dad2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/03.jpg",
+          "hash": "27b9940733e6c2d5787b17032f0ac64235ef98e3120cb0cbfb6d27f4ea89392f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/04.jpg",
+          "hash": "b75becdc7c713f1deb7d4b65bc338b2dd589653378678bca6568f10e0b2cf700"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/05.jpg",
+          "hash": "89e33c6949c8ecb05c637c0c72bb8f33cda2f0a87dd3fa7b367701ebd285e43a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/06.jpg",
+          "hash": "b7602235d1b6a36db7d60de762eb704b56c60fa9a36d2c14d7ba58f60657f6c6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/07.jpg",
+          "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/03.jpg",
+          "hash": "1b7dac9c78c8ec541ad2109bd4540a1620045bf425f738273ea3f3ee765b5d59"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/01.jpg",
+          "hash": "1695e3667088678d98a8ebd28e208cb2c15e7c70ac20836022c3cde6acd4052e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/02.jpg",
+          "hash": "4ff6246f4cc75f33c357233629a9be8ef2888a6dc0ad28ff810fba73675b6343"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/05.jpg",
+          "hash": "fb5d6600e9399c5d25db79de19dbd7294c7d2f29ef37301ee43b8b493e5f1e5f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/04.jpg",
+          "hash": "d2f11756cf8f25d7ea17d71938d7c0d3320b2dc6f7a94dafa29c3ad88ad8fd94"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/07.jpg",
+          "hash": "c691ec9f4373946610dfb99c3d8cae3e10174641fa91aa9e4dc79e8e26e0ec81"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/06.jpg",
+          "hash": "df153ee12f15c767b6de0ae0eace674ffbaa8367ab980c0a33aa42be61ebe090"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/09.jpg",
+          "hash": "7e621d7c6d026bb270116cd4053f21dfc5d734b2f2ca0cc68b35456851778f5c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/08.jpg",
+          "hash": "3de425cadbb9b9f96fa7781d26d349528a52f14ad821bef3f78beead9eeba32b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/10.jpg",
+          "hash": "57ddeadd72d832c7b9ac6f7dbd4a090333d99a8914ed80e08c555281a934fbf7"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/11.jpg",
+          "hash": "8a5a1d7be996db19744b43d9493bb421af06deae2591d44ae2a29347691e2cc4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/12.jpg",
+          "hash": "535d062ab1edec3099fc3aac5cfa2acf98bfc015e0c283ba636285e0478f4d17"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/01.jpg",
+          "hash": "3fa190e04663e53a94b5626ab7f39813acfe54d101632ae629de07efd0ed9869"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/03.jpg",
+          "hash": "e7e3d760364d4ff58c55439e9874e92822073f4209e34508098890b682a7e8ac"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/02.jpg",
+          "hash": "a36ddc0f36803c331cb9a379a6ca8198e411a79d8e44f1e3459ff9995e0616c9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/06.jpg",
+          "hash": "33fc8307db93ed1d6cf18cbbcf0ab0f6fa348e37efeefe8a9323b0e018bcc01a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/04.jpg",
+          "hash": "6ae60dfbc466ae127bcf691a22e1a6e284e0e7480295b22b94677ae7dba504dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/05.jpg",
+          "hash": "c3d4e8a8eeb6e42c5e796e9a345c5b76d98edc31fd3f1f5de7568b1ee5a95be4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/07.jpg",
+          "hash": "edd2055e7ed2f214c1c0db0d5c46e376cb408c810316dec342977e6c1bb86f61"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/01.jpg",
+          "hash": "7873d0823dcda33e6de0b5647946769dc730941d588b977d852485da198bf0f3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/02.jpg",
+          "hash": "bb463683a650f534a6b24747d70c078fc8a67ba571c98a88d0898d8449ae7a4f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/04.jpg",
+          "hash": "15512a64cd473b8c60d9b91029f0f6e458bee5bafd6744a82a06101cfe2ce36f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/03.jpg",
+          "hash": "e03971589f507e0778b3986a43951940ef037124cfa49d06f0f9179f1994b43a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/05.jpg",
+          "hash": "92b64d31470051a3da18ce394174faafafbc382ae5fd23c8f3a82b0b0b2beb21"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/06.jpg",
+          "hash": "e5d2e7d841c54746f333bcfb7e322d4c3a55159a8b3d7df1d6f188d8e57d720f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/07.jpg",
+          "hash": "2285835a2905e0a23d932447a42752620a1093149c166bd53517f5a49d329201"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/08.jpg",
+          "hash": "bd8e86f7d7f914f65c4dddfcd1e652180074b34a8679265367c1fe97479a180f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/09.jpg",
+          "hash": "50831907d0e1ee87ccb9f4d29f42466fcfa4a6696750b84aca3d1b4312567fa8"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/01.jpg",
+          "hash": "3236b81c5b0fbe8fb4dc2526719a523a09032c06958cb9892675a7e85557b0e8"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/03.jpg",
+          "hash": "6b99e52b43f8be98316e6082222d76efe1aabd3ff438cf87503dcb69727b1ff2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/02.jpg",
+          "hash": "e0041dad12339eabfa8c682d9df5ed7d9451bcae09ef790fffaeab022788510b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/04.jpg",
+          "hash": "fef2ff257754f6d7a38a2bfcb607690499e8d7c1836e06ee0e18879c8faef3b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/05.jpg",
+          "hash": "19d39256f6eed105813a6866e992fe253a329daa279da5a477cd49bcf7f63e80"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/01.jpg",
+          "hash": "8c2e1d4ea27239d126c3e761245db205baa5d83b831242902c12024c3415932f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/06.jpg",
+          "hash": "830063e06261de6142a4a28375dbbdf17703b00a90c37c079618c3f512195aa9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/02.jpg",
+          "hash": "82b48fc4045c034def7501cebe4ecf61de6ee24727e101dd67c52375ea8869c6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/03.jpg",
+          "hash": "f04c90c25b43ddaebbbc86ef1df4b473b07f4f2b07a453df4fc98124341dbe61"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/04.jpg",
+          "hash": "c3d4e8a8eeb6e42c5e796e9a345c5b76d98edc31fd3f1f5de7568b1ee5a95be4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/05.jpg",
+          "hash": "55df63a5359e71e29119d14217279b8cf5e2c2da51fabb559e3d047d03ffae3e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/06.jpg",
+          "hash": "93f9c63f1d080b1aaf1d8fd231ca7c2d73ba3dd5549126687a30d1cef08f4c7f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/01.jpg",
+          "hash": "14db0cc9947999ead8c312cd5a0897330ffaf1d88f0dbeca6def5a471b7962c5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/07.jpg",
+          "hash": "fd1bc370802ffafb2d6e8f359e02f390316353bac35e6fdfeef8eb0bebe9a7af"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/02.jpg",
+          "hash": "81622fb976e229787cdc0859883311f726dd06a403ef4800a2ad7f302c49452c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/04.jpg",
+          "hash": "d4779912903a0825fc0e64fcfbe865b50588b42e6fe3c42817b0d6ae32496135"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/03.jpg",
+          "hash": "88542321303b6f36b3ceb630a0d5f11980ec9dc8f782360bb56f6182470cdbc2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/05.jpg",
+          "hash": "ee96473b2b8c0a172139280bef974ab6b2c06605e972725204228343f8c7982d"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/06.jpg",
+          "hash": "49d7eba83d5ea2fb3a8d3a08e1fc0899a2d0158dc1a10f9c16a26929baaf415f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/media-manifest.json",
+          "hash": "ace7c640954e4d8f484f88079839a411813461976f7bf62b97753a6aaac85bb3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/01.jpg",
+          "hash": "81cab31ad22e49e82cc8f61fdd3d2f3b23a059b440890f64b1ff55de719ce405"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/07.jpg",
+          "hash": "bf8bb84c6f4bbad9638a389d24e01a5397c1ce2915fa5245fc78dab85e5e6398"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/02.jpg",
+          "hash": "e64e357bbf3baab65c7e255e8e4440f114bdc6e7ac344b598ce34db1efb95cd3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/03.jpg",
+          "hash": "8ed66516636a4f1e17ed61e2a10c86219069cd7557ee37ea49fceadc12d62597"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/04.jpg",
+          "hash": "bfd1d94356a51e44acd96803211811ad84bdd4c1f5ea89823e88081535e06e1b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/05.jpg",
+          "hash": "14bfde36ecf6b09a81851b67abc1e9b291d3170c8251fadd99c4bcbf9e211a7f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/06.jpg",
+          "hash": "4c49511ded82e1540c8cdbe7b90b0b15d3377e807d6af7f98a7678d65ee11a35"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/08.jpg",
+          "hash": "dab781929e69a869a5edf59894298979dd19550f84f5bf38a857ef434ae1f190"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/07.jpg",
+          "hash": "0a736c4699024aac0899e8218764a110b453e602d0839c2c9b46c59507a15d28"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/09.jpg",
+          "hash": "b2008517fb200a75fe9ab391b8e554a9c62e19d35d3a35fe7718fd772e2d0b00"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "hash": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/nmec-reviewed-media.json",
+          "hash": "ebbc0cae16c327f3c387bd595ea0a2367be70580a054c844b8ac87c26791a7ce"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/01.jpg",
+          "hash": "ba38e9ad9e0f262932d9bea72acc141b326a1ab40496dbd8282d903afd5b2a41"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/02.jpg",
+          "hash": "b9297c6829dd1e2f7a1fbd52ba2378a79f897913827b24ddd27b7070beab2e9f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "hash": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/03.jpg",
+          "hash": "af134ca5756b6d12e0c0f3ca3ea6ef38d0356b48f9edb9c11bbb97a666d94388"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/06.jpg",
+          "hash": "2102fa832481ffe941c5c6d84c571aca52bba132fde6adcce25c6bfb1e491444"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/04.jpg",
+          "hash": "44456a9b1f36d697d1205c216abb461d157f8e6cd0eeb025a3a60eae895e1e0c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/05.jpg",
+          "hash": "6858f4779e2f842cc23d20dcb7724ee3291cb44470a450c98ce224ae3bfa45fd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/01.jpg",
+          "hash": "0af6c6982197baa51b3a0bfb7e45b9b4c4059c9a19631e6fd2a7bc4ed43822e6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/03.jpg",
+          "hash": "04326c2b95ed514a7df5ea1195adefadd6f34c6ed73e7a338cf21b4f95b0b6bc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/02.jpg",
+          "hash": "a3ba401c292bca5dd24edab3cf675d17aaa703937b914f8d79e496b9c3f299bd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/04.jpg",
+          "hash": "30c14573681ef345e0920426f19b852e9e07f457b7aa7720e2315a3b59fc56b1"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/07.jpg",
+          "hash": "8a13fec5fab1ad8900eb3dba2155cb81a543e42a2c0772aa7c7850ba5bc9c533"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/06.jpg",
+          "hash": "b7f1276601dc94d9a68d2b33201bd539b97431eab15d82f9716425fcdbc959cc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/05.jpg",
+          "hash": "278f04dbc04906b06ac65d6482c94f8b5509bfc7b5b796a7158d1979e93ea645"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/itinerary/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/manifest.webmanifest",
+          "hash": "bac95867cbd569cfc9a4c2dc7f2479ab5901f3f2f786576f3a80b12e7e489190"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/abu-simbel.json",
+          "hash": "7fbae0e7c004f0a2b7574324b28e2a157103fdae5065b949c59a4db746331c5e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/cairo.json",
+          "hash": "8d90035f1deb12ff0f9d522b36c94d738b8aa4c8c45c69e02fef086cb7a549b6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/edfu.json",
+          "hash": "56d1c9226e7ba4288f99ee26d1098f93e3ea591c52ec79cfbb0b5c4017feaa1f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/giza.json",
+          "hash": "54655e65a54dd4e9c47fc8b188c18676457eaf55f3b37d008eb230a60e08671b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/hurghada.json",
+          "hash": "8a5d811724cfda1b129dd994ee0ba09e2f3c8eb54479b3fe39dbf7505c015b64"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/kom-ombo.json",
+          "hash": "3170c43aa554435d98507e86cfae1fb0c2fdfe23c9fe4b5fcdce783120a26ce1"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/luxor.json",
+          "hash": "2d4dc6f364b17c6fff946c6c7dd91d6456a32ae94ba597ec142b324258b6b691"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/manifest.json",
+          "hash": "b5752d9a53a7054d1de0ec66b1c32deee03b47422ab151e638cf0b36b57fb9cc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/abu-simbel-plan.png",
+          "hash": "9ae53351cd99ae70d5769eb44d055f1c7ad6875e5ddf8b7f31f6c4758152abd4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/abu-small-plan.png",
+          "hash": "90fa06f23ccf59d499fe06df82d1851e31a437b0c69e29ae6657514c99404365"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/cairo-citadel-map.jpg",
+          "hash": "f76a66b5c8603a0c3fbf028937d16af50cabed862140cc35c057a95b2db46efa"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/edfu-plan.gif",
+          "hash": "9d08e3d506a012ede9f9447959a7f2a27061e1e7581428d206592f565e8214ea"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/citadel-mosque-plan.jpg",
+          "hash": "16ed251a96f109becc803dcf18b7b7fcd13df8365d409a9ae24fe3bea41525c4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-complex-map.jpg",
+          "hash": "143f2de82a185ff8480d093aaab2db2e51e1daaeca15bfee400acbced33854a0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-ground-plan.png",
+          "hash": "ed638b8d57d21b049e3278e4df434234b2528594decf0fe53a3d2f3ecfa71fd0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-context.json",
+          "hash": "b099106a17b8784d5163afc3159232eb88322637f58bd7f91a45f917bd63a37f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-gallery-sign.jpg",
+          "hash": "7146515e5fd846aa867f96ce67bd1880941c6abf0d85c9b105ac63101a79ae2c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-drawing.png",
+          "hash": "3adb44eff1db53871f3784938c05c06701fe00dc8692e68f704b61e281a1c494"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-plan.jpg",
+          "hash": "6e05efca105c888b283b55ec6174b9ced380348a01d7ad80c01b820704bdcdb2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-upper-plan.png",
+          "hash": "3326fd85d23be6579807a0956a991de69935a251fd1b03efd049b61cc5d6ff00"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-274.png",
+          "hash": "9e12c50dab8e23ee3b1ccb0118bb96e550f0fbe7dfb7bb4399fe132fcd405794"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/giza-plan.jpg",
+          "hash": "6371625976d5c656d7ac74e5811f1a5081f63a91edec617f6d55ee9b57b2726b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-276.png",
+          "hash": "926e2de975cbcc3c7a5c8f2708cb39ef8279212b23dd89ecead5fed2a5525ded"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-275.png",
+          "hash": "22328812648a9fab7b8f082ff24276529ad14f928130d699c8fa656355d91958"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-277.png",
+          "hash": "15213a164ef831ee08f070558bd8dc8158c56bdea52fd9acb92ec566205fa3ab"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-278.png",
+          "hash": "f980e3c02f97648881e2d4305876641484c8a16834b1b609a429a707e94a3ac3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-279.png",
+          "hash": "c0d4c136e5b5eb8975f1e3155ca688be5c7414a0d5ef26fd68ec6f32f92968b2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-whole-plan.png",
+          "hash": "54605b16ee57feeaa8570801b36ac7d206bcf496e6cdb5880f2df2f4ea5473bb"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-amun-plan.png",
+          "hash": "ebe6e77671b01355b9d92b611e1ee9d3571f890aa4dd500091ba37edae631fa3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-hypostyle-plan.jpg",
+          "hash": "2f388beecde8015cd5d2db8eeb1e17c5a6d50f20c898551b2827b330da760ce9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khafre-valley-plan.jpg",
+          "hash": "0268cfc6cbad9735cac27800bc45c805fa9f7d15d6ea81322fa1f2697fa4d482"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-overall-plan.png",
+          "hash": "57200e6c7d32fcbd37955a164551165fcdc19b9c961e5db5b0b9ebc29eef584b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-precinct-context.json",
+          "hash": "3ceef1fac0fb7b45e18a0e4816a88b685e0f85183c9e52435aff6b6f627853a3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khan-el-khalili-context.svg",
+          "hash": "f77f7ffd8cbe53556bbfc1dc8a6add97f0c5578614ce643a5e455dfa27efaec6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khan-native-context.json",
+          "hash": "4e04936f9eb96ec110899883debcbbdddd05d2678ad399e48a41382f78fa1bfe"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kom-ombo-labelled-plan.png",
+          "hash": "d2dae28afd767b5e96e5b2e1a12d3f9f866528d0e806acede3fee1fec3b566f4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kings-valley-context.json",
+          "hash": "f7244337160985f3acda87664dd84d91e6bdb866eb81bb94cc6ce8948a533e29"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kings-valley-plan.png",
+          "hash": "5909e204c20a2df1e8c1a94ba83844b92240d24ba37f9a30d00446ba548b5b67"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kom-ombo-plan.png",
+          "hash": "67d2af63ed484b292039fe22f92718512bd4c4c9e722bbdb3b087927f1524fed"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kv09-plan.png",
+          "hash": "3eeb00b8e63fb8ce66322239fab4faacd681ae674755717125ec166b9d88ed9f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kv62-plan.png",
+          "hash": "f13371e8e20514fed65a35424549699c1fc2027824f0e70bedd281ae0faddec4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/luxor-key-plan.png",
+          "hash": "222bd9b02fc0921bb5c7b1862a4dee1460b602d3c35cf7393e36efc627e3e002"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/memnon-native-context.json",
+          "hash": "df5ea4770640110a549e9bf23a4d5abafbce34b69623877aa69654db36b741e0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/nmec-floor-plan.png",
+          "hash": "6cbaaf458028441e917205723289b90bbcfae0d721228a900d518500d5003e32"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/orange-native-context.json",
+          "hash": "37e911afeb8edf4ef84f39ab85d9acacbed5830e2f0b0ca121558290ef68020b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/orange-bay-context.svg",
+          "hash": "5c8491eab8d77f990dc2f56ce89221f3c9244ae426a382fb81000053a6f7dd39"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/nmec-osm.json",
+          "hash": "e32b1a9120b772aa7c05b2955f5e859f46218ca5ff41fd9ab65f6a9a439ac456"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/theban-necropolis.png",
+          "hash": "99e06b4ec13ee535758e1578f9db7d8f71553acf1578b0b679853706859ec204"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/nmec-source-footprints.svg",
+          "hash": "d3efdf66f0a07d90db09b5bcb307efa26738ec2a9aca45a141ee89160214ae51"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/valley-osm.json",
+          "hash": "5aec2e2d6fd76aa0bd2585a8f573a4f40fd6042b9b1b100a63d570576a291cc4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/valley-terrain.json",
+          "hash": "068b8775c4d98df1be56171b3122c5a15dfb2ca5af3cf316ba6314679dd5b7fc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/sw.js",
+          "hash": "13c691e308849bea47d5d14cb26c20490c2a149315dbc6632303cf10fa8df2f8"
+        }
+      ]
+    },
+    {
+      "key": "nmec-cultural-guide-abcdef1234567890",
+      "progress": {
+        "completed": 88,
+        "total": 213,
+        "phase": "failed",
+        "version": "nmec-cultural-guide-abcdef1234567890",
+        "error": "/nmec-cultural-guide/images/guides/grand-egyptian-museum/08.jpg (503)",
+        "savedAt": "2026-09-18T07:14:52.099Z"
+      },
+      "verified": [
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/404.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/ExteriorMap-D_R7KhHV.js",
+          "hash": "da58b12824a84ba21c52972c22aaa7821c83e10a8d400eec80bbaf6735d30639"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+          "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-BssiyKwB.js",
+          "hash": "384937be870c727ecbd70494722420627402d534cd75296bc9201521d451995a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+          "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/bookings/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/aswan-nubia/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+          "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/hurghada-red-sea/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/cairo-giza/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/luxor-thebes/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/abu-simbel/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/cairo-citadel/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/colossi-of-memnon/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/edfu-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/giza-plateau/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/grand-egyptian-museum/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/hatshepsut-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/khan-el-khalili/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/karnak/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/kom-ombo/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/luxor-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/orange-bay/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/valley-of-the-kings/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/abu-simbel.jpg",
+          "hash": "af63117b1b70a4243da2deab8e8b50f382d2968d98dea3a73dffd1de66d85c40"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/cairo-citadel.jpg",
+          "hash": "4e94a09333ba4bd0c21caf7b42cd693f6af60a61fcfefc4de763b0103a3822f6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/colossi-of-memnon.jpg",
+          "hash": "024fb1eeec318190af79326469be870dfa3c24325aa9576c29a559bb9647df55"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/edfu-temple.jpg",
+          "hash": "61aa69d5f486a45ed40500c9e35a53199844db808e5ae119c0f3011ce642c0f1"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/giza-plateau.jpg",
+          "hash": "08baf546a280b132dbe958642f368bd53112ce3828eff693cac0aee87944b3a0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/grand-egyptian-museum.jpg",
+          "hash": "4cd49b677ac516ea05f9d9de8c79f1b0469e047e4628d9202035b4f46a9703c5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/hatshepsut-temple.jpg",
+          "hash": "91e348cb357a54e33fe634c7cf6ad61f83acd828c57442362b7e8039f6dffb95"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/karnak.jpg",
+          "hash": "46f6e328c6959f109d3d3bc5b8c13a10cdde5f571d7caa42769b1ae3e57a7560"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/khan-el-khalili.jpg",
+          "hash": "26e8bdcc5384859860840d53f8e4973d9c3eb450f12dbb486129c32a8b677d76"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+          "hash": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/kom-ombo.jpg",
+          "hash": "a265907f1edf77e0e3ad7db7752c5beddff002b2426e6b8b4091c4943d98b97a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/luxor-temple.jpg",
+          "hash": "2ce9660ad21f1a2bb42a531354d1c3b8aaa599c646d2d965f9d689d1c183cee4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/orange-bay.jpg",
+          "hash": "a5abd49f1fade6b92deb974df3826cc93544ccebb9b2bdea3e8477bde076e5dc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/provenance.json",
+          "hash": "951a2d50cd5dbb874fe608c947d48ad0fb3736cc02e5b47736d459bfccd509a2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/ATTRIBUTION.md",
+          "hash": "6ffcb6847fc2b1910bcf8a6862e461a3804b9ef14997cb0c0813815b9c23e979"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/giza-panorama.jpg",
+          "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/valley-of-the-kings.jpg",
+          "hash": "d4623ac195fe3f84d3dbfd955e854c889489835e85b3952d51fbc6db7c12a39e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khafre.jpg",
+          "hash": "def5b399e164dd81980bc67ba175c253e0334f39c05f11df521e433758a2294a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khufu.jpg",
+          "hash": "292f153f8fe6f0de6b51de80b1fc16183f99fe69c4d227e2b50d59f71b9a8e89"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/menkaure.jpg",
+          "hash": "8d067118e19de9e24e2d95904317f8e6c32773f5fcc3ea01e5159a9613be6f42"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/sphinx.jpg",
+          "hash": "c1df71cd964d5f0fb929006bf6c6bb9c74d022b7ad76a39fa411d81c3dfb8750"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/ATTRIBUTION.md",
+          "hash": "f22ab8d3200de548b69b2bec583a7f53dd5068539bbec04e0f13011afdb7a0f4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/01.jpg",
+          "hash": "52d98f51b1af2771c380fdd9adbf7219fbfa399f89a076bdf7faf941a870b449"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/valley-temple.jpg",
+          "hash": "9784b4e350728232a693e69ec9819d7f55aad31776c70281e0b38d05f828016e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/02.jpg",
+          "hash": "74cd3793b6c7ee304f3d1aacd3f3ab72a41aa6b6c3fea8fec2dae6bef857e104"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/03.jpg",
+          "hash": "1cf0a6e03ff562a5ea801cc8de5a6ce799c6ddb79b25b468a1aa7dfaf56ec514"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/04.jpg",
+          "hash": "16459e0ebc9cabfdf5263e625355da6004bfb813584bbd12a9d83d466492daca"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/05.jpg",
+          "hash": "de561972f64e84408f610d2468060d44a147be98441ca17435f2df093c1dcba2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/06.jpg",
+          "hash": "1e32d58a1eacb496063670dee7b9bb7ee424edf0300ba34ce66357843c1dd28e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/07.jpg",
+          "hash": "92d3555c9fcef0548baae60d728776ef27004b71b18f0e221a0e2a7b65a5936c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/02.jpg",
+          "hash": "b37996130f8fa1568b671d348eeff992d906f2b5f99310c938f43b8d30424360"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/03.jpg",
+          "hash": "75d9561c15ca181224f6201b5df7bbd4869146c0a6a6e5b5a853a75ac1ccfbd6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/01.jpg",
+          "hash": "de2a1ab3e261865017fb5744dc800ed725650eb1b78ad894669c23348723d8e0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/04.jpg",
+          "hash": "65ae8ca44f19f4e6d4ee6e1e4643a99490474142d33ac1f5d0214632b1448437"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/07.jpg",
+          "hash": "770aa1ef10916e14f0f6d1514f6efaa159c63da1ebc2c0452d634f73d18f9701"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/06.jpg",
+          "hash": "dfb05f0d98d23090950ff6dc186d7590dc55df2f1130f3882699847c56787e8c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/05.jpg",
+          "hash": "cb232007fdf5bc7cb3201b7ba39c3c670c1bb87403bf37e9b2dc734e65877713"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/01.jpg",
+          "hash": "8f5c8931bed6103cf6657577b95485e73cb1fbcd1a6a9e5aa27696a447291f59"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/02.jpg",
+          "hash": "2980af7f3923a71a74efc1d5a13d113043abb2d9d9427ae019311dbc2dc2abf9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/03.jpg",
+          "hash": "7a8d9392491f2d8ea4a90ed4062b89ad6f87c03f759d371dd7a836e0d5c5266c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/04.jpg",
+          "hash": "08dd42085da113ec97f8c9b27b8afc10a3dae2f01e0d615351366bf9d9e88f2a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/01.jpg",
+          "hash": "3df8e726e4a5efb7ec0a1b54cf367160120675278fa6241b72511b1663d62c35"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/02.jpg",
+          "hash": "44e980192796bebd717fee0cce8f9e1ac002169db8f8ca25c164bd86d5b7f4c2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/06.jpg",
+          "hash": "5830605b4e43154995e19a95635d2c6afc39972ffed45acce70f71b1358ccfa5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/05.jpg",
+          "hash": "9a2106c8bbf1c331bcac1077809829f070bc1231c799a9fbc582981c0999226b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/03.jpg",
+          "hash": "5f4214263ba12247901801363c5c4420153897d3af4c01ec9579790a60a6ab0d"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/05.jpg",
+          "hash": "f20ceda41ef7e5de12884c795f0f42c6e06c9b3eb9eb976d8cad9cd09cd1fd13"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/04.jpg",
+          "hash": "2fa1aa452409b88a74ec773cf734bd679b4a947d978c052296af38960e992d58"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/06.jpg",
+          "hash": "0b0454cbecc6f2a4eaca3eb56cd2b1bd3f6aef53b7daa0881428ec12c01d1a97"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/03.jpg",
+          "hash": "27b9940733e6c2d5787b17032f0ac64235ef98e3120cb0cbfb6d27f4ea89392f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/01.jpg",
+          "hash": "617589c56c26d5b02630d70e4dbef40c33f534f740b9c86d1c1840476a435fbf"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/02.jpg",
+          "hash": "de7210b1c6055e2457c4ffb0367c91a479847f3b6039629f7f305b26fa18dad2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/07.jpg",
+          "hash": "be6600356e88f808a1b82af3c6a5f4b8216224f23f3967da7d79f27a4281a2cb"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/04.jpg",
+          "hash": "b75becdc7c713f1deb7d4b65bc338b2dd589653378678bca6568f10e0b2cf700"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/05.jpg",
+          "hash": "89e33c6949c8ecb05c637c0c72bb8f33cda2f0a87dd3fa7b367701ebd285e43a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/07.jpg",
+          "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/06.jpg",
+          "hash": "b7602235d1b6a36db7d60de762eb704b56c60fa9a36d2c14d7ba58f60657f6c6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/01.jpg",
+          "hash": "1695e3667088678d98a8ebd28e208cb2c15e7c70ac20836022c3cde6acd4052e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/03.jpg",
+          "hash": "1b7dac9c78c8ec541ad2109bd4540a1620045bf425f738273ea3f3ee765b5d59"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/02.jpg",
+          "hash": "4ff6246f4cc75f33c357233629a9be8ef2888a6dc0ad28ff810fba73675b6343"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/04.jpg",
+          "hash": "d2f11756cf8f25d7ea17d71938d7c0d3320b2dc6f7a94dafa29c3ad88ad8fd94"
+        }
+      ]
+    }
+  ],
+  "oldReleaseOffline": true,
+  "final": [
+    {
+      "key": "nmec-cultural-guide-abcdef1234567890",
+      "progress": {
+        "completed": 213,
+        "total": 213,
+        "phase": "ready",
+        "version": "nmec-cultural-guide-abcdef1234567890",
+        "savedAt": "2026-09-18T07:14:52.990Z"
+      },
+      "verified": [
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/404.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/ExteriorMap-D_R7KhHV.js",
+          "hash": "da58b12824a84ba21c52972c22aaa7821c83e10a8d400eec80bbaf6735d30639"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/OrbitControls-CZ6mWKAX.js",
+          "hash": "154658b9d7025701d1d001b7b9b7cbe79cde4129789d2f64b255210fd4175389"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-BssiyKwB.js",
+          "hash": "384937be870c727ecbd70494722420627402d534cd75296bc9201521d451995a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/index-t7V5tAp9.css",
+          "hash": "a1f555522caed112da0b6e0d6a3d32340eaba247f716d10b681b5eeecf32dbe0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/bookings/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/aswan-nubia/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/assets/three.module-DZxcwB5I.js",
+          "hash": "7c935e2ade06d895731af60a764fca0b618c5cbab18a419dc797d69efa46adca"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/hurghada-red-sea/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/cairo-giza/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/cities/luxor-thebes/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/abu-simbel/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/cairo-citadel/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/colossi-of-memnon/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/edfu-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/giza-plateau/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/grand-egyptian-museum/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/hatshepsut-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/khan-el-khalili/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/karnak/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/kom-ombo/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/luxor-temple/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/national-museum-egyptian-civilization/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/orange-bay/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/guides/valley-of-the-kings/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/abu-simbel.jpg",
+          "hash": "af63117b1b70a4243da2deab8e8b50f382d2968d98dea3a73dffd1de66d85c40"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/cairo-citadel.jpg",
+          "hash": "4e94a09333ba4bd0c21caf7b42cd693f6af60a61fcfefc4de763b0103a3822f6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/colossi-of-memnon.jpg",
+          "hash": "024fb1eeec318190af79326469be870dfa3c24325aa9576c29a559bb9647df55"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/edfu-temple.jpg",
+          "hash": "61aa69d5f486a45ed40500c9e35a53199844db808e5ae119c0f3011ce642c0f1"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/giza-plateau.jpg",
+          "hash": "08baf546a280b132dbe958642f368bd53112ce3828eff693cac0aee87944b3a0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/grand-egyptian-museum.jpg",
+          "hash": "4cd49b677ac516ea05f9d9de8c79f1b0469e047e4628d9202035b4f46a9703c5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/hatshepsut-temple.jpg",
+          "hash": "91e348cb357a54e33fe634c7cf6ad61f83acd828c57442362b7e8039f6dffb95"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/karnak.jpg",
+          "hash": "46f6e328c6959f109d3d3bc5b8c13a10cdde5f571d7caa42769b1ae3e57a7560"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/khan-el-khalili.jpg",
+          "hash": "26e8bdcc5384859860840d53f8e4973d9c3eb450f12dbb486129c32a8b677d76"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/national-museum-egyptian-civilization.jpg",
+          "hash": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/kom-ombo.jpg",
+          "hash": "a265907f1edf77e0e3ad7db7752c5beddff002b2426e6b8b4091c4943d98b97a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/luxor-temple.jpg",
+          "hash": "2ce9660ad21f1a2bb42a531354d1c3b8aaa599c646d2d965f9d689d1c183cee4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/orange-bay.jpg",
+          "hash": "a5abd49f1fade6b92deb974df3826cc93544ccebb9b2bdea3e8477bde076e5dc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/provenance.json",
+          "hash": "951a2d50cd5dbb874fe608c947d48ad0fb3736cc02e5b47736d459bfccd509a2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/ATTRIBUTION.md",
+          "hash": "6ffcb6847fc2b1910bcf8a6862e461a3804b9ef14997cb0c0813815b9c23e979"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/giza-panorama.jpg",
+          "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/covers/valley-of-the-kings.jpg",
+          "hash": "d4623ac195fe3f84d3dbfd955e854c889489835e85b3952d51fbc6db7c12a39e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khafre.jpg",
+          "hash": "def5b399e164dd81980bc67ba175c253e0334f39c05f11df521e433758a2294a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/khufu.jpg",
+          "hash": "292f153f8fe6f0de6b51de80b1fc16183f99fe69c4d227e2b50d59f71b9a8e89"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/menkaure.jpg",
+          "hash": "8d067118e19de9e24e2d95904317f8e6c32773f5fcc3ea01e5159a9613be6f42"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/sphinx.jpg",
+          "hash": "c1df71cd964d5f0fb929006bf6c6bb9c74d022b7ad76a39fa411d81c3dfb8750"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/ATTRIBUTION.md",
+          "hash": "f22ab8d3200de548b69b2bec583a7f53dd5068539bbec04e0f13011afdb7a0f4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/01.jpg",
+          "hash": "52d98f51b1af2771c380fdd9adbf7219fbfa399f89a076bdf7faf941a870b449"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/giza/valley-temple.jpg",
+          "hash": "9784b4e350728232a693e69ec9819d7f55aad31776c70281e0b38d05f828016e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/02.jpg",
+          "hash": "74cd3793b6c7ee304f3d1aacd3f3ab72a41aa6b6c3fea8fec2dae6bef857e104"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/03.jpg",
+          "hash": "1cf0a6e03ff562a5ea801cc8de5a6ce799c6ddb79b25b468a1aa7dfaf56ec514"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/04.jpg",
+          "hash": "16459e0ebc9cabfdf5263e625355da6004bfb813584bbd12a9d83d466492daca"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/05.jpg",
+          "hash": "de561972f64e84408f610d2468060d44a147be98441ca17435f2df093c1dcba2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/06.jpg",
+          "hash": "1e32d58a1eacb496063670dee7b9bb7ee424edf0300ba34ce66357843c1dd28e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/abu-simbel/07.jpg",
+          "hash": "92d3555c9fcef0548baae60d728776ef27004b71b18f0e221a0e2a7b65a5936c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/02.jpg",
+          "hash": "b37996130f8fa1568b671d348eeff992d906f2b5f99310c938f43b8d30424360"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/03.jpg",
+          "hash": "75d9561c15ca181224f6201b5df7bbd4869146c0a6a6e5b5a853a75ac1ccfbd6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/01.jpg",
+          "hash": "de2a1ab3e261865017fb5744dc800ed725650eb1b78ad894669c23348723d8e0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/04.jpg",
+          "hash": "65ae8ca44f19f4e6d4ee6e1e4643a99490474142d33ac1f5d0214632b1448437"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/07.jpg",
+          "hash": "770aa1ef10916e14f0f6d1514f6efaa159c63da1ebc2c0452d634f73d18f9701"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/06.jpg",
+          "hash": "dfb05f0d98d23090950ff6dc186d7590dc55df2f1130f3882699847c56787e8c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/cairo-citadel/05.jpg",
+          "hash": "cb232007fdf5bc7cb3201b7ba39c3c670c1bb87403bf37e9b2dc734e65877713"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/01.jpg",
+          "hash": "8f5c8931bed6103cf6657577b95485e73cb1fbcd1a6a9e5aa27696a447291f59"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/02.jpg",
+          "hash": "2980af7f3923a71a74efc1d5a13d113043abb2d9d9427ae019311dbc2dc2abf9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/03.jpg",
+          "hash": "7a8d9392491f2d8ea4a90ed4062b89ad6f87c03f759d371dd7a836e0d5c5266c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/04.jpg",
+          "hash": "08dd42085da113ec97f8c9b27b8afc10a3dae2f01e0d615351366bf9d9e88f2a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/01.jpg",
+          "hash": "3df8e726e4a5efb7ec0a1b54cf367160120675278fa6241b72511b1663d62c35"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/02.jpg",
+          "hash": "44e980192796bebd717fee0cce8f9e1ac002169db8f8ca25c164bd86d5b7f4c2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/06.jpg",
+          "hash": "5830605b4e43154995e19a95635d2c6afc39972ffed45acce70f71b1358ccfa5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/colossi-of-memnon/05.jpg",
+          "hash": "9a2106c8bbf1c331bcac1077809829f070bc1231c799a9fbc582981c0999226b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/03.jpg",
+          "hash": "5f4214263ba12247901801363c5c4420153897d3af4c01ec9579790a60a6ab0d"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/05.jpg",
+          "hash": "f20ceda41ef7e5de12884c795f0f42c6e06c9b3eb9eb976d8cad9cd09cd1fd13"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/04.jpg",
+          "hash": "2fa1aa452409b88a74ec773cf734bd679b4a947d978c052296af38960e992d58"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/06.jpg",
+          "hash": "0b0454cbecc6f2a4eaca3eb56cd2b1bd3f6aef53b7daa0881428ec12c01d1a97"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/03.jpg",
+          "hash": "27b9940733e6c2d5787b17032f0ac64235ef98e3120cb0cbfb6d27f4ea89392f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/01.jpg",
+          "hash": "617589c56c26d5b02630d70e4dbef40c33f534f740b9c86d1c1840476a435fbf"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/02.jpg",
+          "hash": "de7210b1c6055e2457c4ffb0367c91a479847f3b6039629f7f305b26fa18dad2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/edfu-temple/07.jpg",
+          "hash": "be6600356e88f808a1b82af3c6a5f4b8216224f23f3967da7d79f27a4281a2cb"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/04.jpg",
+          "hash": "b75becdc7c713f1deb7d4b65bc338b2dd589653378678bca6568f10e0b2cf700"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/05.jpg",
+          "hash": "89e33c6949c8ecb05c637c0c72bb8f33cda2f0a87dd3fa7b367701ebd285e43a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/07.jpg",
+          "hash": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/giza-plateau/06.jpg",
+          "hash": "b7602235d1b6a36db7d60de762eb704b56c60fa9a36d2c14d7ba58f60657f6c6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/01.jpg",
+          "hash": "1695e3667088678d98a8ebd28e208cb2c15e7c70ac20836022c3cde6acd4052e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/03.jpg",
+          "hash": "1b7dac9c78c8ec541ad2109bd4540a1620045bf425f738273ea3f3ee765b5d59"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/02.jpg",
+          "hash": "4ff6246f4cc75f33c357233629a9be8ef2888a6dc0ad28ff810fba73675b6343"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/04.jpg",
+          "hash": "d2f11756cf8f25d7ea17d71938d7c0d3320b2dc6f7a94dafa29c3ad88ad8fd94"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/05.jpg",
+          "hash": "fb5d6600e9399c5d25db79de19dbd7294c7d2f29ef37301ee43b8b493e5f1e5f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/06.jpg",
+          "hash": "df153ee12f15c767b6de0ae0eace674ffbaa8367ab980c0a33aa42be61ebe090"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/07.jpg",
+          "hash": "c691ec9f4373946610dfb99c3d8cae3e10174641fa91aa9e4dc79e8e26e0ec81"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/08.jpg",
+          "hash": "3de425cadbb9b9f96fa7781d26d349528a52f14ad821bef3f78beead9eeba32b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/09.jpg",
+          "hash": "7e621d7c6d026bb270116cd4053f21dfc5d734b2f2ca0cc68b35456851778f5c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/10.jpg",
+          "hash": "57ddeadd72d832c7b9ac6f7dbd4a090333d99a8914ed80e08c555281a934fbf7"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/11.jpg",
+          "hash": "8a5a1d7be996db19744b43d9493bb421af06deae2591d44ae2a29347691e2cc4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/grand-egyptian-museum/12.jpg",
+          "hash": "535d062ab1edec3099fc3aac5cfa2acf98bfc015e0c283ba636285e0478f4d17"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/01.jpg",
+          "hash": "3fa190e04663e53a94b5626ab7f39813acfe54d101632ae629de07efd0ed9869"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/03.jpg",
+          "hash": "e7e3d760364d4ff58c55439e9874e92822073f4209e34508098890b682a7e8ac"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/02.jpg",
+          "hash": "a36ddc0f36803c331cb9a379a6ca8198e411a79d8e44f1e3459ff9995e0616c9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/04.jpg",
+          "hash": "6ae60dfbc466ae127bcf691a22e1a6e284e0e7480295b22b94677ae7dba504dd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/01.jpg",
+          "hash": "7873d0823dcda33e6de0b5647946769dc730941d588b977d852485da198bf0f3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/06.jpg",
+          "hash": "33fc8307db93ed1d6cf18cbbcf0ab0f6fa348e37efeefe8a9323b0e018bcc01a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/05.jpg",
+          "hash": "c3d4e8a8eeb6e42c5e796e9a345c5b76d98edc31fd3f1f5de7568b1ee5a95be4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/hatshepsut-temple/07.jpg",
+          "hash": "edd2055e7ed2f214c1c0db0d5c46e376cb408c810316dec342977e6c1bb86f61"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/02.jpg",
+          "hash": "bb463683a650f534a6b24747d70c078fc8a67ba571c98a88d0898d8449ae7a4f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/03.jpg",
+          "hash": "e03971589f507e0778b3986a43951940ef037124cfa49d06f0f9179f1994b43a"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/04.jpg",
+          "hash": "15512a64cd473b8c60d9b91029f0f6e458bee5bafd6744a82a06101cfe2ce36f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/05.jpg",
+          "hash": "92b64d31470051a3da18ce394174faafafbc382ae5fd23c8f3a82b0b0b2beb21"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/06.jpg",
+          "hash": "e5d2e7d841c54746f333bcfb7e322d4c3a55159a8b3d7df1d6f188d8e57d720f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/07.jpg",
+          "hash": "2285835a2905e0a23d932447a42752620a1093149c166bd53517f5a49d329201"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/08.jpg",
+          "hash": "bd8e86f7d7f914f65c4dddfcd1e652180074b34a8679265367c1fe97479a180f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/karnak/09.jpg",
+          "hash": "50831907d0e1ee87ccb9f4d29f42466fcfa4a6696750b84aca3d1b4312567fa8"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/01.jpg",
+          "hash": "3236b81c5b0fbe8fb4dc2526719a523a09032c06958cb9892675a7e85557b0e8"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/03.jpg",
+          "hash": "6b99e52b43f8be98316e6082222d76efe1aabd3ff438cf87503dcb69727b1ff2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/04.jpg",
+          "hash": "fef2ff257754f6d7a38a2bfcb607690499e8d7c1836e06ee0e18879c8faef3b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/02.jpg",
+          "hash": "e0041dad12339eabfa8c682d9df5ed7d9451bcae09ef790fffaeab022788510b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/05.jpg",
+          "hash": "19d39256f6eed105813a6866e992fe253a329daa279da5a477cd49bcf7f63e80"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/01.jpg",
+          "hash": "8c2e1d4ea27239d126c3e761245db205baa5d83b831242902c12024c3415932f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/02.jpg",
+          "hash": "82b48fc4045c034def7501cebe4ecf61de6ee24727e101dd67c52375ea8869c6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/khan-el-khalili/06.jpg",
+          "hash": "830063e06261de6142a4a28375dbbdf17703b00a90c37c079618c3f512195aa9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/06.jpg",
+          "hash": "93f9c63f1d080b1aaf1d8fd231ca7c2d73ba3dd5549126687a30d1cef08f4c7f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/03.jpg",
+          "hash": "f04c90c25b43ddaebbbc86ef1df4b473b07f4f2b07a453df4fc98124341dbe61"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/05.jpg",
+          "hash": "55df63a5359e71e29119d14217279b8cf5e2c2da51fabb559e3d047d03ffae3e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/04.jpg",
+          "hash": "c3d4e8a8eeb6e42c5e796e9a345c5b76d98edc31fd3f1f5de7568b1ee5a95be4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/kom-ombo/07.jpg",
+          "hash": "fd1bc370802ffafb2d6e8f359e02f390316353bac35e6fdfeef8eb0bebe9a7af"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/01.jpg",
+          "hash": "14db0cc9947999ead8c312cd5a0897330ffaf1d88f0dbeca6def5a471b7962c5"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/02.jpg",
+          "hash": "81622fb976e229787cdc0859883311f726dd06a403ef4800a2ad7f302c49452c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/03.jpg",
+          "hash": "88542321303b6f36b3ceb630a0d5f11980ec9dc8f782360bb56f6182470cdbc2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/06.jpg",
+          "hash": "49d7eba83d5ea2fb3a8d3a08e1fc0899a2d0158dc1a10f9c16a26929baaf415f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/04.jpg",
+          "hash": "d4779912903a0825fc0e64fcfbe865b50588b42e6fe3c42817b0d6ae32496135"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/05.jpg",
+          "hash": "ee96473b2b8c0a172139280bef974ab6b2c06605e972725204228343f8c7982d"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/luxor-temple/07.jpg",
+          "hash": "bf8bb84c6f4bbad9638a389d24e01a5397c1ce2915fa5245fc78dab85e5e6398"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/media-manifest.json",
+          "hash": "ace7c640954e4d8f484f88079839a411813461976f7bf62b97753a6aaac85bb3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/02.jpg",
+          "hash": "e64e357bbf3baab65c7e255e8e4440f114bdc6e7ac344b598ce34db1efb95cd3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/01.jpg",
+          "hash": "81cab31ad22e49e82cc8f61fdd3d2f3b23a059b440890f64b1ff55de719ce405"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/03.jpg",
+          "hash": "8ed66516636a4f1e17ed61e2a10c86219069cd7557ee37ea49fceadc12d62597"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/05.jpg",
+          "hash": "14bfde36ecf6b09a81851b67abc1e9b291d3170c8251fadd99c4bcbf9e211a7f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/04.jpg",
+          "hash": "bfd1d94356a51e44acd96803211811ad84bdd4c1f5ea89823e88081535e06e1b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/06.jpg",
+          "hash": "4c49511ded82e1540c8cdbe7b90b0b15d3377e807d6af7f98a7678d65ee11a35"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/07.jpg",
+          "hash": "0a736c4699024aac0899e8218764a110b453e602d0839c2c9b46c59507a15d28"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/08.jpg",
+          "hash": "dab781929e69a869a5edf59894298979dd19550f84f5bf38a857ef434ae1f190"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/09.jpg",
+          "hash": "b2008517fb200a75fe9ab391b8e554a9c62e19d35d3a35fe7718fd772e2d0b00"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "hash": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "hash": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/nmec-reviewed-media.json",
+          "hash": "ebbc0cae16c327f3c387bd595ea0a2367be70580a054c844b8ac87c26791a7ce"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/01.jpg",
+          "hash": "ba38e9ad9e0f262932d9bea72acc141b326a1ab40496dbd8282d903afd5b2a41"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/02.jpg",
+          "hash": "b9297c6829dd1e2f7a1fbd52ba2378a79f897913827b24ddd27b7070beab2e9f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/03.jpg",
+          "hash": "af134ca5756b6d12e0c0f3ca3ea6ef38d0356b48f9edb9c11bbb97a666d94388"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/05.jpg",
+          "hash": "6858f4779e2f842cc23d20dcb7724ee3291cb44470a450c98ce224ae3bfa45fd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/04.jpg",
+          "hash": "44456a9b1f36d697d1205c216abb461d157f8e6cd0eeb025a3a60eae895e1e0c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/01.jpg",
+          "hash": "0af6c6982197baa51b3a0bfb7e45b9b4c4059c9a19631e6fd2a7bc4ed43822e6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/orange-bay/06.jpg",
+          "hash": "2102fa832481ffe941c5c6d84c571aca52bba132fde6adcce25c6bfb1e491444"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/02.jpg",
+          "hash": "a3ba401c292bca5dd24edab3cf675d17aaa703937b914f8d79e496b9c3f299bd"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/03.jpg",
+          "hash": "04326c2b95ed514a7df5ea1195adefadd6f34c6ed73e7a338cf21b4f95b0b6bc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/04.jpg",
+          "hash": "30c14573681ef345e0920426f19b852e9e07f457b7aa7720e2315a3b59fc56b1"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/05.jpg",
+          "hash": "278f04dbc04906b06ac65d6482c94f8b5509bfc7b5b796a7158d1979e93ea645"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/itinerary/index.html",
+          "hash": "d2169b0cc62a9ac0a015eb39f387b485cc3bd74160788695ec66387a4ae078b3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/07.jpg",
+          "hash": "8a13fec5fab1ad8900eb3dba2155cb81a543e42a2c0772aa7c7850ba5bc9c533"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/images/guides/valley-of-the-kings/06.jpg",
+          "hash": "b7f1276601dc94d9a68d2b33201bd539b97431eab15d82f9716425fcdbc959cc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/manifest.webmanifest",
+          "hash": "bac95867cbd569cfc9a4c2dc7f2479ab5901f3f2f786576f3a80b12e7e489190"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/abu-simbel.json",
+          "hash": "7fbae0e7c004f0a2b7574324b28e2a157103fdae5065b949c59a4db746331c5e"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/cairo.json",
+          "hash": "8d90035f1deb12ff0f9d522b36c94d738b8aa4c8c45c69e02fef086cb7a549b6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/edfu.json",
+          "hash": "56d1c9226e7ba4288f99ee26d1098f93e3ea591c52ec79cfbb0b5c4017feaa1f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/kom-ombo.json",
+          "hash": "3170c43aa554435d98507e86cfae1fb0c2fdfe23c9fe4b5fcdce783120a26ce1"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/giza.json",
+          "hash": "54655e65a54dd4e9c47fc8b188c18676457eaf55f3b37d008eb230a60e08671b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/hurghada.json",
+          "hash": "8a5d811724cfda1b129dd994ee0ba09e2f3c8eb54479b3fe39dbf7505c015b64"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/luxor.json",
+          "hash": "2d4dc6f364b17c6fff946c6c7dd91d6456a32ae94ba597ec142b324258b6b691"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/map-data/manifest.json",
+          "hash": "b5752d9a53a7054d1de0ec66b1c32deee03b47422ab151e638cf0b36b57fb9cc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/abu-small-plan.png",
+          "hash": "90fa06f23ccf59d499fe06df82d1851e31a437b0c69e29ae6657514c99404365"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/abu-simbel-plan.png",
+          "hash": "9ae53351cd99ae70d5769eb44d055f1c7ad6875e5ddf8b7f31f6c4758152abd4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/cairo-citadel-map.jpg",
+          "hash": "f76a66b5c8603a0c3fbf028937d16af50cabed862140cc35c057a95b2db46efa"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/citadel-mosque-plan.jpg",
+          "hash": "16ed251a96f109becc803dcf18b7b7fcd13df8365d409a9ae24fe3bea41525c4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-complex-map.jpg",
+          "hash": "143f2de82a185ff8480d093aaab2db2e51e1daaeca15bfee400acbced33854a0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/edfu-plan.gif",
+          "hash": "9d08e3d506a012ede9f9447959a7f2a27061e1e7581428d206592f565e8214ea"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-ground-plan.png",
+          "hash": "ed638b8d57d21b049e3278e4df434234b2528594decf0fe53a3d2f3ecfa71fd0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-drawing.png",
+          "hash": "3adb44eff1db53871f3784938c05c06701fe00dc8692e68f704b61e281a1c494"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-context.json",
+          "hash": "b099106a17b8784d5163afc3159232eb88322637f58bd7f91a45f917bd63a37f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-gallery-sign.jpg",
+          "hash": "7146515e5fd846aa867f96ce67bd1880941c6abf0d85c9b105ac63101a79ae2c"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-274.png",
+          "hash": "9e12c50dab8e23ee3b1ccb0118bb96e550f0fbe7dfb7bb4399fe132fcd405794"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-upper-plan.png",
+          "hash": "3326fd85d23be6579807a0956a991de69935a251fd1b03efd049b61cc5d6ff00"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/gem-tut-plan.jpg",
+          "hash": "6e05efca105c888b283b55ec6174b9ced380348a01d7ad80c01b820704bdcdb2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/giza-plan.jpg",
+          "hash": "6371625976d5c656d7ac74e5811f1a5081f63a91edec617f6d55ee9b57b2726b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-275.png",
+          "hash": "22328812648a9fab7b8f082ff24276529ad14f928130d699c8fa656355d91958"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-276.png",
+          "hash": "926e2de975cbcc3c7a5c8f2708cb39ef8279212b23dd89ecead5fed2a5525ded"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-277.png",
+          "hash": "15213a164ef831ee08f070558bd8dc8158c56bdea52fd9acb92ec566205fa3ab"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-278.png",
+          "hash": "f980e3c02f97648881e2d4305876641484c8a16834b1b609a429a707e94a3ac3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-plate-279.png",
+          "hash": "c0d4c136e5b5eb8975f1e3155ca688be5c7414a0d5ef26fd68ec6f32f92968b2"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/hatshepsut-whole-plan.png",
+          "hash": "54605b16ee57feeaa8570801b36ac7d206bcf496e6cdb5880f2df2f4ea5473bb"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-amun-plan.png",
+          "hash": "ebe6e77671b01355b9d92b611e1ee9d3571f890aa4dd500091ba37edae631fa3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-hypostyle-plan.jpg",
+          "hash": "2f388beecde8015cd5d2db8eeb1e17c5a6d50f20c898551b2827b330da760ce9"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-overall-plan.png",
+          "hash": "57200e6c7d32fcbd37955a164551165fcdc19b9c961e5db5b0b9ebc29eef584b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khafre-valley-plan.jpg",
+          "hash": "0268cfc6cbad9735cac27800bc45c805fa9f7d15d6ea81322fa1f2697fa4d482"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khan-el-khalili-context.svg",
+          "hash": "f77f7ffd8cbe53556bbfc1dc8a6add97f0c5578614ce643a5e455dfa27efaec6"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/karnak-precinct-context.json",
+          "hash": "3ceef1fac0fb7b45e18a0e4816a88b685e0f85183c9e52435aff6b6f627853a3"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/khan-native-context.json",
+          "hash": "4e04936f9eb96ec110899883debcbbdddd05d2678ad399e48a41382f78fa1bfe"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kom-ombo-labelled-plan.png",
+          "hash": "d2dae28afd767b5e96e5b2e1a12d3f9f866528d0e806acede3fee1fec3b566f4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kings-valley-plan.png",
+          "hash": "5909e204c20a2df1e8c1a94ba83844b92240d24ba37f9a30d00446ba548b5b67"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kings-valley-context.json",
+          "hash": "f7244337160985f3acda87664dd84d91e6bdb866eb81bb94cc6ce8948a533e29"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kom-ombo-plan.png",
+          "hash": "67d2af63ed484b292039fe22f92718512bd4c4c9e722bbdb3b087927f1524fed"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kv09-plan.png",
+          "hash": "3eeb00b8e63fb8ce66322239fab4faacd681ae674755717125ec166b9d88ed9f"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/kv62-plan.png",
+          "hash": "f13371e8e20514fed65a35424549699c1fc2027824f0e70bedd281ae0faddec4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/luxor-key-plan.png",
+          "hash": "222bd9b02fc0921bb5c7b1862a4dee1460b602d3c35cf7393e36efc627e3e002"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/memnon-native-context.json",
+          "hash": "df5ea4770640110a549e9bf23a4d5abafbce34b69623877aa69654db36b741e0"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/nmec-floor-plan.png",
+          "hash": "6cbaaf458028441e917205723289b90bbcfae0d721228a900d518500d5003e32"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/orange-native-context.json",
+          "hash": "37e911afeb8edf4ef84f39ab85d9acacbed5830e2f0b0ca121558290ef68020b"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/orange-bay-context.svg",
+          "hash": "5c8491eab8d77f990dc2f56ce89221f3c9244ae426a382fb81000053a6f7dd39"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/nmec-osm.json",
+          "hash": "e32b1a9120b772aa7c05b2955f5e859f46218ca5ff41fd9ab65f6a9a439ac456"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/attractions/theban-necropolis.png",
+          "hash": "99e06b4ec13ee535758e1578f9db7d8f71553acf1578b0b679853706859ec204"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/nmec-source-footprints.svg",
+          "hash": "d3efdf66f0a07d90db09b5bcb307efa26738ec2a9aca45a141ee89160214ae51"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/valley-osm.json",
+          "hash": "5aec2e2d6fd76aa0bd2585a8f573a4f40fd6042b9b1b100a63d570576a291cc4"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/maps/exteriors/valley-terrain.json",
+          "hash": "068b8775c4d98df1be56171b3122c5a15dfb2ca5af3cf316ba6314679dd5b7fc"
+        },
+        {
+          "url": "http://127.0.0.1:51722/nmec-cultural-guide/sw.js",
+          "hash": "a0c930c0135046e149df8015f21669e2770b5b1df785145c747abd0600b90a8b"
+        }
+      ]
+    }
+  ],
+  "unrelatedCachePreserved": true,
+  "passed": true
+}

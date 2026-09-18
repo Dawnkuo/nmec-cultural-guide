@@ -1,0 +1,35 @@
+import { drawing, rect, strip, type RoomSpec } from './drawing';
+import type { Ring } from './types';
+const circle=(x:number,y:number,r:number):Ring=>Array.from({length:20},(_,i)=>[x+r*Math.cos(i*Math.PI/10),y+r*Math.sin(i*Math.PI/10)]);
+const tombPoints:Array<[string,string,number,number,string?]>=[
+ ['kv1','KV 1 · 拉美西斯七世',1139,331],['kv2','KV 2 · 拉美西斯四世',1218,424],['kv3','KV 3',1280,449],['kv4','KV 4 · 拉美西斯十一世',1314,479],['kv5','KV 5 · 拉美西斯二世诸子',1242,518],['kv6','KV 6 · 拉美西斯九世',1252,548],['kv7','KV 7 · 拉美西斯二世',1198,527],['kv8','KV 8 · 梅伦普塔',1190,563],['kv9','KV 9 · 拉美西斯五／六世',1209,609],['kv62','KV 62 · 图坦卡蒙',1191,591],['kv11','KV 11 · 拉美西斯三世',1139,617],['kv17','KV 17 · 塞提一世',1284,605],['kv16','KV 16 · 拉美西斯一世',1264,608],['kv35','KV 35 · 阿蒙霍特普二世',1106,680],['kv34','KV 34 · 图特摩斯三世',1264,885],['kv22','KV 22 · 阿蒙霍特普三世',624,447],['kv23','KV 23 · 阿伊',151,956],
+];
+export const valleySite=drawing({id:'valley-site',source:{id:'src-tmp-valley-plan',asset:'/maps/attractions/kings-valley-plan.png',sha256:'5909e204c20a2df1e8c1a94ba83844b92240d24ba37f9a30d00446ba548b5b67',width:2600,height:1911,projection:'orthographic',review:'Theban Mapping Project, Valley of the Kings & West Valley, Walton Chan. Public measured plan inspected; terrain and archaeological linework extracted from original PDF, original north/grid convention retained. Point circles are explicit guide markers, NOT footprints.'},drawingWidth:1828,floor:'东西谷总览 · 墓号与地形',bounds:[67,125,1574,1018],entry:null,entryBasis:'The published archaeological map does not locate the current visitor-centre ticket checkpoint.',rooms:tombPoints.map(([id,title,x,y,node])=>[id,title,circle(x,y,8),[x,y],'图上圆点为墓口位置索引，不代表墓室占地。沿原始测绘线稿辨认墓道与相邻王墓；开放、附加票和摄影规定须按当天公告核对。'+(id==='kv9'||id==='kv62'?'本页另有这座墓的独立室内平面，可切换分图按原房号查看。':''),node,'passage']),labels:tombPoints.filter(([id])=>['kv1','kv2','kv5','kv8','kv17','kv35','kv34','kv22','kv23'].includes(id)).map(([id,,x,y])=>[id.toUpperCase(),[x,y-15],id]),limitations:['圆点是地图符号，不是建筑地面；地形与墓道线稿来自TMP原始PDF，未把10米等高线擅自变成实测3D地形。','总览保留东西谷空间关系；KV9与KV62室内使用各自测绘图，绝不把一座墓的结构复用于其他墓。','没有画一条默认串联所有墓口的参观路线，也不保证这些墓在同一日开放。']});
+valleySite.contextAsset='/maps/attractions/kings-valley-context.json';
+valleySite.entry={status:'unmapped',notice:'本图为考古总览；现行游客中心、接驳和检票点须现场确认。',basis:'Current visitor centre is outside this archaeological plan.'};
+valleySite.spaces.forEach(s=>s.geometryRole='point-marker');
+const kv9rooms:RoomSpec[]=[
+ ['kv9-a','A · 入口与阶梯',rect(150,358,232,54),[274,386],'进入岩体的入口段。平面与剖面分开阅读：图上长度不代表水平步道，下降与台阶以现场为准。',undefined,'passage'],
+ ['kv9-b','B · 第一走廊',rect(392,363,220,45),[502,385],'第一长廊以王与神祇的仪式图像建立进入冥界的语境。抬头与看侧墙需要分配不同的观看时间。',undefined,'passage'],
+ ['kv9-c','C · 第二走廊',[[623,363],[654,363],[654,353],[692,353],[692,363],[805,363],[805,408],[692,408],[692,415],[654,415],[654,408],[623,408]],[714,385],'原图C保留两侧凹入变化。注意同一轴线上廊道宽度与壁面编排的节奏，不把凹入画成额外独立展厅。',undefined,'passage'],
+ ['kv9-d','D · 第三走廊',rect(816,363,151,45),[891,385],'通向前室的第三走廊，仍处于连续地下轴线上。',undefined,'passage'],
+ ['kv9-e','E · 前室',rect(978,354,67,60),[1007,385],'比走廊更宽的前室，是进入柱厅前的空间停顿。'],
+ ['kv9-f','F · 四柱厅',rect(1063,321,105,123),[1117,382],'四根方柱与东西通道相接。原图穿过此处的细线还画出了其他墓葬的上下位置，本原生模型只绘制KV9本身，不把跨层墓道合成一层。'],
+ ['kv9-g','G · 下段走廊',rect(1217,357,106,45),[1271,380],'柱厅之后继续向下的走廊，地面高差见原图剖面，低墙读图不冒充高程复原。',undefined,'passage'],
+ ['kv9-h','H · 深部走廊',rect(1334,354,142,44),[1406,377],'地下长轴继续向墓室方向展开；观看天花与墙面时不要阻挡狭窄通道。',undefined,'passage'],
+ ['kv9-i','I · 墓室前室',rect(1488,345,66,60),[1520,376],'最后前室，后方开口收束后进入规模明显放大的墓室。'],
+ ['kv9-j','J · 墓室',[[1570,277],[1703,276],[1703,350],[1699,350],[1699,405],[1710,405],[1710,466],[1572,468]],[1640,427],'核心墓室的天文与冥界图像、石棺和高处顶面共同构成重生语境。石棺只在原图原位标注；不把今日陈设或照明猜成古代状态。',undefined,'sanctuary'],
+ ['kv9-k','K · 墓室末端小室',rect(1702,352,57,35),[1732,370],'原图K，位于墓室东端轴线延长处；不从图件推断游客可进入。',undefined,'side-room'],
+];
+export const kv9=drawing({id:'valley-kv9',source:{id:'src-tmp-kv9',asset:'/maps/attractions/kv09-plan.png',sha256:'3eeb00b8e63fb8ce66322239fab4faacd681ae674755717125ec166b9d88ed9f',width:2000,height:1470,projection:'orthographic',review:'TMP KV9 sheet1 of2 top orthographic plan only. Sections below and neighbouring KV12/KV57/KV62 above/below outlines were not extruded into KV9.'},drawingWidth:1828,floor:'KV9 · 拉美西斯五／六世墓',bounds:[145,272,1620,202],entry:'kv9-a',entryBasis:'TMP marks entry A at the western beginning of KV9.',rooms:kv9rooms,walls:[...[[392,363,220,45],[816,363,151,45],[978,354,67,60],[1217,357,106,45],[1334,354,142,44],[1488,345,66,60]].flatMap(([x,y,w,h])=>[strip([x,y],[x+w,y],2),strip([x,y+h],[x+w,y+h],2)]),strip([1063,321],[1168,321],2),strip([1063,444],[1168,444],2),strip([1570,275],[1703,275],2),strip([1572,468],[1710,466],2),rect(1087,344,16,16),rect(1128,344,16,16),rect(1087,407,16,16),rect(1128,407,16,16),rect(1593,298,16,16),rect(1594,430,16,16)],labels:kv9rooms.map(r=>[r[1].split(' · ')[0],r[3],r[0]]),limitations:['只取测绘图上半部的正投影平面，未把纵剖面、横剖面和上下交错的其他墓葬混进房间。','可缩放与旋转查看，但未建模地下真实坡度；3D为平面低墙剖切。']});
+
+const kv62rooms:RoomSpec[]=[
+ ['kv62-a','A · 下行入口阶梯',rect(243,467,106,35),[293,484],'从地表入口下降。原图同时记录了现代入口遮棚与挡墙；本层仅展示地下墓道，不把遮棚轮廓当作王墓原始房间。',undefined,'passage'],
+ ['kv62-b','B · 入口走廊',rect(368,468,161,32),[450,484],'从阶梯通往前室的狭长走廊。它的倾斜程度属于剖面信息，不能在二维平面上直接量作平地距离。',undefined,'passage'],
+ ['kv62-i','I · 前室',[[547,391],[620,392],[621,408],[635,408],[635,432],[622,432],[625,576],[551,577]],[585,482],'发掘时大量物品集中于前室。比较储藏与礼仪用途，但不要把现今在博物馆展出的器物标成仍在墓内。'],
+ ['kv62-ia','Ia · 附室',[[635,385],[687,383],[694,471],[640,474]],[665,429],'前室侧面的小附室；边界稍有斜度，按测绘保留，不擅自校正成长方形。',undefined,'side-room'],
+ ['kv62-j','J · 墓室',[[552,580],[685,577],[687,663],[554,663]],[621,609],'墓室比前室略低。重点辨认墙面仪式图像、天花与石棺之间的关系；实际可停留区域由现场隔离设施决定。',undefined,'sanctuary'],
+ ['kv62-ja','Ja · 宝库',[[461,604],[540,604],[543,702],[463,700]],[504,653],'从墓室连接的宝库。这里的位置与博物馆中图坦卡蒙展厅的陈列位置不是同一坐标，不能互相替代。',undefined,'side-room'],
+];
+export const kv62=drawing({id:'valley-kv62',source:{id:'src-tmp-kv62',asset:'/maps/attractions/kv62-plan.png',sha256:'f13371e8e20514fed65a35424549699c1fc2027824f0e70bedd281ae0faddec4',width:1334,height:2000,projection:'orthographic',review:'TMP KV62 sheet, top-left plan inspected independently of axonometric illustration and multiple sections. Original room letters preserved, KV9 overlapping projection omitted.'},drawingWidth:1280,floor:'KV62 · 图坦卡蒙墓',bounds:[238,376,465,333],entry:'kv62-a',entryBasis:'TMP entry stair preceding corridor B.',rooms:kv62rooms,walls:[strip([367,466],[529,466],2),strip([367,503],[529,503],2),strip([546,389],[621,391],2),strip([546,391],[548,463],2),strip([549,505],[551,575],2),strip([624,434],[625,576],2),strip([635,383],[688,381],2),strip([689,383],[696,473],2),strip([640,476],[696,473],2),strip([552,578],[684,576],2),strip([687,578],[689,665],2),strip([554,666],[688,666],2),strip([460,602],[541,602],2),strip([460,603],[461,702],2),strip([462,704],[544,704],2),strip([543,660],[544,702],2),rect(596,610,50,20)],labels:kv62rooms.map(r=>[r[1].split(' · ')[0],r[3],r[0]]),limitations:['墓室、附室、前室与宝库沿用TMP房号；不套用KV9或其他王墓的长轴结构。','原图同时提供剖面和轴测；本原生层使用正投影平面，坡度和墙高没有被伪装为实测3D。']});
+export const valleyArchitectureLevels=[valleySite,kv9,kv62];

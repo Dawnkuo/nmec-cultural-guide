@@ -1,4 +1,4 @@
-name: Publish NMEC guide
+name: Publish complete Egypt journey
 on:
   push:
     branches: [main]
