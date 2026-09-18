@@ -1,0 +1,261 @@
+{
+  "target": "https://dawnkuo.github.io/nmec-cultural-guide/",
+  "testedAt": "2026-09-18T08:36:27.564Z",
+  "views": [
+    {
+      "width": 1440,
+      "slug": "national-museum-egyptian-civilization",
+      "images": 13,
+      "lightboxes": 10
+    },
+    {
+      "width": 1440,
+      "slug": "giza-plateau",
+      "images": 11,
+      "lightboxes": 8
+    },
+    {
+      "width": 1440,
+      "slug": "grand-egyptian-museum",
+      "images": 15,
+      "lightboxes": 12
+    },
+    {
+      "width": 1440,
+      "slug": "cairo-citadel",
+      "images": 10,
+      "lightboxes": 7
+    },
+    {
+      "width": 1440,
+      "slug": "khan-el-khalili",
+      "images": 9,
+      "lightboxes": 6
+    },
+    {
+      "width": 1440,
+      "slug": "abu-simbel",
+      "images": 10,
+      "lightboxes": 7
+    },
+    {
+      "width": 1440,
+      "slug": "kom-ombo",
+      "images": 10,
+      "lightboxes": 7
+    },
+    {
+      "width": 1440,
+      "slug": "edfu-temple",
+      "images": 10,
+      "lightboxes": 7
+    },
+    {
+      "width": 1440,
+      "slug": "luxor-temple",
+      "images": 10,
+      "lightboxes": 7
+    },
+    {
+      "width": 1440,
+      "slug": "valley-of-the-kings",
+      "images": 10,
+      "lightboxes": 7
+    },
+    {
+      "width": 1440,
+      "slug": "hatshepsut-temple",
+      "images": 10,
+      "lightboxes": 7
+    },
+    {
+      "width": 1440,
+      "slug": "colossi-of-memnon",
+      "images": 9,
+      "lightboxes": 6
+    },
+    {
+      "width": 1440,
+      "slug": "karnak",
+      "images": 12,
+      "lightboxes": 9
+    },
+    {
+      "width": 1440,
+      "slug": "orange-bay",
+      "images": 9,
+      "lightboxes": 6
+    },
+    {
+      "width": 1094,
+      "slug": "national-museum-egyptian-civilization",
+      "images": 13,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "giza-plateau",
+      "images": 11,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "grand-egyptian-museum",
+      "images": 15,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "cairo-citadel",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "khan-el-khalili",
+      "images": 9,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "abu-simbel",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "kom-ombo",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "edfu-temple",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "luxor-temple",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "valley-of-the-kings",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "hatshepsut-temple",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "colossi-of-memnon",
+      "images": 9,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "karnak",
+      "images": 12,
+      "lightboxes": 0
+    },
+    {
+      "width": 1094,
+      "slug": "orange-bay",
+      "images": 9,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "national-museum-egyptian-civilization",
+      "images": 13,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "giza-plateau",
+      "images": 11,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "grand-egyptian-museum",
+      "images": 15,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "cairo-citadel",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "khan-el-khalili",
+      "images": 9,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "abu-simbel",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "kom-ombo",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "edfu-temple",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "luxor-temple",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "valley-of-the-kings",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "hatshepsut-temple",
+      "images": 10,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "colossi-of-memnon",
+      "images": 9,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "karnak",
+      "images": 12,
+      "lightboxes": 0
+    },
+    {
+      "width": 390,
+      "slug": "orange-bay",
+      "images": 9,
+      "lightboxes": 0
+    }
+  ],
+  "errors": [],
+  "device": "Chrome desktop/tablet/phone emulation, not physical device",
+  "passed": true
+}

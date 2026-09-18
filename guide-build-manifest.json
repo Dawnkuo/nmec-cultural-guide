@@ -7771,7 +7771,7 @@
       "allGuides": true,
       "webglFallback": true
     },
-    "deployed": "pending"
+    "deployed": "passed"
   },
   "deploymentVerification": {
     "completeRouteSet": true,
@@ -7779,7 +7779,7 @@
     "guideCount": 14,
     "resourceCount": 310,
     "localBrowser": "passed",
-    "liveBrowser": "pending",
+    "liveBrowser": "passed",
     "contentAcceptanceNotInferred": true
   },
   "mediaReview": {
@@ -7791,6 +7791,6 @@
     "registry": "public/images/reviewed/manifest.json",
     "localViews": 42,
     "lightboxes": 106,
-    "liveViews": 0
+    "liveViews": 42
   }
 }

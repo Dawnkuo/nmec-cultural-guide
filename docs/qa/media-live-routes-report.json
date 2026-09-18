@@ -1,0 +1,241 @@
+{
+  "target": "https://dawnkuo.github.io/nmec-cultural-guide/",
+  "release": "nmec-cultural-guide-d969aae70089d175",
+  "testedAt": "2026-09-18T08:36:57.760Z",
+  "online": [
+    {
+      "route": "/nmec-cultural-guide/",
+      "title": "埃及纪行\n2026",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/itinerary/",
+      "title": "逐日行程与路线地图",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/",
+      "title": "城市与文化地景",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/cairo-giza/",
+      "title": "开罗与吉萨",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/aswan-nubia/",
+      "title": "阿斯旺与努比亚",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/luxor-thebes/",
+      "title": "卢克索与古底比斯",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/hurghada-red-sea/",
+      "title": "赫尔格达与红海",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/",
+      "title": "景点导览目录",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/",
+      "title": "埃及国家文明博物馆",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/giza-plateau/",
+      "title": "吉萨金字塔群",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/grand-egyptian-museum/",
+      "title": "大埃及博物馆",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/cairo-citadel/",
+      "title": "开罗城堡与穆罕默德·阿里清真寺",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/khan-el-khalili/",
+      "title": "哈利利市场与历史开罗街巷",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/abu-simbel/",
+      "title": "阿布辛贝神庙",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/kom-ombo/",
+      "title": "康翁波神庙",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/edfu-temple/",
+      "title": "埃德富荷鲁斯神庙",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/luxor-temple/",
+      "title": "卢克索神庙",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/valley-of-the-kings/",
+      "title": "帝王谷",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/hatshepsut-temple/",
+      "title": "哈特谢普苏特葬祭殿",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/colossi-of-memnon/",
+      "title": "门农巨像",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/karnak/",
+      "title": "卡纳克神庙群",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/orange-bay/",
+      "title": "Orange Bay 与红海海洋体验",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/bookings/",
+      "title": "凭证与待确认",
+      "passed": true
+    }
+  ],
+  "offline": [
+    {
+      "route": "/nmec-cultural-guide/",
+      "title": "埃及纪行\n2026",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/itinerary/",
+      "title": "逐日行程与路线地图",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/",
+      "title": "城市与文化地景",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/cairo-giza/",
+      "title": "开罗与吉萨",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/aswan-nubia/",
+      "title": "阿斯旺与努比亚",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/luxor-thebes/",
+      "title": "卢克索与古底比斯",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/hurghada-red-sea/",
+      "title": "赫尔格达与红海",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/",
+      "title": "景点导览目录",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/",
+      "title": "埃及国家文明博物馆",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/giza-plateau/",
+      "title": "吉萨金字塔群",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/grand-egyptian-museum/",
+      "title": "大埃及博物馆",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/cairo-citadel/",
+      "title": "开罗城堡与穆罕默德·阿里清真寺",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/khan-el-khalili/",
+      "title": "哈利利市场与历史开罗街巷",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/abu-simbel/",
+      "title": "阿布辛贝神庙",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/kom-ombo/",
+      "title": "康翁波神庙",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/edfu-temple/",
+      "title": "埃德富荷鲁斯神庙",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/luxor-temple/",
+      "title": "卢克索神庙",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/valley-of-the-kings/",
+      "title": "帝王谷",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/hatshepsut-temple/",
+      "title": "哈特谢普苏特葬祭殿",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/colossi-of-memnon/",
+      "title": "门农巨像",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/karnak/",
+      "title": "卡纳克神庙群",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/orange-bay/",
+      "title": "Orange Bay 与红海海洋体验",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/bookings/",
+      "title": "凭证与待确认",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

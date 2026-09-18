@@ -15,10 +15,12 @@ await copyFile('artifacts/media-full-local/report.json','docs/qa/media-full-loca
 await copyFile('artifacts/full/fallback-report.json','docs/qa/media-fallback-report.json');
 let deployed;
 if(live){
- deployed=await read('artifacts/media-live/report.json');const pkg=await read('artifacts/full-live/package-report.json');
+ deployed=await read('artifacts/media-live/report.json');const pkg=await read('artifacts/full-live/package-report.json');const routes=await read('artifacts/media-live/routes-report.json');
  assert.ok(deployed.passed&&pkg.passed);assert.equal(deployed.views.length,42);assert.equal(pkg.release,offline.release);assert.equal(pkg.files.length,offline.resources.length);
+ assert.ok(routes.passed);assert.equal(routes.release,offline.release);assert.equal(routes.online.length,23);assert.equal(routes.offline.length,23);
  await copyFile('artifacts/media-live/report.json','docs/qa/media-live-report.json');
  await copyFile('artifacts/full-live/package-report.json','docs/qa/media-live-package-report.json');
+ await copyFile('artifacts/media-live/routes-report.json','docs/qa/media-live-routes-report.json');
 }
 const manifest=await read('guide-build-manifest.json');
 const server=await createServer({configFile:false,base:'/',cacheDir:'node_modules/.vite-media-release',server:{middlewareMode:true},appType:'custom',optimizeDeps:{noDiscovery:true}});
