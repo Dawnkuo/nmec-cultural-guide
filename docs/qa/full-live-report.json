@@ -1,0 +1,2036 @@
+{
+  "target": "https://dawnkuo.github.io/nmec-cultural-guide/",
+  "release": "nmec-cultural-guide-fffb43b1c37b46df",
+  "testedAt": "2026-09-18T07:16:17.979Z",
+  "routes": [
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/",
+      "title": "埃及纪行\n2026",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/itinerary/",
+      "title": "逐日行程与路线地图",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/cities/",
+      "title": "城市与文化地景",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/cities/cairo-giza/",
+      "title": "开罗与吉萨",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/cities/aswan-nubia/",
+      "title": "阿斯旺与努比亚",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/cities/luxor-thebes/",
+      "title": "卢克索与古底比斯",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/cities/hurghada-red-sea/",
+      "title": "赫尔格达与红海",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/",
+      "title": "景点导览目录",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/",
+      "title": "埃及国家文明博物馆",
+      "floors": [
+        {
+          "id": "nmec-arrival",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "nmec-mummies-level",
+          "labels": 3,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "nmec-exterior-complete",
+          "parts": 200,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/giza-plateau/",
+      "title": "吉萨金字塔群",
+      "floors": [
+        {
+          "id": "giza-plateau-native",
+          "labels": 8,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "giza-valley-interior",
+          "labels": 13,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "giza-exterior",
+          "parts": 37,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "sphinx-exterior",
+          "parts": 5,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/grand-egyptian-museum/",
+      "title": "大埃及博物馆",
+      "floors": [
+        {
+          "id": "gem-arrival-level",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "gem-upper-level",
+          "labels": 12,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "gem-tut-current",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "gem-exterior",
+          "parts": 16,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/cairo-citadel/",
+      "title": "开罗城堡与穆罕默德·阿里清真寺",
+      "floors": [
+        {
+          "id": "citadel-site",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "citadel-ali-mosque",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "ali-exterior",
+          "parts": 165,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/khan-el-khalili/",
+      "title": "哈利利市场与历史开罗街巷",
+      "floors": [
+        {
+          "id": "khan-outdoor",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "khan-exterior-context",
+          "parts": 2059,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "wikala-exterior",
+          "parts": 88,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/abu-simbel/",
+      "title": "阿布辛贝神庙",
+      "floors": [
+        {
+          "id": "abu-great-ground",
+          "labels": 15,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "abu-small-ground",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "abu-great-exterior",
+          "parts": 52,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "abu-small-exterior",
+          "parts": 28,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/kom-ombo/",
+      "title": "康翁波神庙",
+      "floors": [
+        {
+          "id": "kom-double-temple",
+          "labels": 16,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "kom-exterior",
+          "parts": 78,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/edfu-temple/",
+      "title": "埃德富荷鲁斯神庙",
+      "floors": [
+        {
+          "id": "edfu-ground",
+          "labels": 14,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "edfu-exterior",
+          "parts": 56,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/luxor-temple/",
+      "title": "卢克索神庙",
+      "floors": [
+        {
+          "id": "luxor-ground",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "luxor-exterior",
+          "parts": 246,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/valley-of-the-kings/",
+      "title": "帝王谷",
+      "floors": [
+        {
+          "id": "valley-site",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "valley-kv9",
+          "labels": 11,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "valley-kv62",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "valley-exterior",
+          "parts": 555,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/hatshepsut-temple/",
+      "title": "哈特谢普苏特葬祭殿",
+      "floors": [
+        {
+          "id": "hat-arrival-plan",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-middle-south",
+          "labels": 3,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-middle-north",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-upper-north-sanctuary",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-upper-south",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "hatshepsut-exterior",
+          "parts": 101,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/colossi-of-memnon/",
+      "title": "门农巨像",
+      "floors": [
+        {
+          "id": "memnon-outdoor",
+          "labels": 4,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "memnon-exterior",
+          "parts": 27,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/karnak/",
+      "title": "卡纳克神庙群",
+      "floors": [
+        {
+          "id": "karnak-amun-core",
+          "labels": 16,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-134-columns",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-precincts",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "karnak-exterior",
+          "parts": 337,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-columns-exterior",
+          "parts": 134,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/guides/orange-bay/",
+      "title": "Orange Bay 与红海海洋体验",
+      "floors": [
+        {
+          "id": "orange-outdoor",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "orange-exterior",
+          "parts": 30,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "/nmec-cultural-guide/bookings/",
+      "title": "凭证与待确认",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/",
+      "title": "埃及纪行\n2026",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/itinerary/",
+      "title": "逐日行程与路线地图",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/cities/",
+      "title": "城市与文化地景",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/cities/cairo-giza/",
+      "title": "开罗与吉萨",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/cities/aswan-nubia/",
+      "title": "阿斯旺与努比亚",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/cities/luxor-thebes/",
+      "title": "卢克索与古底比斯",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/cities/hurghada-red-sea/",
+      "title": "赫尔格达与红海",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/",
+      "title": "景点导览目录",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/",
+      "title": "埃及国家文明博物馆",
+      "floors": [
+        {
+          "id": "nmec-arrival",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "nmec-mummies-level",
+          "labels": 3,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "nmec-exterior-complete",
+          "parts": 200,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/giza-plateau/",
+      "title": "吉萨金字塔群",
+      "floors": [
+        {
+          "id": "giza-plateau-native",
+          "labels": 8,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "giza-valley-interior",
+          "labels": 13,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "giza-exterior",
+          "parts": 37,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "sphinx-exterior",
+          "parts": 5,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/grand-egyptian-museum/",
+      "title": "大埃及博物馆",
+      "floors": [
+        {
+          "id": "gem-arrival-level",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "gem-upper-level",
+          "labels": 12,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "gem-tut-current",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "gem-exterior",
+          "parts": 16,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/cairo-citadel/",
+      "title": "开罗城堡与穆罕默德·阿里清真寺",
+      "floors": [
+        {
+          "id": "citadel-site",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "citadel-ali-mosque",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "ali-exterior",
+          "parts": 165,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/khan-el-khalili/",
+      "title": "哈利利市场与历史开罗街巷",
+      "floors": [
+        {
+          "id": "khan-outdoor",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "khan-exterior-context",
+          "parts": 2059,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "wikala-exterior",
+          "parts": 88,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/abu-simbel/",
+      "title": "阿布辛贝神庙",
+      "floors": [
+        {
+          "id": "abu-great-ground",
+          "labels": 15,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "abu-small-ground",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "abu-great-exterior",
+          "parts": 52,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "abu-small-exterior",
+          "parts": 28,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/kom-ombo/",
+      "title": "康翁波神庙",
+      "floors": [
+        {
+          "id": "kom-double-temple",
+          "labels": 16,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "kom-exterior",
+          "parts": 78,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/edfu-temple/",
+      "title": "埃德富荷鲁斯神庙",
+      "floors": [
+        {
+          "id": "edfu-ground",
+          "labels": 14,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "edfu-exterior",
+          "parts": 56,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/luxor-temple/",
+      "title": "卢克索神庙",
+      "floors": [
+        {
+          "id": "luxor-ground",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "luxor-exterior",
+          "parts": 246,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/valley-of-the-kings/",
+      "title": "帝王谷",
+      "floors": [
+        {
+          "id": "valley-site",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "valley-kv9",
+          "labels": 11,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "valley-kv62",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "valley-exterior",
+          "parts": 555,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/hatshepsut-temple/",
+      "title": "哈特谢普苏特葬祭殿",
+      "floors": [
+        {
+          "id": "hat-arrival-plan",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-middle-south",
+          "labels": 3,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-middle-north",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-upper-north-sanctuary",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-upper-south",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "hatshepsut-exterior",
+          "parts": 101,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/colossi-of-memnon/",
+      "title": "门农巨像",
+      "floors": [
+        {
+          "id": "memnon-outdoor",
+          "labels": 4,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "memnon-exterior",
+          "parts": 27,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/karnak/",
+      "title": "卡纳克神庙群",
+      "floors": [
+        {
+          "id": "karnak-amun-core",
+          "labels": 16,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-134-columns",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-precincts",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "karnak-exterior",
+          "parts": 337,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-columns-exterior",
+          "parts": 134,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/guides/orange-bay/",
+      "title": "Orange Bay 与红海海洋体验",
+      "floors": [
+        {
+          "id": "orange-outdoor",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "orange-exterior",
+          "parts": 30,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1094,
+      "route": "/nmec-cultural-guide/bookings/",
+      "title": "凭证与待确认",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/",
+      "title": "埃及纪行\n2026",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/itinerary/",
+      "title": "逐日行程与路线地图",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/cities/",
+      "title": "城市与文化地景",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/cities/cairo-giza/",
+      "title": "开罗与吉萨",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/cities/aswan-nubia/",
+      "title": "阿斯旺与努比亚",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/cities/luxor-thebes/",
+      "title": "卢克索与古底比斯",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/cities/hurghada-red-sea/",
+      "title": "赫尔格达与红海",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/",
+      "title": "景点导览目录",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/",
+      "title": "埃及国家文明博物馆",
+      "floors": [
+        {
+          "id": "nmec-arrival",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "nmec-mummies-level",
+          "labels": 3,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "nmec-exterior-complete",
+          "parts": 200,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/giza-plateau/",
+      "title": "吉萨金字塔群",
+      "floors": [
+        {
+          "id": "giza-plateau-native",
+          "labels": 8,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "giza-valley-interior",
+          "labels": 13,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "giza-exterior",
+          "parts": 37,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "sphinx-exterior",
+          "parts": 5,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/grand-egyptian-museum/",
+      "title": "大埃及博物馆",
+      "floors": [
+        {
+          "id": "gem-arrival-level",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "gem-upper-level",
+          "labels": 12,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "gem-tut-current",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "gem-exterior",
+          "parts": 16,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/cairo-citadel/",
+      "title": "开罗城堡与穆罕默德·阿里清真寺",
+      "floors": [
+        {
+          "id": "citadel-site",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "citadel-ali-mosque",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "ali-exterior",
+          "parts": 165,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/khan-el-khalili/",
+      "title": "哈利利市场与历史开罗街巷",
+      "floors": [
+        {
+          "id": "khan-outdoor",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "khan-exterior-context",
+          "parts": 2059,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "wikala-exterior",
+          "parts": 88,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/abu-simbel/",
+      "title": "阿布辛贝神庙",
+      "floors": [
+        {
+          "id": "abu-great-ground",
+          "labels": 15,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "abu-small-ground",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "abu-great-exterior",
+          "parts": 52,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "abu-small-exterior",
+          "parts": 28,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/kom-ombo/",
+      "title": "康翁波神庙",
+      "floors": [
+        {
+          "id": "kom-double-temple",
+          "labels": 16,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "kom-exterior",
+          "parts": 78,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/edfu-temple/",
+      "title": "埃德富荷鲁斯神庙",
+      "floors": [
+        {
+          "id": "edfu-ground",
+          "labels": 14,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "edfu-exterior",
+          "parts": 56,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/luxor-temple/",
+      "title": "卢克索神庙",
+      "floors": [
+        {
+          "id": "luxor-ground",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "luxor-exterior",
+          "parts": 246,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/valley-of-the-kings/",
+      "title": "帝王谷",
+      "floors": [
+        {
+          "id": "valley-site",
+          "labels": 9,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "valley-kv9",
+          "labels": 11,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "valley-kv62",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "valley-exterior",
+          "parts": 555,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/hatshepsut-temple/",
+      "title": "哈特谢普苏特葬祭殿",
+      "floors": [
+        {
+          "id": "hat-arrival-plan",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-middle-south",
+          "labels": 3,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-middle-north",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-upper-north-sanctuary",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "hat-upper-south",
+          "labels": 10,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "hatshepsut-exterior",
+          "parts": 101,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/colossi-of-memnon/",
+      "title": "门农巨像",
+      "floors": [
+        {
+          "id": "memnon-outdoor",
+          "labels": 4,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "memnon-exterior",
+          "parts": 27,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/karnak/",
+      "title": "卡纳克神庙群",
+      "floors": [
+        {
+          "id": "karnak-amun-core",
+          "labels": 16,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-134-columns",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-precincts",
+          "labels": 6,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "karnak-exterior",
+          "parts": 337,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        },
+        {
+          "id": "karnak-columns-exterior",
+          "parts": 134,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/guides/orange-bay/",
+      "title": "Orange Bay 与红海海洋体验",
+      "floors": [
+        {
+          "id": "orange-outdoor",
+          "labels": 5,
+          "views": [
+            "2d",
+            "3d"
+          ],
+          "selection": true
+        }
+      ],
+      "exteriors": [
+        {
+          "id": "orange-exterior",
+          "parts": 30,
+          "views": [
+            "front",
+            "oblique",
+            "2d"
+          ],
+          "selection": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "/nmec-cultural-guide/bookings/",
+      "title": "凭证与待确认",
+      "floors": [],
+      "exteriors": [],
+      "passed": true
+    }
+  ],
+  "offline": [
+    {
+      "route": "/nmec-cultural-guide/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/itinerary/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/cairo-giza/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/aswan-nubia/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/luxor-thebes/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/cities/hurghada-red-sea/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/giza-plateau/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/grand-egyptian-museum/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/cairo-citadel/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/khan-el-khalili/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/abu-simbel/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/kom-ombo/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/edfu-temple/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/luxor-temple/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/valley-of-the-kings/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/hatshepsut-temple/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/colossi-of-memnon/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/karnak/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/guides/orange-bay/",
+      "passed": true
+    },
+    {
+      "route": "/nmec-cultural-guide/bookings/",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "phone": "Chrome emulation, not physical hardware",
+  "passed": true
+}

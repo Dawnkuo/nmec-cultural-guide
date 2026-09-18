@@ -1,0 +1,49 @@
+{
+  "scenario": "Upgrade the actual previous single-museum source release to the complete Egypt site",
+  "previousRelease": "nmec-cultural-guide-4572ed600c22fb85",
+  "release": "nmec-cultural-guide-fffb43b1c37b46df",
+  "testedAt": "2026-09-18T07:17:54.101Z",
+  "offlineRoutes": [
+    "/nmec-cultural-guide/",
+    "/nmec-cultural-guide/itinerary/",
+    "/nmec-cultural-guide/cities/",
+    "/nmec-cultural-guide/cities/cairo-giza/",
+    "/nmec-cultural-guide/cities/aswan-nubia/",
+    "/nmec-cultural-guide/cities/luxor-thebes/",
+    "/nmec-cultural-guide/cities/hurghada-red-sea/",
+    "/nmec-cultural-guide/guides/",
+    "/nmec-cultural-guide/guides/national-museum-egyptian-civilization/",
+    "/nmec-cultural-guide/guides/giza-plateau/",
+    "/nmec-cultural-guide/guides/grand-egyptian-museum/",
+    "/nmec-cultural-guide/guides/cairo-citadel/",
+    "/nmec-cultural-guide/guides/khan-el-khalili/",
+    "/nmec-cultural-guide/guides/abu-simbel/",
+    "/nmec-cultural-guide/guides/kom-ombo/",
+    "/nmec-cultural-guide/guides/edfu-temple/",
+    "/nmec-cultural-guide/guides/luxor-temple/",
+    "/nmec-cultural-guide/guides/valley-of-the-kings/",
+    "/nmec-cultural-guide/guides/hatshepsut-temple/",
+    "/nmec-cultural-guide/guides/colossi-of-memnon/",
+    "/nmec-cultural-guide/guides/karnak/",
+    "/nmec-cultural-guide/guides/orange-bay/",
+    "/nmec-cultural-guide/bookings/"
+  ],
+  "interrupted": {
+    "completed": 29,
+    "total": 213,
+    "phase": "failed",
+    "version": "nmec-cultural-guide-fffb43b1c37b46df",
+    "error": "/nmec-cultural-guide/images/covers/giza-plateau.jpg (503)",
+    "savedAt": "2026-09-18T07:17:57.099Z"
+  },
+  "oldSiteRetained": true,
+  "completed": {
+    "completed": 213,
+    "total": 213,
+    "phase": "ready",
+    "version": "nmec-cultural-guide-fffb43b1c37b46df",
+    "savedAt": "2026-09-18T07:17:58.000Z"
+  },
+  "previousCacheRetired": true,
+  "passed": true
+}

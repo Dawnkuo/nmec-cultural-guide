@@ -7650,7 +7650,7 @@
       "allGuides": true,
       "webglFallback": true
     },
-    "deployed": "pending"
+    "deployed": "passed"
   },
   "deploymentVerification": {
     "completeRouteSet": true,
@@ -7658,7 +7658,7 @@
     "guideCount": 14,
     "resourceCount": 213,
     "localBrowser": "passed",
-    "liveBrowser": "pending",
+    "liveBrowser": "passed",
     "contentAcceptanceNotInferred": true
   }
 }
