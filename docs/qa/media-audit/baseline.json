@@ -1,0 +1,2959 @@
+[
+  {
+    "slug": "national-museum-egyptian-civilization",
+    "title": "埃及国家文明博物馆",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/national-museum-egyptian-civilization.jpg",
+          "alt": "埃及国家文明博物馆正门广场、石质主立面与上方金字塔形玻璃屋顶",
+          "caption": "Roland Unger · CC BY-SA 4.0 · 拍摄：2017-03-05",
+          "credit": {
+            "author": "Roland Unger",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2017-03-05"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1280
+          }
+        },
+        "sha256": "3b4b5704eb5aaf2ed6b585bac8b3babbc1b5e6336955c3e8616c64b35fb71c39"
+      },
+      {
+        "id": "exterior",
+        "title": "先把博物馆放回福斯塔特",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/01.jpg",
+          "alt": "博物馆正门与入口广场，2017年。",
+          "credit": {
+            "author": "Roland Unger",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2017-03-05"
+          },
+          "caption": "博物馆正门与入口广场，2017年。 Roland Unger · CC BY-SA 4.0。"
+        },
+        "sha256": "81cab31ad22e49e82cc8f61fdd3d2f3b23a059b440890f64b1ff55de719ce405"
+      },
+      {
+        "id": "interior",
+        "title": "从主展厅建立年代，再进入专题展厅",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "alt": "埃及国家文明博物馆展厅内的玻璃展柜与挑高空间（2017年实景）",
+          "caption": "展厅实景，2017年3月5日；仅说明展陈空间，不代表2026年展柜与动线。Roland Unger，NMEC-MainHall.jpg，CC BY-SA 4.0。",
+          "dimensions": {
+            "width": 1920,
+            "height": 1262
+          },
+          "credit": {
+            "author": "Roland Unger",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainHall.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2017-03-05"
+          }
+        },
+        "sha256": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+      },
+      {
+        "id": "nmec-architecture",
+        "title": "从大厅先看“文明叙事”",
+        "summary": "大厅的尺度与展柜关系把不同历史阶段放进同一视野，适合先建立整体时间感。",
+        "lookFor": "先找时间轴，再找同一主题在不同时期的材料变化。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "alt": "埃及国家文明博物馆展厅内的玻璃展柜与挑高空间（2017年实景）",
+          "caption": "展厅实景，2017年3月5日；仅说明展陈空间，不代表2026年展柜与动线。Roland Unger，NMEC-MainHall.jpg，CC BY-SA 4.0。",
+          "dimensions": {
+            "width": 1920,
+            "height": 1262
+          },
+          "credit": {
+            "author": "Roland Unger",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainHall.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2017-03-05"
+          }
+        },
+        "sha256": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+      },
+      {
+        "id": "nmec-prehistory",
+        "title": "史前生活：技术早于王朝",
+        "summary": "石器、容器和生活工具应作为环境适应与技术积累来读，而不只是“最古老”的标签。",
+        "lookFor": "比较器物的磨制、穿孔与表面处理，想象制作步骤。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/main-hall-reviewed.jpg",
+          "alt": "埃及国家文明博物馆展厅内的玻璃展柜与挑高空间（2017年实景）",
+          "caption": "2017年展厅中的器物与工艺陈列环境；不是本条所述史前对象的逐件鉴定图。 展厅实景，2017年3月5日；仅说明展陈空间，不代表2026年展柜与动线。Roland Unger，NMEC-MainHall.jpg，CC BY-SA 4.0。",
+          "dimensions": {
+            "width": 1920,
+            "height": 1262
+          },
+          "credit": {
+            "author": "Roland Unger",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainHall.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2017-03-05"
+          }
+        },
+        "sha256": "4a982314fcd3f4eb91f7fce96ce90ad7111868ead1fa0c3310ce3d7127d31962"
+      },
+      {
+        "id": "nmec-kingship",
+        "title": "王权形象：固定程式中的选择",
+        "summary": "正面性、比例和冠饰让统治者超越个体肖像，成为秩序的可视符号。",
+        "lookFor": "看头饰、步姿、铭文位置与身体是否依附背柱。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/07.jpg",
+          "alt": "主展厅石刻、雕塑与陈列空间，2022年摄。",
+          "credit": {
+            "author": "Onceinawhile",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Egyptian_Civilization_2022_06.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2022"
+          },
+          "caption": "主展厅石刻、雕塑与陈列空间，2022年摄。 Onceinawhile · CC BY-SA 4.0。"
+        },
+        "sha256": "0a736c4699024aac0899e8218764a110b453e602d0839c2c9b46c59507a15d28"
+      },
+      {
+        "id": "nmec-textile-material",
+        "title": "纺织物：最脆弱的社会档案",
+        "summary": "纤维、染色和补缀保留服饰、劳动与贸易的信息，其意义不低于石雕。",
+        "lookFor": "找经纬密度、色线交界与磨损；避免把现代复原色当原状。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "alt": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。",
+          "credit": {
+            "author": "Onceinawhile",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Egyptian_Civilization_2022_96.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2022"
+          },
+          "caption": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。 Onceinawhile · CC BY-SA 4.0。"
+        },
+        "sha256": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+      },
+      {
+        "id": "nmec-coptic",
+        "title": "科普特织物：图像在衣料上迁徙",
+        "summary": "圆章、人物和植物纹样把地中海图像传统带入衣饰与室内织物。",
+        "lookFor": "留意图像边框怎样适应织物结构，以及不同色线的层次。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "alt": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。",
+          "credit": {
+            "author": "Onceinawhile",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Egyptian_Civilization_2022_96.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2022"
+          },
+          "caption": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。 Onceinawhile · CC BY-SA 4.0。"
+        },
+        "sha256": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+      },
+      {
+        "id": "nmec-islamic-textile",
+        "title": "伊斯兰纺织：书写成为建筑尺度",
+        "summary": "大型帷幕与带状书写把纺织技术、赞助制度和宗教空间联结起来。",
+        "lookFor": "先远看文字带的整体节奏，再近看针脚、金属线和修补。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "alt": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。",
+          "credit": {
+            "author": "Onceinawhile",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Egyptian_Civilization_2022_96.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2022"
+          },
+          "caption": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。 Onceinawhile · CC BY-SA 4.0。"
+        },
+        "sha256": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+      },
+      {
+        "id": "nmec-mummies-parade",
+        "title": "从迁藏到新叙事",
+        "summary": "皇家木乃伊迁入 NMEC 的事件本身，改变了公众观看这些遗存的仪式与媒介环境。",
+        "lookFor": "进入展厅前先阅读馆方对保存与展示环境的说明。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/04.jpg",
+          "alt": "馆内关于代尔巴哈里皇家木乃伊藏所的历史展板，2022年摄；不是皇家木乃伊本体照片。",
+          "credit": {
+            "author": "Onceinawhile",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Egyptian_Civilization_2022_03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2022"
+          },
+          "caption": "馆内关于代尔巴哈里皇家木乃伊藏所的历史展板，2022年摄；不是皇家木乃伊本体照片。 Onceinawhile · CC BY-SA 4.0。"
+        },
+        "sha256": "bfd1d94356a51e44acd96803211811ad84bdd4c1f5ea89823e88081535e06e1b"
+      },
+      {
+        "id": "nmec-mummies",
+        "title": "皇家木乃伊：先看人，再看王名",
+        "summary": "展陈应同时理解个体身体、木乃伊制作、王室葬祭和现代科学研究。",
+        "lookFor": "降低说话音量，先读墓葬迁移与身份判断证据，再观察包裹和保存差异。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/04.jpg",
+          "alt": "馆内关于代尔巴哈里皇家木乃伊藏所的历史展板，2022年摄；不是皇家木乃伊本体照片。",
+          "credit": {
+            "author": "Onceinawhile",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Egyptian_Civilization_2022_03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2022"
+          },
+          "caption": "馆内关于代尔巴哈里皇家木乃伊藏所的历史展板，2022年摄；不是皇家木乃伊本体照片。 Onceinawhile · CC BY-SA 4.0。"
+        },
+        "sha256": "bfd1d94356a51e44acd96803211811ad84bdd4c1f5ea89823e88081535e06e1b"
+      },
+      {
+        "id": "nmec-fustat",
+        "title": "福斯塔特：博物馆之外的城市层",
+        "summary": "博物馆位于福斯塔特历史地景，而不是脱离城市的一座孤立新馆。",
+        "lookFor": "从外部辨认场馆、湖面与历史城区的关系，但不要把景观水体误作古代原貌。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/01.jpg",
+          "alt": "博物馆正门与入口广场，2017年。",
+          "credit": {
+            "author": "Roland Unger",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2017-03-05"
+          },
+          "caption": "博物馆正门与入口广场，2017年。 Roland Unger · CC BY-SA 4.0。"
+        },
+        "sha256": "81cab31ad22e49e82cc8f61fdd3d2f3b23a059b440890f64b1ff55de719ce405"
+      },
+      {
+        "id": "nmec-living-heritage",
+        "title": "活态传统：文明仍在生产",
+        "summary": "工艺、服饰、音乐和日常实践把“文明”从古物转回仍在变化的社会。",
+        "lookFor": "找一种延续至今的材料或动作，并比较其用途而非只找外形相似。",
+        "image": {
+          "src": "/images/guides/national-museum-egyptian-civilization/10.jpg",
+          "alt": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。",
+          "credit": {
+            "author": "Onceinawhile",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Egyptian_Civilization_2022_96.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "photographedAt": "2022"
+          },
+          "caption": "主展厅的展柜、宗教艺术与参观环境，2022年摄；不是某件王像特写。 Onceinawhile · CC BY-SA 4.0。"
+        },
+        "sha256": "03b6020bdcd8af2e65b83dfba62ad5401b22e3abae354f37164b7b045a40af74"
+      }
+    ]
+  },
+  {
+    "slug": "giza-plateau",
+    "title": "吉萨金字塔群",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/giza-plateau.jpg",
+          "alt": "吉萨高地三座主要金字塔及周围沙漠的远景",
+          "caption": "Benjamin Inbar · CC BY-SA 4.0 · 拍摄：2023-07-18 08:41:49",
+          "credit": {
+            "author": "Benjamin Inbar",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Giza_Pyramids_Panorama.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2023-07-18 08:41:49"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1083
+          }
+        },
+        "sha256": "08baf546a280b132dbe958642f368bd53112ce3828eff693cac0aee87944b3a0"
+      },
+      {
+        "id": "exterior",
+        "title": "先看高地，再看三座主金字塔",
+        "image": {
+          "src": "/images/guides/giza-plateau/01.jpg",
+          "alt": "先看高地，再看三座主金字塔的现场参观图像",
+          "credit": {
+            "author": "kallerna",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Pyramid_of_Cheops_-_side.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2010"
+          },
+          "caption": "File:Pyramid of Cheops - side.jpg · kallerna · CC BY-SA 3.0"
+        },
+        "sha256": "617589c56c26d5b02630d70e4dbef40c33f534f740b9c86d1c1840476a435fbf"
+      },
+      {
+        "id": "interior",
+        "title": "把“进入金字塔”当作可选附加段",
+        "image": {
+          "src": "/images/guides/giza-plateau/05.jpg",
+          "alt": "把“进入金字塔”当作可选附加段的现场参观图像",
+          "credit": {
+            "author": "lienyuan lee",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Valley_Temple_of_Khafre_%E5%8D%A1%E5%A4%AB%E5%8B%92%E8%B0%B7%E5%BB%9F_-_panoramio.jpg",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "photographedAt": "Taken on 16 April 2004"
+          },
+          "caption": "File:Valley Temple of Khafre 卡夫勒谷廟 - panoramio.jpg · lienyuan lee · CC BY 3.0"
+        },
+        "sha256": "89e33c6949c8ecb05c637c0c72bb8f33cda2f0a87dd3fa7b367701ebd285e43a"
+      },
+      {
+        "id": "giza-khufu-card",
+        "title": "胡夫金字塔：消失的光洁表面",
+        "summary": "今天所见粗粝退台主要是内部石芯；塔体原有高质量石灰岩外包层。",
+        "lookFor": "比较基部残留外包石、石芯层次与棱线，不要只从正面判断坡度。",
+        "image": {
+          "src": "/images/guides/giza-plateau/01.jpg",
+          "alt": "胡夫金字塔：消失的光洁表面的现场或相关实物图像",
+          "credit": {
+            "author": "kallerna",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Pyramid_of_Cheops_-_side.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2010"
+          },
+          "caption": "File:Pyramid of Cheops - side.jpg · kallerna · CC BY-SA 3.0"
+        },
+        "sha256": "617589c56c26d5b02630d70e4dbef40c33f534f740b9c86d1c1840476a435fbf"
+      },
+      {
+        "id": "giza-khafre-card",
+        "title": "哈夫拉金字塔：顶部外包石与高地错觉",
+        "summary": "塔体略小于胡夫金字塔，但地势与顶部包层改变了观看判断。",
+        "lookFor": "先找顶部光滑包层与粗糙石芯的界线，再退远比较基座地势。",
+        "image": {
+          "src": "/images/guides/giza-plateau/02.jpg",
+          "alt": "哈夫拉金字塔：顶部外包石与高地错觉的现场或相关实物图像",
+          "credit": {
+            "author": "Jerome Bon from Paris, France",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre,_south-west_corner.jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2008-04-07 10:27"
+          },
+          "caption": "File:Pyramid of Khafre, south-west corner.jpg · Jerome Bon from Paris, France · CC BY 2.0"
+        },
+        "sha256": "de7210b1c6055e2457c4ffb0367c91a479847f3b6039629f7f305b26fa18dad2"
+      },
+      {
+        "id": "giza-menkaure-card",
+        "title": "孟卡拉金字塔：较小主塔与成组建筑",
+        "summary": "较小主塔旁的附属建筑让复合体的家族与仪式结构更容易被看见。",
+        "lookFor": "留意不同石材、未完成表面和相邻小金字塔的排列。",
+        "image": {
+          "src": "/images/guides/giza-plateau/03.jpg",
+          "alt": "孟卡拉金字塔：较小主塔与成组建筑的现场或相关实物图像",
+          "credit": {
+            "author": "kallerna",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Menkaure%27s_pyramid.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2010"
+          },
+          "caption": "File:Menkaure's pyramid.jpg · kallerna · CC BY-SA 3.0"
+        },
+        "sha256": "27b9940733e6c2d5787b17032f0ac64235ef98e3120cb0cbfb6d27f4ea89392f"
+      },
+      {
+        "id": "giza-sphinx-card",
+        "title": "大狮身人面像：基岩形成的守护形象",
+        "summary": "巨像直接从当地石灰岩基岩雕出，位于高地向低地过渡的区域。",
+        "lookFor": "比较头部与狮身比例、岩层风化，以及不同视点下与金字塔的叠合。",
+        "image": {
+          "src": "/images/guides/giza-plateau/04.jpg",
+          "alt": "大狮身人面像：基岩形成的守护形象的现场或相关实物图像",
+          "credit": {
+            "author": "Mstyslav Chernov",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza_(close_up_side_view)._Cairo,_Egypt,_North_Africa.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2013-05-23 21:01:33"
+          },
+          "caption": "File:Great Sphinx of Giza (close up side view). Cairo, Egypt, North Africa.jpg · Mstyslav Chernov · CC BY-SA 3.0"
+        },
+        "sha256": "b75becdc7c713f1deb7d4b65bc338b2dd589653378678bca6568f10e0b2cf700"
+      },
+      {
+        "id": "giza-valley-card",
+        "title": "哈夫拉河谷神庙：材料组织空间",
+        "summary": "巨型石灰岩结构、花岗岩包覆与浅色地面构成强烈材料对比。",
+        "lookFor": "观察墙面、地面和柱位之间的接缝与反光；不要越过围挡。",
+        "image": {
+          "src": "/images/guides/giza-plateau/05.jpg",
+          "alt": "哈夫拉河谷神庙：材料组织空间的现场或相关实物图像",
+          "credit": {
+            "author": "lienyuan lee",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Valley_Temple_of_Khafre_%E5%8D%A1%E5%A4%AB%E5%8B%92%E8%B0%B7%E5%BB%9F_-_panoramio.jpg",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "photographedAt": "Taken on 16 April 2004"
+          },
+          "caption": "File:Valley Temple of Khafre 卡夫勒谷廟 - panoramio.jpg · lienyuan lee · CC BY 3.0"
+        },
+        "sha256": "89e33c6949c8ecb05c637c0c72bb8f33cda2f0a87dd3fa7b367701ebd285e43a"
+      },
+      {
+        "id": "giza-causeway-card",
+        "title": "上升甬道：把高地与河谷连成系统",
+        "summary": "连接构件把低地神庙与高处葬祭空间组织在同一轴线上。",
+        "lookFor": "从远处辨认高差与延伸方向；地图不承诺该线今天可连续步行。",
+        "image": {
+          "src": "/images/guides/giza-plateau/06.jpg",
+          "alt": "上升甬道：把高地与河谷连成系统的现场或相关实物图像",
+          "credit": {
+            "author": "Warren LeMay from Chicago, IL, United States",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre_(Cheprhen)_Causeway,_Giza,_GG,_EGY_(47113244694).jpg",
+            "license": "CC0",
+            "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "photographedAt": "2019-05-12 09:52"
+          },
+          "caption": "File:Pyramid of Khafre (Cheprhen) Causeway, Giza, GG, EGY (47113244694).jpg · Warren LeMay from Chicago, IL, United States · CC0"
+        },
+        "sha256": "b7602235d1b6a36db7d60de762eb704b56c60fa9a36d2c14d7ba58f60657f6c6"
+      },
+      {
+        "id": "giza-queens-card",
+        "title": "王后与附属金字塔：主角之外的制度",
+        "summary": "规模较小的附属金字塔与墓园揭示王室家庭、祭祀和行政组织。",
+        "lookFor": "比较小塔的尺度与朝向，同时留意周围墓葬密度。",
+        "image": {
+          "src": "/images/guides/giza-plateau/07.jpg",
+          "alt": "王后与附属金字塔：主角之外的制度的现场或相关实物图像",
+          "credit": {
+            "author": "Benjamin Inbar",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Giza_Pyramids_Panorama.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2023-07-18 08:41:49"
+          },
+          "caption": "File:Giza Pyramids Panorama.jpg · Benjamin Inbar · CC BY-SA 4.0"
+        },
+        "sha256": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+      },
+      {
+        "id": "giza-panorama-card",
+        "title": "全景视点：重建三组关系",
+        "summary": "远景最适合比较三座主塔的尺度、地势和成组关系。",
+        "lookFor": "移动几步观察塔体重叠如何变化，不把经典照片角度当唯一真相。",
+        "image": {
+          "src": "/images/giza/giza-panorama.jpg",
+          "alt": "吉萨高地三座主要金字塔全景",
+          "caption": "“Giza Pyramids Panorama.jpg” · Benjamin Inbar · CC BY-SA 4.0 · Wikimedia Commons"
+        },
+        "sha256": "a73068cfaaa885b8d71442e227ccf67560f3ed474716103ca407ef1db44ec5dd"
+      }
+    ]
+  },
+  {
+    "slug": "grand-egyptian-museum",
+    "title": "大埃及博物馆",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/grand-egyptian-museum.jpg",
+          "alt": "大埃及博物馆入口广场、三角形立面与方尖碑",
+          "caption": "Amr F.Nagy · Public domain · 拍摄：20 December 2025 (according to Exif data)",
+          "credit": {
+            "author": "Amr F.Nagy",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2025_(57645).jpg",
+            "license": "Public domain",
+            "licenseUrl": "",
+            "photographedAt": "20 December 2025 (according to Exif data)"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "sha256": "4cd49b677ac516ea05f9d9de8c79f1b0469e047e4628d9202035b4f46a9703c5"
+      },
+      {
+        "id": "exterior",
+        "title": "从悬吊方尖碑进入吉萨门户",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/01.jpg",
+          "alt": "从悬吊方尖碑进入吉萨门户的现场参观图像",
+          "credit": {
+            "author": "Amr F.Nagy",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2025_(57645).jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "20 December 2025 (according to Exif data)"
+          },
+          "caption": "File:Grand Egyptian Museum 2025 (57645).jpg · Amr F.Nagy · Public domain"
+        },
+        "sha256": "1695e3667088678d98a8ebd28e208cb2c15e7c70ac20836022c3cde6acd4052e"
+      },
+      {
+        "id": "interior",
+        "title": "大堂—大楼梯—主展厅—专题馆",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/06.jpg",
+          "alt": "大堂—大楼梯—主展厅—专题馆的现场参观图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:75_Tonnen_wiegt_die_Kolossalstatue_des_Ramses_II_im_Gro%C3%9Fen_%C3%84gyptischen_Museum._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2025-12-23"
+          },
+          "caption": "File:75 Tonnen wiegt die Kolossalstatue des Ramses II im Großen Ägyptischen Museum. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "df153ee12f15c767b6de0ae0eace674ffbaa8367ab980c0a33aa42be61ebe090"
+      },
+      {
+        "id": "gem-ramses",
+        "title": "拉美西斯二世巨像：迎宾也是再语境化",
+        "summary": "巨像在现代大厅中获得新的观看距离与光线，身份从原建筑语境转向国家博物馆入口。",
+        "lookFor": "先绕行比较正面与侧面，再看基座说明中的出土地与迁移史。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/02.jpg",
+          "alt": "拉美西斯二世巨像：迎宾也是再语境化的现场或相关实物图像",
+          "credit": {
+            "author": "Djehouty",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2019-11-07c.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2019-11-07"
+          },
+          "caption": "File:Grand Egyptian Museum 2019-11-07c.jpg · Djehouty · CC BY-SA 4.0"
+        },
+        "sha256": "4ff6246f4cc75f33c357233629a9be8ef2888a6dc0ad28ff810fba73675b6343"
+      },
+      {
+        "id": "gem-stair",
+        "title": "大楼梯：把雕塑变成时间剖面",
+        "summary": "大型雕塑沿高差连续出现，适合比较姿态、王名与神祇组合的长期变化。",
+        "lookFor": "每上一段选择一件作品，比较背柱、冠饰、步姿与观看高度。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/03.jpg",
+          "alt": "大楼梯：把雕塑变成时间剖面的现场或相关实物图像",
+          "credit": {
+            "author": "Richard Morte",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Main_Galleries_plan_in_grand_egyptian_museum.jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2025-01-05"
+          },
+          "caption": "File:Main Galleries plan in grand egyptian museum.jpg · Richard Morte · CC BY 2.0"
+        },
+        "sha256": "1b7dac9c78c8ec541ad2109bd4540a1620045bf425f738273ea3f3ee765b5d59"
+      },
+      {
+        "id": "gem-old-kingdom",
+        "title": "古王国：国家机器与理想身体",
+        "summary": "王像、官员像和墓葬器物共同呈现集中资源、书写行政与来世秩序。",
+        "lookFor": "比较王者与非王者雕像的比例、材质和正面性。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/07.jpg",
+          "alt": "古王国：国家机器与理想身体的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:75_Tonnen_wiegt_die_Kolossalstatue_des_Ramses_II_im_Gro%C3%9Fen_%C3%84gyptischen_Museum._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2025-12-23"
+          },
+          "caption": "File:75 Tonnen wiegt die Kolossalstatue des Ramses II im Großen Ägyptischen Museum. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "c691ec9f4373946610dfb99c3d8cae3e10174641fa91aa9e4dc79e8e26e0ec81"
+      },
+      {
+        "id": "gem-middle-kingdom",
+        "title": "中王国：权力形象的另一种紧张",
+        "summary": "中王国王像常让理想化与更强烈的面部特征同时存在。",
+        "lookFor": "对比眼部、面颊与嘴角处理，再看铭文如何确认身份。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/08.jpg",
+          "alt": "中王国：权力形象的另一种紧张的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:75_Tonnen_wiegt_die_Kolossalstatue_des_Ramses_II_im_Gro%C3%9Fen_%C3%84gyptischen_Museum._03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2025-12-23"
+          },
+          "caption": "File:75 Tonnen wiegt die Kolossalstatue des Ramses II im Großen Ägyptischen Museum. 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "3de425cadbb9b9f96fa7781d26d349528a52f14ad821bef3f78beead9eeba32b"
+      },
+      {
+        "id": "gem-new-kingdom",
+        "title": "新王国：帝国、神庙与图像扩张",
+        "summary": "更广泛的外交、战争与神庙赞助让材料、人物和叙事场面显著扩展。",
+        "lookFor": "寻找外来材料、不同人物装束与战役叙事的观看次序。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/09.jpg",
+          "alt": "新王国：帝国、神庙与图像扩张的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:75_Tonnen_wiegt_die_Kolossalstatue_des_Ramses_II_im_Gro%C3%9Fen_%C3%84gyptischen_Museum._04.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2025-12-23"
+          },
+          "caption": "File:75 Tonnen wiegt die Kolossalstatue des Ramses II im Großen Ägyptischen Museum. 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "7e621d7c6d026bb270116cd4053f21dfc5d734b2f2ca0cc68b35456851778f5c"
+      },
+      {
+        "id": "gem-late-period",
+        "title": "晚期：复古不是简单倒退",
+        "summary": "艺术家有意识地引用更早王朝形式，同时发展高密度铭文与精细硬石雕刻。",
+        "lookFor": "找似曾相识的姿态，再用铭文年代检查它是否真的来自古王国。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/10.jpg",
+          "alt": "晚期：复古不是简单倒退的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:75_Tonnen_wiegt_die_Kolossalstatue_des_Ramses_II_im_Gro%C3%9Fen_%C3%84gyptischen_Museum._05.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2025-12-23"
+          },
+          "caption": "File:75 Tonnen wiegt die Kolossalstatue des Ramses II im Großen Ägyptischen Museum. 05.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "57ddeadd72d832c7b9ac6f7dbd4a090333d99a8914ed80e08c555281a934fbf7"
+      },
+      {
+        "id": "gem-greco-roman",
+        "title": "希腊罗马时期：两套肖像语言相遇",
+        "summary": "埃及宗教形式与地中海肖像传统并行、混合或互相翻译。",
+        "lookFor": "比较发型、衣褶、正面姿态与象形文字是否使用同一套视觉语言。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/11.jpg",
+          "alt": "希腊罗马时期：两套肖像语言相遇的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:75_Tonnen_wiegt_die_Kolossalstatue_des_Ramses_II_im_Gro%C3%9Fen_%C3%84gyptischen_Museum._06.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2025-12-23"
+          },
+          "caption": "File:75 Tonnen wiegt die Kolossalstatue des Ramses II im Großen Ägyptischen Museum. 06.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "8a5a1d7be996db19744b43d9493bb421af06deae2591d44ae2a29347691e2cc4"
+      },
+      {
+        "id": "gem-tut-mask",
+        "title": "图坦卡蒙：从墓室组合而非单件出发",
+        "summary": "著名对象应放回成组墓葬设备、身体保护和来世仪式中阅读。",
+        "lookFor": "先看对象类型之间的关系，再把注意力转向接合、镶嵌和使用痕迹。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/05.jpg",
+          "alt": "图坦卡蒙：从墓室组合而非单件出发的现场或相关实物图像",
+          "credit": {
+            "author": "NAHEDISMAEIL66",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:2%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2024-07-05 11:59:38"
+          },
+          "caption": "File:2المتحف المصري الكبير.jpg · NAHEDISMAEIL66 · CC BY-SA 4.0"
+        },
+        "sha256": "fb5d6600e9399c5d25db79de19dbd7294c7d2f29ef37301ee43b8b493e5f1e5f"
+      },
+      {
+        "id": "gem-khufu-boat",
+        "title": "胡夫船：木材、绳索与保存工程",
+        "summary": "船体把古代木工、运输、仪式解释与现代迁藏保存集中在一个对象上。",
+        "lookFor": "观察构件连接而非只看船形；再读发掘、重组和迁移时间线。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/06.jpg",
+          "alt": "胡夫船：木材、绳索与保存工程的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:75_Tonnen_wiegt_die_Kolossalstatue_des_Ramses_II_im_Gro%C3%9Fen_%C3%84gyptischen_Museum._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2025-12-23"
+          },
+          "caption": "File:75 Tonnen wiegt die Kolossalstatue des Ramses II im Großen Ägyptischen Museum. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "df153ee12f15c767b6de0ae0eace674ffbaa8367ab980c0a33aa42be61ebe090"
+      },
+      {
+        "id": "gem-gallery-system",
+        "title": "十二展厅：用主题横切年代",
+        "summary": "社会、王权与信仰等主题让相邻时期可以横向比较。",
+        "lookFor": "选择一个重复出现的对象类型，连续比较至少三个时期。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/04.jpg",
+          "alt": "十二展厅：用主题横切年代的现场或相关实物图像",
+          "credit": {
+            "author": "Warren LeMay from Chicago, IL, United States",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum,_Giza,_GG,_EGY_(47902615061).jpg",
+            "license": "CC0",
+            "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "photographedAt": "2019-05-12 11:52"
+          },
+          "caption": "File:Grand Egyptian Museum, Giza, GG, EGY (47902615061).jpg · Warren LeMay from Chicago, IL, United States · CC0"
+        },
+        "sha256": "d2f11756cf8f25d7ea17d71938d7c0d3320b2dc6f7a94dafa29c3ad88ad8fd94"
+      },
+      {
+        "id": "gem-landscape",
+        "title": "建筑与吉萨：视线也是策展",
+        "summary": "建筑通过尺度、材料与对吉萨地景的视线，把收藏与遗址放在同一文化轴线上。",
+        "lookFor": "寻找框景与反射；区分真实遗址方向和室内图形暗示。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/12.jpg",
+          "alt": "建筑与吉萨：视线也是策展的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:75_Tonnen_wiegt_die_Kolossalstatue_des_Ramses_II_im_Gro%C3%9Fen_%C3%84gyptischen_Museum._07.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2025-12-23"
+          },
+          "caption": "File:75 Tonnen wiegt die Kolossalstatue des Ramses II im Großen Ägyptischen Museum. 07.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "535d062ab1edec3099fc3aac5cfa2acf98bfc015e0c283ba636285e0478f4d17"
+      },
+      {
+        "id": "gem-choice",
+        "title": "时间预算：完整不是走遍每个展柜",
+        "summary": "面对超大馆，完整体验应由结构清晰和重点深入组成，而不是疲惫地扫完。",
+        "lookFor": "入馆时决定主展厅深看主题，并明确图坦卡蒙与胡夫船的优先级。",
+        "image": {
+          "src": "/images/guides/grand-egyptian-museum/01.jpg",
+          "alt": "时间预算：完整不是走遍每个展柜的现场或相关实物图像",
+          "credit": {
+            "author": "Amr F.Nagy",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2025_(57645).jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "20 December 2025 (according to Exif data)"
+          },
+          "caption": "File:Grand Egyptian Museum 2025 (57645).jpg · Amr F.Nagy · Public domain"
+        },
+        "sha256": "1695e3667088678d98a8ebd28e208cb2c15e7c70ac20836022c3cde6acd4052e"
+      }
+    ]
+  },
+  {
+    "slug": "cairo-citadel",
+    "title": "开罗城堡与穆罕默德·阿里清真寺",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/cairo-citadel.jpg",
+          "alt": "开罗城堡内穆罕默德·阿里清真寺的石质外墙、穹顶群与尖塔",
+          "caption": "Summering2018 · CC BY-SA 4.0 · 拍摄：2022-03-11 12:01:46",
+          "credit": {
+            "author": "Summering2018",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Citadel_of_Saladin1.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2022-03-11 12:01:46"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1281
+          }
+        },
+        "sha256": "4e94a09333ba4bd0c21caf7b42cd693f6af60a61fcfefc4de763b0103a3822f6"
+      },
+      {
+        "id": "exterior",
+        "title": "先读城堡，再辨认清真寺轮廓",
+        "image": {
+          "src": "/images/guides/cairo-citadel/02.jpg",
+          "alt": "先读城堡，再辨认清真寺轮廓的现场参观图像",
+          "credit": {
+            "author": "Yasser.mahmoud",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_29.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2016-05-14 09:19:24"
+          },
+          "caption": "File:قلعة صلاح الدين الأيوبي 29.jpg · Yasser.mahmoud · CC BY-SA 4.0"
+        },
+        "sha256": "b37996130f8fa1568b671d348eeff992d906f2b5f99310c938f43b8d30424360"
+      },
+      {
+        "id": "interior",
+        "title": "从开放庭院进入中央穹顶礼拜厅",
+        "image": {
+          "src": "/images/guides/cairo-citadel/04.jpg",
+          "alt": "从开放庭院进入中央穹顶礼拜厅的现场参观图像",
+          "credit": {
+            "author": "Summering2018",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Citadel_of_Saladin1.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2022-03-11 12:01:46"
+          },
+          "caption": "File:Citadel of Saladin1.jpg · Summering2018 · CC BY-SA 4.0"
+        },
+        "sha256": "65ae8ca44f19f4e6d4ee6e1e4643a99490474142d33ac1f5d0214632b1448437"
+      },
+      {
+        "id": "citadel-layer",
+        "title": "高地要塞：权力首先选择地形",
+        "summary": "高位场址同时服务防御、监视和国家权力的可见性。",
+        "lookFor": "先观察坡度、城墙与城市的高差，再进入单体建筑。",
+        "image": {
+          "src": "/images/guides/cairo-citadel/01.jpg",
+          "alt": "高地要塞：权力首先选择地形的现场或相关实物图像",
+          "credit": {
+            "author": "Charlesdrakew at English Wikipedia",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:M.Ali_Mosque2.JPG",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "23 September 2007 (original upload date)"
+          },
+          "caption": "File:M.Ali Mosque2.JPG · Charlesdrakew at English Wikipedia · Public domain"
+        },
+        "sha256": "de2a1ab3e261865017fb5744dc800ed725650eb1b78ad894669c23348723d8e0"
+      },
+      {
+        "id": "citadel-silhouette",
+        "title": "清真寺外观：十九世纪重写天际线",
+        "summary": "大型中央穹顶与双尖塔使用奥斯曼帝国清真寺的视觉语汇。",
+        "lookFor": "从远处先读穹顶层级，再近看立面石材与窗洞。",
+        "image": {
+          "src": "/images/guides/cairo-citadel/02.jpg",
+          "alt": "清真寺外观：十九世纪重写天际线的现场或相关实物图像",
+          "credit": {
+            "author": "Yasser.mahmoud",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_29.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2016-05-14 09:19:24"
+          },
+          "caption": "File:قلعة صلاح الدين الأيوبي 29.jpg · Yasser.mahmoud · CC BY-SA 4.0"
+        },
+        "sha256": "b37996130f8fa1568b671d348eeff992d906f2b5f99310c938f43b8d30424360"
+      },
+      {
+        "id": "citadel-dome",
+        "title": "中央穹顶：空间由上方统摄",
+        "summary": "中央穹顶通过半穹顶向四周扩展，形成集中式礼拜空间。",
+        "lookFor": "站在允许区域观察穹顶如何通过半穹顶过渡到墙体。",
+        "image": {
+          "src": "/images/guides/cairo-citadel/03.jpg",
+          "alt": "中央穹顶：空间由上方统摄的现场或相关实物图像",
+          "credit": {
+            "author": "Unknown",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_Mosque_of_Mohamed_Ali_(South),_asset_q264aaeRPaoZRaBvjXmMBlMP.jpg",
+            "license": "CC0",
+            "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "photographedAt": "Unknown"
+          },
+          "caption": "File:Cairo Mosque of Mohamed Ali (South), asset q264aaeRPaoZRaBvjXmMBlMP.jpg · Unknown · CC0"
+        },
+        "sha256": "75d9561c15ca181224f6201b5df7bbd4869146c0a6a6e5b5a853a75ac1ccfbd6"
+      },
+      {
+        "id": "citadel-court-card",
+        "title": "庭院与钟塔：跨国礼物进入宗教建筑",
+        "summary": "庭院把进入节奏从城堡的开阔转向礼拜大厅；钟塔是后来的政治与外交层。",
+        "lookFor": "比较庭院尺度、洗礼设施与钟塔在轴线中的位置。",
+        "image": {
+          "src": "/images/guides/cairo-citadel/04.jpg",
+          "alt": "庭院与钟塔：跨国礼物进入宗教建筑的现场或相关实物图像",
+          "credit": {
+            "author": "Summering2018",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Citadel_of_Saladin1.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2022-03-11 12:01:46"
+          },
+          "caption": "File:Citadel of Saladin1.jpg · Summering2018 · CC BY-SA 4.0"
+        },
+        "sha256": "65ae8ca44f19f4e6d4ee6e1e4643a99490474142d33ac1f5d0214632b1448437"
+      },
+      {
+        "id": "citadel-minaret",
+        "title": "双尖塔：细长比例制造远距离识别",
+        "summary": "两座高尖塔与圆顶群形成垂直与水平体量的对比。",
+        "lookFor": "不要只拍全景；找尖塔、主穹顶与半穹顶的比例关系。",
+        "image": {
+          "src": "/images/guides/cairo-citadel/05.jpg",
+          "alt": "双尖塔：细长比例制造远距离识别的现场或相关实物图像",
+          "credit": {
+            "author": "Reemaboeissa",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Inbound4928857734135520478.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2023-03-04"
+          },
+          "caption": "File:Inbound4928857734135520478.jpg · Reemaboeissa · CC BY-SA 4.0"
+        },
+        "sha256": "cb232007fdf5bc7cb3201b7ba39c3c670c1bb87403bf37e9b2dc734e65877713"
+      },
+      {
+        "id": "citadel-material",
+        "title": "“雪花石膏清真寺”：名称与材料",
+        "summary": "常用别称来自大量浅色石材饰面，但应区分通俗名称与具体石材判断。",
+        "lookFor": "观察板材接缝、磨光与修补，不凭颜色断定全部材质。",
+        "image": {
+          "src": "/images/guides/cairo-citadel/06.jpg",
+          "alt": "“雪花石膏清真寺”：名称与材料的现场或相关实物图像",
+          "credit": {
+            "author": "AlyielDeen aHmeD qepal",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Inbound7812537474681245897_02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2023-10-30 20:24:49"
+          },
+          "caption": "File:Inbound7812537474681245897 02.jpg · AlyielDeen aHmeD qepal · CC BY-SA 4.0"
+        },
+        "sha256": "dfb05f0d98d23090950ff6dc186d7590dc55df2f1130f3882699847c56787e8c"
+      },
+      {
+        "id": "citadel-panorama",
+        "title": "眺望开罗：把纪念物放回城市",
+        "summary": "高地视野让不同时代的穹顶、尖塔和城市密度同时出现。",
+        "lookFor": "用近、中、远三层辨认城堡、历史城区与现代扩张。",
+        "image": {
+          "src": "/images/guides/cairo-citadel/07.jpg",
+          "alt": "眺望开罗：把纪念物放回城市的现场或相关实物图像",
+          "credit": {
+            "author": "Samir I. Sharbaty",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:M_Ali_mosque_126.JPG",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2014-09-13 10:53:29"
+          },
+          "caption": "File:M Ali mosque 126.JPG · Samir I. Sharbaty · CC BY-SA 3.0"
+        },
+        "sha256": "770aa1ef10916e14f0f6d1514f6efaa159c63da1ebc2c0452d634f73d18f9701"
+      }
+    ]
+  },
+  {
+    "slug": "khan-el-khalili",
+    "title": "哈利利市场与历史开罗街巷",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/khan-el-khalili.jpg",
+          "alt": "哈利利市场内有商铺、悬挂商品和行人的真实街巷",
+          "caption": "V Manninen from Funland · CC BY 2.0 · 拍摄：2008-01-16 17:05",
+          "credit": {
+            "author": "V Manninen from Funland",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2008-01-16 17:05"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "sha256": "26e8bdcc5384859860840d53f8e4973d9c3eb450f12dbb486129c32a8b677d76"
+      },
+      {
+        "id": "exterior",
+        "title": "用街宽、门洞和光线辨认历史城市",
+        "image": {
+          "src": "/images/guides/khan-el-khalili/01.jpg",
+          "alt": "用街宽、门洞和光线辨认历史城市的现场参观图像",
+          "credit": {
+            "author": "V Manninen from Funland",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2008-01-16 17:05"
+          },
+          "caption": "File:The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg · V Manninen from Funland · CC BY 2.0"
+        },
+        "sha256": "3236b81c5b0fbe8fb4dc2526719a523a09032c06958cb9892675a7e85557b0e8"
+      },
+      {
+        "id": "interior",
+        "title": "这里没有统一“内部”，只有不同建筑类型",
+        "image": {
+          "src": "/images/guides/khan-el-khalili/06.jpg",
+          "alt": "这里没有统一“内部”，只有不同建筑类型的现场参观图像",
+          "credit": {
+            "author": "Brooklyn Museum",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Egypt,_Arabic_Window_and_Native_Bazaar,_Cair.jpg",
+            "license": "No restrictions",
+            "licenseUrl": "https://www.flickr.com/commons/usage/",
+            "photographedAt": ""
+          },
+          "caption": "File:Egypt, Arabic Window and Native Bazaar, Cair.jpg · Brooklyn Museum · No restrictions"
+        },
+        "sha256": "830063e06261de6142a4a28375dbbdf17703b00a90c37c079618c3f512195aa9"
+      },
+      {
+        "id": "khan-grain",
+        "title": "街巷尺度：视线不断被折叠",
+        "summary": "狭窄、弯折与遮棚让观看距离比纪念性大道更短。",
+        "lookFor": "观察转角如何突然打开视野，同时把手机收好并注意脚下。",
+        "image": {
+          "src": "/images/guides/khan-el-khalili/01.jpg",
+          "alt": "街巷尺度：视线不断被折叠的现场或相关实物图像",
+          "credit": {
+            "author": "V Manninen from Funland",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2008-01-16 17:05"
+          },
+          "caption": "File:The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg · V Manninen from Funland · CC BY 2.0"
+        },
+        "sha256": "3236b81c5b0fbe8fb4dc2526719a523a09032c06958cb9892675a7e85557b0e8"
+      },
+      {
+        "id": "khan-lamps",
+        "title": "灯具与金属：当代商品也有工艺线索",
+        "summary": "穿孔、锤揲和焊接形成光影，但商品年代与生产地不可凭外观判断。",
+        "lookFor": "看接缝、锤痕和材料厚度；购买前明确材质与退换。",
+        "image": {
+          "src": "/images/guides/khan-el-khalili/02.jpg",
+          "alt": "灯具与金属：当代商品也有工艺线索的现场或相关实物图像",
+          "credit": {
+            "author": "Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Egipto,_1882_%22Mercaderes_de_tapices_en_el_Chan_El-chalil%22_(21435918655).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2015-09-14 11:40"
+          },
+          "caption": "File:Egipto, 1882 \"Mercaderes de tapices en el Chan El-chalil\" (21435918655).jpg · Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España · CC BY 2.0"
+        },
+        "sha256": "e0041dad12339eabfa8c682d9df5ed7d9451bcae09ef790fffaeab022788510b"
+      },
+      {
+        "id": "khan-gate",
+        "title": "门与边界：市场嵌在更大城区",
+        "summary": "门洞、立面和道路收放把商业片区与城市其他功能连接。",
+        "lookFor": "回头看进入前后街宽、噪声和光线的变化。",
+        "image": {
+          "src": "/images/guides/khan-el-khalili/03.jpg",
+          "alt": "门与边界：市场嵌在更大城区的现场或相关实物图像",
+          "credit": {
+            "author": "Lane, E. W. (Edward William), 1801-1876",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Shop_of_a_Turkish_Merchant_in_the_Soo%27ck_called_Kha%27n_El-Khalee%27lee._(1836)_-_TIMEA.jpg",
+            "license": "CC BY-SA 2.5",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+            "photographedAt": "1836"
+          },
+          "caption": "File:Shop of a Turkish Merchant in the Soo'ck called Kha'n El-Khalee'lee. (1836) - TIMEA.jpg · Lane, E. W. (Edward William), 1801-1876 · CC BY-SA 2.5"
+        },
+        "sha256": "6b99e52b43f8be98316e6082222d76efe1aabd3ff438cf87503dcb69727b1ff2"
+      },
+      {
+        "id": "khan-wikala-card",
+        "title": "维卡拉：贸易需要建筑基础设施",
+        "summary": "围绕院落组织的商旅建筑曾容纳货物、交易与住宿。",
+        "lookFor": "若开放参观，观察院落、入口控制和上下层功能差异。",
+        "image": {
+          "src": "/images/guides/khan-el-khalili/04.jpg",
+          "alt": "维卡拉：贸易需要建筑基础设施的现场或相关实物图像",
+          "credit": {
+            "author": "Unknown authorUnknown author",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Khan_Elkhalili_-_Cairo_1875.jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "1875"
+          },
+          "caption": "File:Khan Elkhalili - Cairo 1875.jpg · Unknown authorUnknown author · Public domain"
+        },
+        "sha256": "fef2ff257754f6d7a38a2bfcb607690499e8d7c1836e06ee0e18879c8faef3b3"
+      },
+      {
+        "id": "khan-sacred-edge",
+        "title": "宗教空间边界：先尊重再观看",
+        "summary": "商业活动与礼拜空间相邻，音量、衣着和摄影需要随边界变化。",
+        "lookFor": "留意鞋履、门槛和人流信号；不跟拍礼拜者。",
+        "image": {
+          "src": "/images/guides/khan-el-khalili/05.jpg",
+          "alt": "宗教空间边界：先尊重再观看的现场或相关实物图像",
+          "credit": {
+            "author": "Werner, Carl",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Carpet_Merchant_in_the_Khan_el_Khaleel_(1878)_-_TIMEA.jpg",
+            "license": "CC BY-SA 2.5",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+            "photographedAt": "1878"
+          },
+          "caption": "File:Carpet Merchant in the Khan el Khaleel (1878) - TIMEA.jpg · Werner, Carl · CC BY-SA 2.5"
+        },
+        "sha256": "19d39256f6eed105813a6866e992fe253a329daa279da5a477cd49bcf7f63e80"
+      },
+      {
+        "id": "khan-door",
+        "title": "门面细部：修复、磨损与再利用",
+        "summary": "木门、石框和金属构件常同时包含原构件、修复与现代使用痕迹。",
+        "lookFor": "比较石材风化、现代固定件和店招如何共同占用立面。",
+        "image": {
+          "src": "/images/guides/khan-el-khalili/06.jpg",
+          "alt": "门面细部：修复、磨损与再利用的现场或相关实物图像",
+          "credit": {
+            "author": "Brooklyn Museum",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Egypt,_Arabic_Window_and_Native_Bazaar,_Cair.jpg",
+            "license": "No restrictions",
+            "licenseUrl": "https://www.flickr.com/commons/usage/",
+            "photographedAt": ""
+          },
+          "caption": "File:Egypt, Arabic Window and Native Bazaar, Cair.jpg · Brooklyn Museum · No restrictions"
+        },
+        "sha256": "830063e06261de6142a4a28375dbbdf17703b00a90c37c079618c3f512195aa9"
+      }
+    ]
+  },
+  {
+    "slug": "abu-simbel",
+    "title": "阿布辛贝神庙",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/abu-simbel.jpg",
+          "alt": "阿布辛贝大神庙岩凿立面及拉美西斯二世四尊坐像",
+          "caption": "Olaf Tausch · Public domain · 拍摄：2019-10-25",
+          "credit": {
+            "author": "Olaf Tausch",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_31.jpg",
+            "license": "Public domain",
+            "licenseUrl": "",
+            "photographedAt": "2019-10-25"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "sha256": "af63117b1b70a4243da2deab8e8b50f382d2968d98dea3a73dffd1de66d85c40"
+      },
+      {
+        "id": "exterior",
+        "title": "两座立面与一座现代重组山体",
+        "image": {
+          "src": "/images/guides/abu-simbel/01.jpg",
+          "alt": "两座立面与一座现代重组山体的现场参观图像",
+          "credit": {
+            "author": "Original photo by User:Hajor; adapted by User:TheGrappler to remove display case and museum exhibits in background.",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:AbuSimbel_copy.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "photographedAt": "Photograph taken December 2002, adapted April 2006."
+          },
+          "caption": "File:AbuSimbel copy.jpg · Original photo by User:Hajor; adapted by User:TheGrappler to remove display case and museum exhibits in background. · CC BY-SA 3.0"
+        },
+        "sha256": "52d98f51b1af2771c380fdd9adbf7219fbfa399f89a076bdf7faf941a870b449"
+      },
+      {
+        "id": "interior",
+        "title": "沿柱像厅逐步收窄到至圣所",
+        "image": {
+          "src": "/images/guides/abu-simbel/02.jpg",
+          "alt": "沿柱像厅逐步收窄到至圣所的现场参观图像",
+          "credit": {
+            "author": "Olaf Tausch",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_31.jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "2019-10-25"
+          },
+          "caption": "File:Großer Tempel (Abu Simbel) 31.jpg · Olaf Tausch · Public domain"
+        },
+        "sha256": "74cd3793b6c7ee304f3d1aacd3f3ab72a41aa6b6c3fea8fec2dae6bef857e104"
+      },
+      {
+        "id": "abu-facade",
+        "title": "四尊坐像：把山体变成王者身体",
+        "summary": "四尊拉美西斯二世坐像以重复和尺度控制到访者的第一印象。",
+        "lookFor": "比较四像的保存差异；一尊因古代地震倒塌，碎块仍在地面。",
+        "image": {
+          "src": "/images/guides/abu-simbel/01.jpg",
+          "alt": "四尊坐像：把山体变成王者身体的现场或相关实物图像",
+          "credit": {
+            "author": "Original photo by User:Hajor; adapted by User:TheGrappler to remove display case and museum exhibits in background.",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:AbuSimbel_copy.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "photographedAt": "Photograph taken December 2002, adapted April 2006."
+          },
+          "caption": "File:AbuSimbel copy.jpg · Original photo by User:Hajor; adapted by User:TheGrappler to remove display case and museum exhibits in background. · CC BY-SA 3.0"
+        },
+        "sha256": "52d98f51b1af2771c380fdd9adbf7219fbfa399f89a076bdf7faf941a870b449"
+      },
+      {
+        "id": "abu-small-card",
+        "title": "小神庙：妮菲尔塔丽与国王同尺度",
+        "summary": "王后巨像与国王接近同等尺度，是官方资料强调的罕见视觉选择。",
+        "lookFor": "先数立面巨像，再比较冠饰、铭文和腿侧小像。",
+        "image": {
+          "src": "/images/guides/abu-simbel/02.jpg",
+          "alt": "小神庙：妮菲尔塔丽与国王同尺度的现场或相关实物图像",
+          "credit": {
+            "author": "Olaf Tausch",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_31.jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "2019-10-25"
+          },
+          "caption": "File:Großer Tempel (Abu Simbel) 31.jpg · Olaf Tausch · Public domain"
+        },
+        "sha256": "74cd3793b6c7ee304f3d1aacd3f3ab72a41aa6b6c3fea8fec2dae6bef857e104"
+      },
+      {
+        "id": "abu-hall",
+        "title": "柱厅：站立王像引向深处",
+        "summary": "奥西里斯式站立王像沿主厅形成强烈轴向节奏。",
+        "lookFor": "看柱像朝向、天花高度变化与侧室开口。",
+        "image": {
+          "src": "/images/guides/abu-simbel/03.jpg",
+          "alt": "柱厅：站立王像引向深处的现场或相关实物图像",
+          "credit": {
+            "author": "Khalil aswan",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D8%A8%D9%88%D8%B3%D9%85%D8%A8%D9%84.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2013-09-17 10:57:18"
+          },
+          "caption": "File:معبد ابوسمبل.jpg · Khalil aswan · CC BY-SA 3.0"
+        },
+        "sha256": "1cf0a6e03ff562a5ea801cc8de5a6ce799c6ddb79b25b468a1aa7dfaf56ec514"
+      },
+      {
+        "id": "abu-sanctuary-card",
+        "title": "至圣所：太阳、日期与四尊坐像",
+        "summary": "官方资料记载每年特定日期，阳光深入并照亮其中三尊坐像。",
+        "lookFor": "普通日期先观察轴线层层收窄；不要把宣传照片的光线当现场承诺。",
+        "image": {
+          "src": "/images/guides/abu-simbel/04.jpg",
+          "alt": "至圣所：太阳、日期与四尊坐像的现场或相关实物图像",
+          "credit": {
+            "author": "Abu_Simbel_relocation_by_Zureks.jpg: Zureks derivative work: JMCC1 (talk)",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Abu_Simbel_relocation_by_Zureks_2.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2011-08-10 17:28"
+          },
+          "caption": "File:Abu Simbel relocation by Zureks 2.jpg · Abu_Simbel_relocation_by_Zureks.jpg: Zureks derivative work: JMCC1 (talk) · CC BY-SA 3.0"
+        },
+        "sha256": "16459e0ebc9cabfdf5263e625355da6004bfb813584bbd12a9d83d466492daca"
+      },
+      {
+        "id": "abu-relief",
+        "title": "战役浮雕：叙事不是现场录像",
+        "summary": "战役场面以尺度、分区和重复组织胜利叙事。",
+        "lookFor": "辨认国王尺度、敌方队列与铭文区，而非把场面逐字当纪实。",
+        "image": {
+          "src": "/images/guides/abu-simbel/05.jpg",
+          "alt": "战役浮雕：叙事不是现场录像的现场或相关实物图像",
+          "credit": {
+            "author": "The original uploader was Asb at German Wikipedia.",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:AbuSimbel_Egypt_03.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "photographedAt": "10 September 2004 (original upload date)"
+          },
+          "caption": "File:AbuSimbel Egypt 03.jpg · The original uploader was Asb at German Wikipedia. · CC BY-SA 3.0"
+        },
+        "sha256": "de561972f64e84408f610d2468060d44a147be98441ca17435f2df093c1dcba2"
+      },
+      {
+        "id": "abu-relocation-card",
+        "title": "迁移接缝：现代工程成为遗产史",
+        "summary": "为避开水库淹没，两座神庙被分块搬迁并重组。",
+        "lookFor": "寻找展板中的切割、编号和重组过程；现场不触摸或寻找隐蔽接缝。",
+        "image": {
+          "src": "/images/guides/abu-simbel/06.jpg",
+          "alt": "迁移接缝：现代工程成为遗产史的现场或相关实物图像",
+          "credit": {
+            "author": "Hajor",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Egypt.AbuSimbel.03.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "photographedAt": "2002-12"
+          },
+          "caption": "File:Egypt.AbuSimbel.03.jpg · Hajor · CC BY-SA 3.0"
+        },
+        "sha256": "1e32d58a1eacb496063670dee7b9bb7ee424edf0300ba34ce66357843c1dd28e"
+      },
+      {
+        "id": "abu-landscape",
+        "title": "纳赛尔湖地景：威胁与新背景",
+        "summary": "今天的湖面与古代努比亚地景不同，却解释了抢救工程为何发生。",
+        "lookFor": "把相机从立面转向湖与人工山体，理解二者的时间差。",
+        "image": {
+          "src": "/images/guides/abu-simbel/07.jpg",
+          "alt": "纳赛尔湖地景：威胁与新背景的现场或相关实物图像",
+          "credit": {
+            "author": "Zureks",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Abu_Simbel_relocation_by_Zureks.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2007-11-27"
+          },
+          "caption": "File:Abu Simbel relocation by Zureks.jpg · Zureks · CC BY-SA 3.0"
+        },
+        "sha256": "92d3555c9fcef0548baae60d728776ef27004b71b18f0e221a0e2a7b65a5936c"
+      }
+    ]
+  },
+  {
+    "slug": "kom-ombo",
+    "title": "康翁波神庙",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/kom-ombo.jpg",
+          "alt": "康翁波神庙正面柱廊与并列入口",
+          "caption": "Ahmed Yousry Mahfouz · CC BY-SA 4.0 · 拍摄：2017-04-19 15:58:30",
+          "credit": {
+            "author": "Ahmed Yousry Mahfouz",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_of_Sobek_and_Haroeris.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2017-04-19 15:58:30"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1280
+          }
+        },
+        "sha256": "a265907f1edf77e0e3ad7db7752c5beddff002b2426e6b8b4091c4943d98b97a"
+      },
+      {
+        "id": "exterior",
+        "title": "从尼罗河岸先看“双重”结构",
+        "image": {
+          "src": "/images/guides/kom-ombo/01.jpg",
+          "alt": "从尼罗河岸先看“双重”结构的现场参观图像",
+          "credit": {
+            "author": "Ahmed Yousry Mahfouz",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_of_Sobek_and_Haroeris.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2017-04-19 15:58:30"
+          },
+          "caption": "File:Temple of Sobek and Haroeris.jpg · Ahmed Yousry Mahfouz · CC BY-SA 4.0"
+        },
+        "sha256": "8c2e1d4ea27239d126c3e761245db205baa5d83b831242902c12024c3415932f"
+      },
+      {
+        "id": "interior",
+        "title": "左右两条轴线一直走到双至圣所",
+        "image": {
+          "src": "/images/guides/kom-ombo/05.jpg",
+          "alt": "左右两条轴线一直走到双至圣所的现场参观图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:50_Kilometer_n%C3%B6rdlich_von_Assuan_liegt_der_Tempel_Kom_Ombo_01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-28.2025"
+          },
+          "caption": "File:50 Kilometer nördlich von Assuan liegt der Tempel Kom Ombo 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "55df63a5359e71e29119d14217279b8cf5e2c2da51fabb559e3d047d03ffae3e"
+      },
+      {
+        "id": "kom-river",
+        "title": "临河神庙：场址与水神",
+        "summary": "神庙紧邻尼罗河，水、洪泛、航行与 Sobek 崇拜在环境上互相强化。",
+        "lookFor": "从安全区域比较河岸、台地与神庙基础的高差。",
+        "image": {
+          "src": "/images/guides/kom-ombo/01.jpg",
+          "alt": "临河神庙：场址与水神的现场或相关实物图像",
+          "credit": {
+            "author": "Ahmed Yousry Mahfouz",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_of_Sobek_and_Haroeris.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2017-04-19 15:58:30"
+          },
+          "caption": "File:Temple of Sobek and Haroeris.jpg · Ahmed Yousry Mahfouz · CC BY-SA 4.0"
+        },
+        "sha256": "8c2e1d4ea27239d126c3e761245db205baa5d83b831242902c12024c3415932f"
+      },
+      {
+        "id": "kom-double",
+        "title": "双入口与双轴：建筑贯彻神学",
+        "summary": "两条平行通道分别服务 Harwer 与 Sobek 的崇拜。",
+        "lookFor": "站在共同区域辨认两条轴线，确认南北后再前进。",
+        "image": {
+          "src": "/images/guides/kom-ombo/02.jpg",
+          "alt": "双入口与双轴：建筑贯彻神学的现场或相关实物图像",
+          "credit": {
+            "author": "Lepsius-Projekt_tw_1-2-102.jpg: Karl Richard Lepsius (1810–1884) derivative work: JMCC1 (talk)",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Lepsius-Projekt_tw_1-2-102_b.jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "2011-11-12 11:24"
+          },
+          "caption": "File:Lepsius-Projekt tw 1-2-102 b.jpg · Lepsius-Projekt_tw_1-2-102.jpg: Karl Richard Lepsius (1810–1884) derivative work: JMCC1 (talk) · Public domain"
+        },
+        "sha256": "82b48fc4045c034def7501cebe4ecf61de6ee24727e101dd67c52375ea8869c6"
+      },
+      {
+        "id": "kom-deities",
+        "title": "Sobek 与 Harwer：两组神祇家庭",
+        "summary": "两位主神各自与配偶、子嗣构成地方神学体系。",
+        "lookFor": "用冠饰与动物头辨认神祇，再看供奉者朝向哪一侧。",
+        "image": {
+          "src": "/images/guides/kom-ombo/03.jpg",
+          "alt": "Sobek 与 Harwer：两组神祇家庭的现场或相关实物图像",
+          "credit": {
+            "author": "Karl Richard Lepsius (1810–1884)",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Lepsius-Projekt_tw_1-2-102.jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "between 1849 and 1859date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1849-00-00T00:00:00Z/9,P1326,+1859-00-00T00:00:00Z/9"
+          },
+          "caption": "File:Lepsius-Projekt tw 1-2-102.jpg · Karl Richard Lepsius (1810–1884) · Public domain"
+        },
+        "sha256": "f04c90c25b43ddaebbbc86ef1df4b473b07f4f2b07a453df4fc98124341dbe61"
+      },
+      {
+        "id": "kom-medical",
+        "title": "“外科器械”浮雕：先保留解释距离",
+        "summary": "官方资料谨慎称一组图形“被认为”是外科器械。",
+        "lookFor": "先看图形与周围仪式场面，再阅读现场说明，不直接套现代名称。",
+        "image": {
+          "src": "/images/guides/kom-ombo/04.jpg",
+          "alt": "“外科器械”浮雕：先保留解释距离的现场或相关实物图像",
+          "credit": {
+            "author": "Sir Banister Fletcher (1866-1953)",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_Plans_-_New_Empire_-_Ptolemaic_and_Roman_37.jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "2017-08-15"
+          },
+          "caption": "File:Temple Plans - New Empire - Ptolemaic and Roman 37.jpg · Sir Banister Fletcher (1866-1953) · Public domain"
+        },
+        "sha256": "c3d4e8a8eeb6e42c5e796e9a345c5b76d98edc31fd3f1f5de7568b1ee5a95be4"
+      },
+      {
+        "id": "kom-nilometer",
+        "title": "水位与历法：神庙也管理时间",
+        "summary": "尼罗河水位、节日历法与农业周期共同塑造祭祀秩序。",
+        "lookFor": "只在开放区域观察刻度与水井结构，不把任何圆井都认作尼罗尺。",
+        "image": {
+          "src": "/images/guides/kom-ombo/05.jpg",
+          "alt": "水位与历法：神庙也管理时间的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:50_Kilometer_n%C3%B6rdlich_von_Assuan_liegt_der_Tempel_Kom_Ombo_01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-28.2025"
+          },
+          "caption": "File:50 Kilometer nördlich von Assuan liegt der Tempel Kom Ombo 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "55df63a5359e71e29119d14217279b8cf5e2c2da51fabb559e3d047d03ffae3e"
+      },
+      {
+        "id": "kom-crocodile-card",
+        "title": "木乃伊鳄鱼：危险动物成为神圣媒介",
+        "summary": "动物遗存让 Sobek 崇拜从抽象神名回到饲养、死亡与保存实践。",
+        "lookFor": "比较包裹、体型和展签来源；保持人体与动物遗存观看礼仪。",
+        "image": {
+          "src": "/images/guides/kom-ombo/06.jpg",
+          "alt": "木乃伊鳄鱼：危险动物成为神圣媒介的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:50_Kilometer_n%C3%B6rdlich_von_Assuan_liegt_der_Tempel_Kom_Ombo_02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-28.2025"
+          },
+          "caption": "File:50 Kilometer nördlich von Assuan liegt der Tempel Kom Ombo 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "93f9c63f1d080b1aaf1d8fd231ca7c2d73ba3dd5549126687a30d1cef08f4c7f"
+      },
+      {
+        "id": "kom-columns",
+        "title": "柱头：重复中没有两根完全相同",
+        "summary": "植物式柱头通过比例、层叠与彩绘残迹制造节奏。",
+        "lookFor": "选择相邻两根柱子，比较植物形、刻痕深浅和残色。",
+        "image": {
+          "src": "/images/guides/kom-ombo/07.jpg",
+          "alt": "柱头：重复中没有两根完全相同的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:50_Kilometer_n%C3%B6rdlich_von_Assuan_liegt_der_Tempel_Kom_Ombo_03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-28.2025"
+          },
+          "caption": "File:50 Kilometer nördlich von Assuan liegt der Tempel Kom Ombo 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "fd1bc370802ffafb2d6e8f359e02f390316353bac35e6fdfeef8eb0bebe9a7af"
+      }
+    ]
+  },
+  {
+    "slug": "edfu-temple",
+    "title": "埃德富荷鲁斯神庙",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/edfu-temple.jpg",
+          "alt": "埃德富荷鲁斯神庙完整第一塔门及中央入口",
+          "caption": "Ad Meskens · CC BY-SA 3.0 · 拍摄：2011-08-06",
+          "credit": {
+            "author": "Ad Meskens",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_of_Edfu_02.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2011-08-06"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "sha256": "61aa69d5f486a45ed40500c9e35a53199844db808e5ae119c0f3011ce642c0f1"
+      },
+      {
+        "id": "exterior",
+        "title": "先退后读完整塔门与荷鲁斯像",
+        "image": {
+          "src": "/images/guides/edfu-temple/01.jpg",
+          "alt": "先退后读完整塔门与荷鲁斯像的现场参观图像",
+          "credit": {
+            "author": "Ad Meskens",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_of_Edfu_02.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2011-08-06"
+          },
+          "caption": "File:Temple of Edfu 02.jpg · Ad Meskens · CC BY-SA 3.0"
+        },
+        "sha256": "3df8e726e4a5efb7ec0a1b54cf367160120675278fa6241b72511b1663d62c35"
+      },
+      {
+        "id": "interior",
+        "title": "庭院—两重柱厅—前室—至圣所",
+        "image": {
+          "src": "/images/guides/edfu-temple/04.jpg",
+          "alt": "庭院—两重柱厅—前室—至圣所的现场参观图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:180_Jahre_hat_es_gedauert_bis_Der_Edfu_Tempel_fertig_gebaut_war._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:180 Jahre hat es gedauert bis Der Edfu Tempel fertig gebaut war. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "2fa1aa452409b88a74ec773cf734bd679b4a947d978c052296af38960e992d58"
+      },
+      {
+        "id": "edfu-pylon-card",
+        "title": "第一塔门：宏大入口也是叙事屏幕",
+        "summary": "塔门以巨大平面承载国王击敌等仪式化王权图像。",
+        "lookFor": "远看两翼与中央门洞比例，近看人物尺度和铭文分区。",
+        "image": {
+          "src": "/images/guides/edfu-temple/01.jpg",
+          "alt": "第一塔门：宏大入口也是叙事屏幕的现场或相关实物图像",
+          "credit": {
+            "author": "Ad Meskens",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_of_Edfu_02.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2011-08-06"
+          },
+          "caption": "File:Temple of Edfu 02.jpg · Ad Meskens · CC BY-SA 3.0"
+        },
+        "sha256": "3df8e726e4a5efb7ec0a1b54cf367160120675278fa6241b72511b1663d62c35"
+      },
+      {
+        "id": "edfu-court-card",
+        "title": "露天庭院：公众与神圣内部的缓冲",
+        "summary": "围柱庭院仍有自然光，却已被连续柱廊和浮雕包围。",
+        "lookFor": "在不阻挡人流处转一圈，比较日照面与阴影面浮雕的可读性。",
+        "image": {
+          "src": "/images/guides/edfu-temple/02.jpg",
+          "alt": "露天庭院：公众与神圣内部的缓冲的现场或相关实物图像",
+          "credit": {
+            "author": "Silar",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:02010_05831_Edfu_Temple.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2010-02-17 19:06:20"
+          },
+          "caption": "File:02010 05831 Edfu Temple.jpg · Silar · CC BY-SA 4.0"
+        },
+        "sha256": "44e980192796bebd717fee0cce8f9e1ac002169db8f8ca25c164bd86d5b7f4c2"
+      },
+      {
+        "id": "edfu-horus",
+        "title": "花岗岩荷鲁斯像：神祇成为入口守护者",
+        "summary": "鹰形荷鲁斯以紧凑体量和王冠强化神庙身份。",
+        "lookFor": "比较喙、眼、羽毛和冠饰处理；不触摸抛光表面。本平面没有核定每尊鹰像的独立坐标。",
+        "image": {
+          "src": "/images/guides/edfu-temple/03.jpg",
+          "alt": "花岗岩荷鲁斯像：神祇成为入口守护者的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:180_Jahre_hat_es_gedauert_bis_Der_Edfu_Tempel_fertig_gebaut_war._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:180 Jahre hat es gedauert bis Der Edfu Tempel fertig gebaut war. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "5f4214263ba12247901801363c5c4420153897d3af4c01ec9579790a60a6ab0d"
+      },
+      {
+        "id": "edfu-hypostyle-card",
+        "title": "柱厅：光线逐渐交给仪式",
+        "summary": "柱列压缩视线，天花与墙面让自然光逐渐减少。",
+        "lookFor": "回望入口，感受同一轴线上亮度和高度的变化。",
+        "image": {
+          "src": "/images/guides/edfu-temple/04.jpg",
+          "alt": "柱厅：光线逐渐交给仪式的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:180_Jahre_hat_es_gedauert_bis_Der_Edfu_Tempel_fertig_gebaut_war._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:180 Jahre hat es gedauert bis Der Edfu Tempel fertig gebaut war. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "2fa1aa452409b88a74ec773cf734bd679b4a947d978c052296af38960e992d58"
+      },
+      {
+        "id": "edfu-sanctuary-card",
+        "title": "至圣所与神龛：最深处不是“空房间”",
+        "summary": "神龛与环绕小室服务神像安置、供奉和仪式准备。",
+        "lookFor": "按现场围挡观察神龛材质、轴线与侧室开口，不跨越限制。",
+        "image": {
+          "src": "/images/guides/edfu-temple/05.jpg",
+          "alt": "至圣所与神龛：最深处不是“空房间”的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:180_Jahre_hat_es_gedauert_bis_Der_Edfu_Tempel_fertig_gebaut_war._03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:180 Jahre hat es gedauert bis Der Edfu Tempel fertig gebaut war. 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "f20ceda41ef7e5de12884c795f0f42c6e06c9b3eb9eb976d8cad9cd09cd1fd13"
+      },
+      {
+        "id": "edfu-relief",
+        "title": "神话浮雕：图像按墙面展开",
+        "summary": "荷鲁斯与塞特相关场景不是孤立插图，而是按仪式与建筑位置组织的连续叙事。",
+        "lookFor": "先找场景分栏和人物朝向，再读现场图说。不把未确认的墙面场景定位到供奉厅。",
+        "image": {
+          "src": "/images/guides/edfu-temple/06.jpg",
+          "alt": "神话浮雕：图像按墙面展开的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:180_Jahre_hat_es_gedauert_bis_Der_Edfu_Tempel_fertig_gebaut_war._04.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:180 Jahre hat es gedauert bis Der Edfu Tempel fertig gebaut war. 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "0b0454cbecc6f2a4eaca3eb56cd2b1bd3f6aef53b7daa0881428ec12c01d1a97"
+      },
+      {
+        "id": "edfu-passage",
+        "title": "环廊与外墙：神庙有一层“皮肤”",
+        "summary": "狭长通道让游客近距离看到外墙铭文、排水与建筑接缝。",
+        "lookFor": "留意墙脚磨损和现代保护设施；通道狭窄时不要停留堵塞。",
+        "image": {
+          "src": "/images/guides/edfu-temple/07.jpg",
+          "alt": "环廊与外墙：神庙有一层“皮肤”的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:180_Jahre_hat_es_gedauert_bis_Der_Edfu_Tempel_fertig_gebaut_war._05.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:180 Jahre hat es gedauert bis Der Edfu Tempel fertig gebaut war. 05.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "be6600356e88f808a1b82af3c6a5f4b8216224f23f3967da7d79f27a4281a2cb"
+      }
+    ]
+  },
+  {
+    "slug": "luxor-temple",
+    "title": "卢克索神庙",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/luxor-temple.jpg",
+          "alt": "暮色中亮灯的卢克索神庙第一塔门、方尖碑与前庭",
+          "caption": "Holger Uwe Schmitt · CC BY-SA 4.0 · 拍摄：12.-30.2025",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-30.2025"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 926
+          }
+        },
+        "sha256": "2ce9660ad21f1a2bb42a531354d1c3b8aaa599c646d2d965f9d689d1c183cee4"
+      },
+      {
+        "id": "exterior",
+        "title": "从塔门、方尖碑和狮身人面像大道进入",
+        "image": {
+          "src": "/images/guides/luxor-temple/01.jpg",
+          "alt": "从塔门、方尖碑和狮身人面像大道进入的现场参观图像",
+          "credit": {
+            "author": "Ad Meskens",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Pylons_and_obelisk_Luxor_temple.JPG",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2011-08-10"
+          },
+          "caption": "File:Pylons and obelisk Luxor temple.JPG · Ad Meskens · CC BY-SA 3.0"
+        },
+        "sha256": "14db0cc9947999ead8c312cd5a0897330ffaf1d88f0dbeca6def5a471b7962c5"
+      },
+      {
+        "id": "interior",
+        "title": "在同一轴线上穿过多个统治时期",
+        "image": {
+          "src": "/images/guides/luxor-temple/04.jpg",
+          "alt": "在同一轴线上穿过多个统治时期的现场参观图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-30.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. wurde der Tempel von Luxor erbaut. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "d4779912903a0825fc0e64fcfbe865b50588b42e6fe3c42817b0d6ae32496135"
+      },
+      {
+        "id": "luxor-pylon-card",
+        "title": "塔门、巨像与单座方尖碑",
+        "summary": "拉美西斯二世以塔门、巨像与一对方尖碑建立宏大入口，如今仅一座方尖碑仍在原位。",
+        "lookFor": "先看左右是否对称，再用空缺想象原来成对构图。",
+        "image": {
+          "src": "/images/guides/luxor-temple/01.jpg",
+          "alt": "塔门、巨像与单座方尖碑的现场或相关实物图像",
+          "credit": {
+            "author": "Ad Meskens",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Pylons_and_obelisk_Luxor_temple.JPG",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2011-08-10"
+          },
+          "caption": "File:Pylons and obelisk Luxor temple.JPG · Ad Meskens · CC BY-SA 3.0"
+        },
+        "sha256": "14db0cc9947999ead8c312cd5a0897330ffaf1d88f0dbeca6def5a471b7962c5"
+      },
+      {
+        "id": "luxor-court-card",
+        "title": "拉美西斯二世庭院：轴线为旧建筑让路",
+        "summary": "庭院在既有神圣建筑与城市条件中展开，并非完全抽象的几何。",
+        "lookFor": "比较柱廊方向、雕像位置与穿越视线，不急着追求绝对对称。",
+        "image": {
+          "src": "/images/guides/luxor-temple/02.jpg",
+          "alt": "拉美西斯二世庭院：轴线为旧建筑让路的现场或相关实物图像",
+          "credit": {
+            "author": "JMCC1",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Luxor_Temple_map_0146.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2012-09-11 11:32:34"
+          },
+          "caption": "File:Luxor Temple map 0146.jpg · JMCC1 · CC BY-SA 3.0"
+        },
+        "sha256": "81622fb976e229787cdc0859883311f726dd06a403ef4800a2ad7f302c49452c"
+      },
+      {
+        "id": "luxor-colonnade-card",
+        "title": "大柱廊：两列七柱承载节庆",
+        "summary": "阿蒙霍特普三世建立两列各七根巨柱，后由图坦卡蒙与霍伦海布完成奥佩特节装饰。",
+        "lookFor": "沿柱列看尽端透视，再靠近辨认节庆场面和后刻王名。",
+        "image": {
+          "src": "/images/guides/luxor-temple/03.jpg",
+          "alt": "大柱廊：两列七柱承载节庆的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-30.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. wurde der Tempel von Luxor erbaut. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "88542321303b6f36b3ceb630a0d5f11980ec9dc8f782360bb56f6182470cdbc2"
+      },
+      {
+        "id": "luxor-amenhotep-card",
+        "title": "阿蒙霍特普三世庭院：尺度转入核心",
+        "summary": "连续柱列将开放庭院和更深的神庙空间连接。",
+        "lookFor": "回望大柱廊，比较柱式、开间和地面高差。",
+        "image": {
+          "src": "/images/guides/luxor-temple/04.jpg",
+          "alt": "阿蒙霍特普三世庭院：尺度转入核心的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-30.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. wurde der Tempel von Luxor erbaut. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "d4779912903a0825fc0e64fcfbe865b50588b42e6fe3c42817b0d6ae32496135"
+      },
+      {
+        "id": "luxor-roman",
+        "title": "罗马绘画：征服者也借用旧神圣空间",
+        "summary": "罗马军营时期，古代浮雕上覆盖灰泥并绘制戴克里先及共治者。",
+        "lookFor": "寻找不同材料层和画面边界，不把所有墙面归于法老时期。",
+        "image": {
+          "src": "/images/guides/luxor-temple/05.jpg",
+          "alt": "罗马绘画：征服者也借用旧神圣空间的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-30.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. wurde der Tempel von Luxor erbaut. 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "ee96473b2b8c0a172139280bef974ab6b2c06605e972725204228343f8c7982d"
+      },
+      {
+        "id": "luxor-avenue",
+        "title": "狮身人面像大道：一座城市级仪式基础设施",
+        "summary": "大道把卡纳克与卢克索神庙连接成约 2.7 公里的节庆轴。",
+        "lookFor": "在入口辨认大道方向，但不要把文化轴线当成当日必须步行的路线。",
+        "image": {
+          "src": "/images/guides/luxor-temple/06.jpg",
+          "alt": "狮身人面像大道：一座城市级仪式基础设施的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._04.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-30.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. wurde der Tempel von Luxor erbaut. 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "49d7eba83d5ea2fb3a8d3a08e1fc0899a2d0158dc1a10f9c16a26929baaf415f"
+      },
+      {
+        "id": "luxor-night",
+        "title": "夜间观看：轮廓增强，细节减弱",
+        "summary": "照明强化柱列、巨像和墙体层次，但颜色与浅浮雕更难准确判断。",
+        "lookFor": "先用夜景读体量；需要研究细节时依靠展签和白天图像。",
+        "image": {
+          "src": "/images/guides/luxor-temple/07.jpg",
+          "alt": "夜间观看：轮廓增强，细节减弱的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._05.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-30.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. wurde der Tempel von Luxor erbaut. 05.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "bf8bb84c6f4bbad9638a389d24e01a5397c1ce2915fa5245fc78dab85e5e6398"
+      }
+    ]
+  },
+  {
+    "slug": "valley-of-the-kings",
+    "title": "帝王谷",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/valley-of-the-kings.jpg",
+          "alt": "帝王谷东谷的石灰岩山坡、步道与墓葬入口地景",
+          "caption": "Holger Uwe Schmitt · CC BY-SA 4.0 · 拍摄：12.-29.2025",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._diente_das_Tal_der_K%C3%B6nige_als_Begr%C3%A4bnisst%C3%A4tte_f%C3%BCr_die_Pharaonen._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1280
+          }
+        },
+        "sha256": "d4623ac195fe3f84d3dbfd955e854c889489835e85b3952d51fbc6db7c12a39e"
+      },
+      {
+        "id": "exterior",
+        "title": "先在荒漠谷地决定看哪几座墓",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/01.jpg",
+          "alt": "先在荒漠谷地决定看哪几座墓的现场参观图像",
+          "credit": {
+            "author": "Fotograf/Photographer: Peter J. Bubenik (1995)",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Luxor,_Tal_der_K%C3%B6nige_(1995,_860x605).jpg",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "photographedAt": ""
+          },
+          "caption": "File:Luxor, Tal der Könige (1995, 860x605).jpg · Fotograf/Photographer: Peter J. Bubenik (1995) · CC BY-SA 2.0"
+        },
+        "sha256": "0af6c6982197baa51b3a0bfb7e45b9b4c4059c9a19631e6fd2a7bc4ed43822e6"
+      },
+      {
+        "id": "interior",
+        "title": "用一座墓学会读轴线，再比较图像",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/03.jpg",
+          "alt": "用一座墓学会读轴线，再比较图像的现场参观图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._diente_das_Tal_der_K%C3%B6nige_als_Begr%C3%A4bnisst%C3%A4tte_f%C3%BCr_die_Pharaonen._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. diente das Tal der Könige als Begräbnisstätte für die Pharaonen. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "04326c2b95ed514a7df5ea1195adefadd6f34c6ed73e7a338cf21b4f95b0b6bc"
+      },
+      {
+        "id": "valley-landscape",
+        "title": "山谷地形：隐藏取代金字塔可见性",
+        "summary": "王墓切入干燥谷地岩壁，以隐蔽和受控通道替代巨型地上陵墓。",
+        "lookFor": "从入口远看山体形态和支谷，不离开开放路径寻找墓口。",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/01.jpg",
+          "alt": "山谷地形：隐藏取代金字塔可见性的现场或相关实物图像",
+          "credit": {
+            "author": "Fotograf/Photographer: Peter J. Bubenik (1995)",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Luxor,_Tal_der_K%C3%B6nige_(1995,_860x605).jpg",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "photographedAt": ""
+          },
+          "caption": "File:Luxor, Tal der Könige (1995, 860x605).jpg · Fotograf/Photographer: Peter J. Bubenik (1995) · CC BY-SA 2.0"
+        },
+        "sha256": "0af6c6982197baa51b3a0bfb7e45b9b4c4059c9a19631e6fd2a7bc4ed43822e6"
+      },
+      {
+        "id": "valley-kv62",
+        "title": "KV62 图坦卡蒙：小墓与巨大现代名声",
+        "summary": "墓室规模并不宏大，重要性来自近乎完整的墓葬组合与现代发掘史。",
+        "lookFor": "若开放并购票，关注空间紧凑与保存展示，不期待 GEM 式完整器物组合。",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/02.jpg",
+          "alt": "KV62 图坦卡蒙：小墓与巨大现代名声的现场或相关实物图像",
+          "credit": {
+            "author": "Kingtut at Hungarian Wikipedia",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kir%C3%A1lyok_v%C3%B6lgye_(keleti_v%C3%B6lgy_k%C3%B6z%C3%A9ps%C5%91_r%C3%A9sz%C3%A9nek_s%C3%ADrjai).jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2012-10-21"
+          },
+          "caption": "File:Királyok völgye (keleti völgy középső részének sírjai).jpg · Kingtut at Hungarian Wikipedia · CC BY-SA 3.0"
+        },
+        "sha256": "a3ba401c292bca5dd24edab3cf675d17aaa703937b914f8d79e496b9c3f299bd"
+      },
+      {
+        "id": "valley-kv2",
+        "title": "KV2 拉美西斯四世：用长轴读来世文本",
+        "summary": "较直的通道与大面积彩绘让宗教文本的顺序更易辨认。",
+        "lookFor": "从天花、墙面到门楣分层看，不只追逐颜色最鲜艳的一面。",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/03.jpg",
+          "alt": "KV2 拉美西斯四世：用长轴读来世文本的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._diente_das_Tal_der_K%C3%B6nige_als_Begr%C3%A4bnisst%C3%A4tte_f%C3%BCr_die_Pharaonen._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. diente das Tal der Könige als Begräbnisstätte für die Pharaonen. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "04326c2b95ed514a7df5ea1195adefadd6f34c6ed73e7a338cf21b4f95b0b6bc"
+      },
+      {
+        "id": "valley-kv6",
+        "title": "KV6 拉美西斯九世：图像密度与快速建造",
+        "summary": "通道覆盖多种来世书图像，空间与完成程度反映建造时间压力。",
+        "lookFor": "比较不同区段线刻、上色与抛光完成度。",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/04.jpg",
+          "alt": "KV6 拉美西斯九世：图像密度与快速建造的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._diente_das_Tal_der_K%C3%B6nige_als_Begr%C3%A4bnisst%C3%A4tte_f%C3%BCr_die_Pharaonen._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. diente das Tal der Könige als Begräbnisstätte für die Pharaonen. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "30c14573681ef345e0920426f19b852e9e07f457b7aa7720e2315a3b59fc56b1"
+      },
+      {
+        "id": "valley-kv9",
+        "title": "KV9：一座墓的再占用与扩建",
+        "summary": "墓葬先后与拉美西斯五世、六世相关，扩建改变了空间和装饰。",
+        "lookFor": "寻找轴线变化、星空天花与不同文本体系的转换。",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/05.jpg",
+          "alt": "KV9：一座墓的再占用与扩建的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._diente_das_Tal_der_K%C3%B6nige_als_Begr%C3%A4bnisst%C3%A4tte_f%C3%BCr_die_Pharaonen._03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. diente das Tal der Könige als Begräbnisstätte für die Pharaonen. 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "278f04dbc04906b06ac65d6482c94f8b5509bfc7b5b796a7158d1979e93ea645"
+      },
+      {
+        "id": "valley-heat",
+        "title": "谷地表面：环境也是保护条件",
+        "summary": "干燥有利保存，却给游客与墓内微环境带来热量、尘土和湿气压力。",
+        "lookFor": "减少墓内停留时的拥堵，不触墙，不用身体倚靠。",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/06.jpg",
+          "alt": "谷地表面：环境也是保护条件的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._diente_das_Tal_der_K%C3%B6nige_als_Begr%C3%A4bnisst%C3%A4tte_f%C3%BCr_die_Pharaonen._04.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:1550 bis 1070 v. Chr. ca. diente das Tal der Könige als Begräbnisstätte für die Pharaonen. 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "b7f1276601dc94d9a68d2b33201bd539b97431eab15d82f9716425fcdbc959cc"
+      },
+      {
+        "id": "valley-centre",
+        "title": "访客中心：当日信息优先于攻略",
+        "summary": "开放墓室、普通票包含数、附加票和摄影规则必须以当天公告为准。",
+        "lookFor": "拍下当日开放表供离线查看，再决定三座墓的组合。",
+        "image": {
+          "src": "/images/guides/valley-of-the-kings/07.jpg",
+          "alt": "访客中心：当日信息优先于攻略的现场或相关实物图像",
+          "credit": {
+            "author": "Michał Michał",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:2000_Egipt_-_Dolina_Kr%C3%B3l%C3%B3w_-_panoramio.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "19 February 2011 (original upload date)"
+          },
+          "caption": "File:2000 Egipt - Dolina Królów - panoramio.jpg · Michał Michał · CC BY-SA 3.0"
+        },
+        "sha256": "8a13fec5fab1ad8900eb3dba2155cb81a543e42a2c0772aa7c7850ba5bc9c533"
+      }
+    ]
+  },
+  {
+    "slug": "hatshepsut-temple",
+    "title": "哈特谢普苏特葬祭殿",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/hatshepsut-temple.jpg",
+          "alt": "哈特谢普苏特葬祭殿的柱廊、中央坡道与后方悬崖",
+          "caption": "Francesco Gasparetti from Senigallia, Italy · CC BY 2.0 · 拍摄：2006-12-29 15:01",
+          "credit": {
+            "author": "Francesco Gasparetti from Senigallia, Italy",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Gaspa_-_Tempio_di_Hatshepsut,_panorama_(6).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2006-12-29 15:01"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1276
+          }
+        },
+        "sha256": "91e348cb357a54e33fe634c7cf6ad61f83acd828c57442362b7e8039f6dffb95"
+      },
+      {
+        "id": "exterior",
+        "title": "三层平台不是贴在山前的布景",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/01.jpg",
+          "alt": "三层平台不是贴在山前的布景的现场参观图像",
+          "credit": {
+            "author": "Ian Lloyd",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hatshetsup-temple-1by7.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "6/29/06"
+          },
+          "caption": "File:Hatshetsup-temple-1by7.jpg · Ian Lloyd · CC BY-SA 3.0"
+        },
+        "sha256": "3fa190e04663e53a94b5626ab7f39813acfe54d101632ae629de07efd0ed9869"
+      },
+      {
+        "id": "interior",
+        "title": "从中层叙事进入上层祭祀核心",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/06.jpg",
+          "alt": "从中层叙事进入上层祭祀核心的现场参观图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%22Millionenjahrhaus%22_-_Totentempel_der_Hatshepsut._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:\"Millionenjahrhaus\" - Totentempel der Hatshepsut. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "33fc8307db93ed1d6cf18cbbcf0ab0f6fa348e37efeefe8a9323b0e018bcc01a"
+      },
+      {
+        "id": "hat-landscape",
+        "title": "悬崖与平台：建筑控制地景而不复制地景",
+        "summary": "水平柱廊、长坡道与垂直悬崖形成强烈几何对话。",
+        "lookFor": "在进入前停留全景，分清三层平台与后方自然岩壁。",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/01.jpg",
+          "alt": "悬崖与平台：建筑控制地景而不复制地景的现场或相关实物图像",
+          "credit": {
+            "author": "Ian Lloyd",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hatshetsup-temple-1by7.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "6/29/06"
+          },
+          "caption": "File:Hatshetsup-temple-1by7.jpg · Ian Lloyd · CC BY-SA 3.0"
+        },
+        "sha256": "3fa190e04663e53a94b5626ab7f39813acfe54d101632ae629de07efd0ed9869"
+      },
+      {
+        "id": "hat-ramps",
+        "title": "长坡道：移动本身就是仪式",
+        "summary": "坡道将上升过程公开化，使到访者逐层接近神圣核心。",
+        "lookFor": "每上一层回头一次，记录尼罗河谷方向如何被框取。",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/02.jpg",
+          "alt": "长坡道：移动本身就是仪式的现场或相关实物图像",
+          "credit": {
+            "author": "Wellcome Library, London / Wellcome Images",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Birds-eye_view_of_restored_Temple_of_Deir-El-Bahari_Wellcome_M0002693.jpg",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+            "photographedAt": ""
+          },
+          "caption": "File:Birds-eye view of restored Temple of Deir-El-Bahari Wellcome M0002693.jpg · Wellcome Library, London / Wellcome Images · CC BY 4.0"
+        },
+        "sha256": "a36ddc0f36803c331cb9a379a6ca8198e411a79d8e44f1e3459ff9995e0616c9"
+      },
+      {
+        "id": "hat-osiride",
+        "title": "奥西里斯式王像：死后王权的身体",
+        "summary": "哈特谢普苏特以奥西里斯式姿态依附柱体出现。",
+        "lookFor": "比较面部、假胡须、交叉双臂与柱体连接。",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/03.jpg",
+          "alt": "奥西里斯式王像：死后王权的身体的现场或相关实物图像",
+          "credit": {
+            "author": "Wellcome Library, London / Wellcome Images",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Line_illustration_of_Temple_of_Deir-El-Bahari,_restored_Wellcome_M0002866.jpg",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+            "photographedAt": ""
+          },
+          "caption": "File:Line illustration of Temple of Deir-El-Bahari, restored Wellcome M0002866.jpg · Wellcome Library, London / Wellcome Images · CC BY 4.0"
+        },
+        "sha256": "e7e3d760364d4ff58c55439e9874e92822073f4209e34508098890b682a7e8ac"
+      },
+      {
+        "id": "hat-hathor-card",
+        "title": "哈托尔礼拜堂：女神与西岸山体",
+        "summary": "哈托尔以母性、王权养育和西岸地景相关形象进入建筑。",
+        "lookFor": "寻找哈托尔柱头、牛形图像与空间方向关系。",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/04.jpg",
+          "alt": "哈托尔礼拜堂：女神与西岸山体的现场或相关实物图像",
+          "credit": {
+            "author": "Ovedc",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Temple_of_Hatshepsut_-_02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2017-10-09 12:03:54"
+          },
+          "caption": "File:By ovedc - Temple of Hatshepsut - 02.jpg · Ovedc · CC BY-SA 4.0"
+        },
+        "sha256": "6ae60dfbc466ae127bcf691a22e1a6e284e0e7480295b22b94677ae7dba504dd"
+      },
+      {
+        "id": "hat-anubis-card",
+        "title": "阿努比斯礼拜堂：葬祭保护的独立章节",
+        "summary": "阿努比斯相关空间把墓地保护与献祭仪式纳入整座神庙。",
+        "lookFor": "比较与哈托尔一侧的尺度、柱式和图像主题。",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/05.jpg",
+          "alt": "阿努比斯礼拜堂：葬祭保护的独立章节的现场或相关实物图像",
+          "credit": {
+            "author": "Sir Banister Fletcher (1866-1953)",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Temple_Plans_-_New_Empire_-_Ptolemaic_and_Roman_37.jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "2017-08-15"
+          },
+          "caption": "File:Temple Plans - New Empire - Ptolemaic and Roman 37.jpg · Sir Banister Fletcher (1866-1953) · Public domain"
+        },
+        "sha256": "c3d4e8a8eeb6e42c5e796e9a345c5b76d98edc31fd3f1f5de7568b1ee5a95be4"
+      },
+      {
+        "id": "hat-punt",
+        "title": "庞特远征：外交、物产与王权叙事",
+        "summary": "图像记录前往庞特的人员、环境、货物与带回资源。",
+        "lookFor": "分辨船只、异域植物、人物与货物，不把每个细节当中性纪录片。",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/06.jpg",
+          "alt": "庞特远征：外交、物产与王权叙事的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%22Millionenjahrhaus%22_-_Totentempel_der_Hatshepsut._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:\"Millionenjahrhaus\" - Totentempel der Hatshepsut. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "33fc8307db93ed1d6cf18cbbcf0ab0f6fa348e37efeefe8a9323b0e018bcc01a"
+      },
+      {
+        "id": "hat-ceiling",
+        "title": "残色与天花：别让白色石材欺骗你",
+        "summary": "局部保存的蓝色、黄色和红色提醒神庙曾是高度着色的环境。",
+        "lookFor": "在阴影处寻找残色，避免闪光和触摸。",
+        "image": {
+          "src": "/images/guides/hatshepsut-temple/07.jpg",
+          "alt": "残色与天花：别让白色石材欺骗你的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%22Millionenjahrhaus%22_-_Totentempel_der_Hatshepsut._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:\"Millionenjahrhaus\" - Totentempel der Hatshepsut. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "edd2055e7ed2f214c1c0db0d5c46e376cb408c810316dec342977e6c1bb86f61"
+      }
+    ]
+  },
+  {
+    "slug": "colossi-of-memnon",
+    "title": "门农巨像",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/colossi-of-memnon.jpg",
+          "alt": "卢克索西岸两尊门农巨像及其后方山地",
+          "caption": "MusikAnimal · CC BY-SA 4.0 · 拍摄：2015-05-18 01:47:24",
+          "credit": {
+            "author": "MusikAnimal",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_May_2015_2.JPG",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2015-05-18 01:47:24"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1280
+          }
+        },
+        "sha256": "024fb1eeec318190af79326469be870dfa3c24325aa9576c29a559bb9647df55"
+      },
+      {
+        "id": "exterior",
+        "title": "把两尊巨像重新放回一座失落神庙",
+        "image": {
+          "src": "/images/guides/colossi-of-memnon/01.jpg",
+          "alt": "把两尊巨像重新放回一座失落神庙的现场参观图像",
+          "credit": {
+            "author": "MusikAnimal",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_May_2015_2.JPG",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2015-05-18 01:47:24"
+          },
+          "caption": "File:Colossi of Memnon May 2015 2.JPG · MusikAnimal · CC BY-SA 4.0"
+        },
+        "sha256": "8f5c8931bed6103cf6657577b95485e73cb1fbcd1a6a9e5aa27696a447291f59"
+      },
+      {
+        "id": "interior",
+        "title": "这里没有可进入的“雕像内部”",
+        "image": {
+          "src": "/images/guides/colossi-of-memnon/03.jpg",
+          "alt": "这里没有可进入的“雕像内部”的现场参观图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:21_Meter_waren_die_Memnonskolosse_urspr%C3%BCnglich_hoch._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:21 Meter waren die Memnonskolosse ursprünglich hoch. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "7a8d9392491f2d8ea4a90ed4062b89ad6f87c03f759d371dd7a836e0d5c5266c"
+      },
+      {
+        "id": "colossi-pair",
+        "title": "成对坐像：缺失建筑的入口仍可读",
+        "summary": "两尊阿蒙霍特普三世坐像原本守卫通往神庙的入口。",
+        "lookFor": "退到安全区域同时纳入两像，判断原入口中心线。",
+        "image": {
+          "src": "/images/guides/colossi-of-memnon/01.jpg",
+          "alt": "成对坐像：缺失建筑的入口仍可读的现场或相关实物图像",
+          "credit": {
+            "author": "MusikAnimal",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_May_2015_2.JPG",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2015-05-18 01:47:24"
+          },
+          "caption": "File:Colossi of Memnon May 2015 2.JPG · MusikAnimal · CC BY-SA 4.0"
+        },
+        "sha256": "8f5c8931bed6103cf6657577b95485e73cb1fbcd1a6a9e5aa27696a447291f59"
+      },
+      {
+        "id": "colossi-north-card",
+        "title": "北像与“鸣响”：自然现象变成跨文化神话",
+        "summary": "地震损伤后的清晨声响被希腊罗马来访者解释为 Memnon 向黎明致意。",
+        "lookFor": "看修复与断裂层次；不要期待今天仍固定发声。",
+        "image": {
+          "src": "/images/guides/colossi-of-memnon/02.jpg",
+          "alt": "北像与“鸣响”：自然现象变成跨文化神话的现场或相关实物图像",
+          "credit": {
+            "author": "GT1976",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:2005-03-30_Urlaub_Aegypten_(134).jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2005-04-10 06:58:03"
+          },
+          "caption": "File:2005-03-30 Urlaub Aegypten (134).jpg · GT1976 · CC BY-SA 4.0"
+        },
+        "sha256": "2980af7f3923a71a74efc1d5a13d113043abb2d9d9427ae019311dbc2dc2abf9"
+      },
+      {
+        "id": "colossi-south-card",
+        "title": "南像：比较才能看出修复与风化",
+        "summary": "两像材料、姿态相近，却经历不同损伤和修复。",
+        "lookFor": "比较面部、王冠、膝部和基座轮廓。",
+        "image": {
+          "src": "/images/guides/colossi-of-memnon/03.jpg",
+          "alt": "南像：比较才能看出修复与风化的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:21_Meter_waren_die_Memnonskolosse_urspr%C3%BCnglich_hoch._01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:21 Meter waren die Memnonskolosse ursprünglich hoch. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "7a8d9392491f2d8ea4a90ed4062b89ad6f87c03f759d371dd7a836e0d5c5266c"
+      },
+      {
+        "id": "colossi-throne",
+        "title": "王座侧面：尼罗河统一图像",
+        "summary": "王座侧面的象征图像把国王身体与两地统一观念联系。",
+        "lookFor": "从允许角度观察侧面人物、植物与绑结构图。",
+        "image": {
+          "src": "/images/guides/colossi-of-memnon/04.jpg",
+          "alt": "王座侧面：尼罗河统一图像的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:21_Meter_waren_die_Memnonskolosse_urspr%C3%BCnglich_hoch._02.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:21 Meter waren die Memnonskolosse ursprünglich hoch. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "08dd42085da113ec97f8c9b27b8afc10a3dae2f01e0d615351366bf9d9e88f2a"
+      },
+      {
+        "id": "colossi-excavation",
+        "title": "神庙考古：巨像背后仍在恢复语境",
+        "summary": "持续项目揭示、修复并重新竖立神庙雕像与构件。",
+        "lookFor": "只从开放区域识别基座、构件和现代支护。",
+        "image": {
+          "src": "/images/guides/colossi-of-memnon/05.jpg",
+          "alt": "神庙考古：巨像背后仍在恢复语境的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:21_Meter_waren_die_Memnonskolosse_urspr%C3%BCnglich_hoch._03.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:21 Meter waren die Memnonskolosse ursprünglich hoch. 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "9a2106c8bbf1c331bcac1077809829f070bc1231c799a9fbc582981c0999226b"
+      },
+      {
+        "id": "colossi-floodplain",
+        "title": "洪泛平原：材料损伤来自环境史",
+        "summary": "神庙选址、地下水与历史洪泛共同影响保存。",
+        "lookFor": "观察地势与周边农田，不进入考古围挡。",
+        "image": {
+          "src": "/images/guides/colossi-of-memnon/06.jpg",
+          "alt": "洪泛平原：材料损伤来自环境史的现场或相关实物图像",
+          "credit": {
+            "author": "Holger Uwe Schmitt",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:21_Meter_waren_die_Memnonskolosse_urspr%C3%BCnglich_hoch._04.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "12.-29.2025"
+          },
+          "caption": "File:21 Meter waren die Memnonskolosse ursprünglich hoch. 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0"
+        },
+        "sha256": "5830605b4e43154995e19a95635d2c6afc39972ffed45acce70f71b1358ccfa5"
+      }
+    ]
+  },
+  {
+    "slug": "karnak",
+    "title": "卡纳克神庙群",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/karnak.jpg",
+          "alt": "卡纳克阿蒙神庙的第一塔门及入口广场",
+          "caption": "Jorge Láscar from Melbourne, Australia · CC BY 2.0 · 拍摄：Taken on 15 September 2012, 07:23",
+          "credit": {
+            "author": "Jorge Láscar from Melbourne, Australia",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:First_pylon_of_the_Amun-Re_temple_entrance_-_Karnak_Temple_(14187552886).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "Taken on 15 September 2012, 07:23"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1275
+          }
+        },
+        "sha256": "46f6e328c6959f109d3d3bc5b8c13a10cdde5f571d7caa42769b1ae3e57a7560"
+      },
+      {
+        "id": "exterior",
+        "title": "先接受这不是一座单体神庙",
+        "image": {
+          "src": "/images/guides/karnak/01.jpg",
+          "alt": "先接受这不是一座单体神庙的现场参观图像",
+          "credit": {
+            "author": "حسني بن بارك",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%D8%B4%D9%83%D9%84_%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D9%86%D9%83_%D9%85%D9%86_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2020-10-17"
+          },
+          "caption": "File:شكل معبد الكرنك من الأعلى.jpg · حسني بن بارك · CC BY-SA 4.0"
+        },
+        "sha256": "7873d0823dcda33e6de0b5647946769dc730941d588b977d852485da198bf0f3"
+      },
+      {
+        "id": "interior",
+        "title": "从大柱厅进入宗教城市的多层结构",
+        "image": {
+          "src": "/images/guides/karnak/06.jpg",
+          "alt": "从大柱厅进入宗教城市的多层结构的现场参观图像",
+          "credit": {
+            "author": "Francesco Gasparetti from Senigallia, Italy",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Gaspa_-_Tempio_di_Karnak_(1).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2006-12-28 12:58"
+          },
+          "caption": "File:Flickr - Gaspa - Tempio di Karnak (1).jpg · Francesco Gasparetti from Senigallia, Italy · CC BY 2.0"
+        },
+        "sha256": "e5d2e7d841c54746f333bcfb7e322d4c3a55159a8b3d7df1d6f188d8e57d720f"
+      },
+      {
+        "id": "karnak-complex",
+        "title": "宗教城市：围区而不是单殿",
+        "summary": "阿蒙、穆特、蒙图等围区与大量小神庙共同构成卡纳克。",
+        "lookFor": "入场先在官方图上确认阿蒙区边界，不把远处所有遗址都当同一票面。",
+        "image": {
+          "src": "/images/guides/karnak/01.jpg",
+          "alt": "宗教城市：围区而不是单殿的现场或相关实物图像",
+          "credit": {
+            "author": "حسني بن بارك",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%D8%B4%D9%83%D9%84_%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D9%86%D9%83_%D9%85%D9%86_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2020-10-17"
+          },
+          "caption": "File:شكل معبد الكرنك من الأعلى.jpg · حسني بن بارك · CC BY-SA 4.0"
+        },
+        "sha256": "7873d0823dcda33e6de0b5647946769dc730941d588b977d852485da198bf0f3"
+      },
+      {
+        "id": "karnak-hypostyle-card",
+        "title": "大柱厅：134 根柱形成石质森林",
+        "summary": "中央十二根柱高于两侧，形成采光层；塞提一世与拉美西斯二世完成主要建造与装饰。",
+        "lookFor": "沿中央高柱看采光窗，再比较两位国王浮雕风格。",
+        "image": {
+          "src": "/images/guides/karnak/02.jpg",
+          "alt": "大柱厅：134 根柱形成石质森林的现场或相关实物图像",
+          "credit": {
+            "author": "Silar",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:02010_05758_Karnak_temple_of_Amun-Ra.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2010-02-15"
+          },
+          "caption": "File:02010 05758 Karnak temple of Amun-Ra.jpg · Silar · CC BY-SA 4.0"
+        },
+        "sha256": "bb463683a650f534a6b24747d70c078fc8a67ba571c98a88d0898d8449ae7a4f"
+      },
+      {
+        "id": "karnak-obelisk-card",
+        "title": "哈特谢普苏特方尖碑：一块石头制造垂直政治",
+        "summary": "近 30 米高的方尖碑以单体石材、铭文和太阳象征穿透周围水平建筑。",
+        "lookFor": "从基座读铭文方向，再抬头看尖端与周围塔门的遮挡关系。",
+        "image": {
+          "src": "/images/guides/karnak/03.jpg",
+          "alt": "哈特谢普苏特方尖碑：一块石头制造垂直政治的现场或相关实物图像",
+          "credit": {
+            "author": "Albert Henry Payne nach Pape",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Der_Tempel_zu_Karnak_-_Payne_nach_Pape.jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "circa 1850date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902"
+          },
+          "caption": "File:Der Tempel zu Karnak - Payne nach Pape.jpg · Albert Henry Payne nach Pape · Public domain"
+        },
+        "sha256": "e03971589f507e0778b3986a43951940ef037124cfa49d06f0f9179f1994b43a"
+      },
+      {
+        "id": "karnak-lake-card",
+        "title": "圣湖：仪式净化与神庙后勤",
+        "summary": "圣湖与祭司净化相关，也属于神庙日常运作环境。",
+        "lookFor": "观察水体、岸线与周边建筑关系，不把现代景观维护当古代原状。",
+        "image": {
+          "src": "/images/guides/karnak/04.jpg",
+          "alt": "圣湖：仪式净化与神庙后勤的现场或相关实物图像",
+          "credit": {
+            "author": "Félix Teynard / Imprimerie photographique H. de Fonteny et Cie",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Karnak_(Th%C3%A8bes),_Vue_G%C3%A9n%C3%A9rale_des_Ruines_Prise_du_Sud-Est,_en_T_MET_DP71352.jpg",
+            "license": "CC0",
+            "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "photographedAt": "1851–52, printed 1853–54"
+          },
+          "caption": "File:Karnak (Thèbes), Vue Générale des Ruines Prise du Sud-Est, en T MET DP71352.jpg · Félix Teynard / Imprimerie photographique H. de Fonteny et Cie · CC0"
+        },
+        "sha256": "15512a64cd473b8c60d9b91029f0f6e458bee5bafd6744a82a06101cfe2ce36f"
+      },
+      {
+        "id": "karnak-avenue",
+        "title": "公羊首狮身像：神祇形象组成仪式边界",
+        "summary": "成列雕像控制接近方向，并以阿蒙相关公羊形象界定神圣通道。",
+        "lookFor": "比较每尊保存、修复和基座铭文差异。",
+        "image": {
+          "src": "/images/guides/karnak/05.jpg",
+          "alt": "公羊首狮身像：神祇形象组成仪式边界的现场或相关实物图像",
+          "credit": {
+            "author": "Ovedc",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Karnak_temple_complex_-_77.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2017-10-10 07:01:46"
+          },
+          "caption": "File:By ovedc - Karnak temple complex - 77.jpg · Ovedc · CC BY-SA 4.0"
+        },
+        "sha256": "92b64d31470051a3da18ce394174faafafbc382ae5fd23c8f3a82b0b0b2beb21"
+      },
+      {
+        "id": "karnak-khonsu-card",
+        "title": "孔苏神庙：在巨型复合体中看一座相对完整神庙",
+        "summary": "较清晰的塔门—庭院—柱厅序列有助于理解埃及神庙基本结构。",
+        "lookFor": "若开放且体力允许，比较其轴线与阿蒙大神庙。",
+        "image": {
+          "src": "/images/guides/karnak/06.jpg",
+          "alt": "孔苏神庙：在巨型复合体中看一座相对完整神庙的现场或相关实物图像",
+          "credit": {
+            "author": "Francesco Gasparetti from Senigallia, Italy",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Gaspa_-_Tempio_di_Karnak_(1).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2006-12-28 12:58"
+          },
+          "caption": "File:Flickr - Gaspa - Tempio di Karnak (1).jpg · Francesco Gasparetti from Senigallia, Italy · CC BY 2.0"
+        },
+        "sha256": "e5d2e7d841c54746f333bcfb7e322d4c3a55159a8b3d7df1d6f188d8e57d720f"
+      },
+      {
+        "id": "karnak-open-air",
+        "title": "露天博物馆：拆散构件也有建筑记忆",
+        "summary": "重组礼拜堂和构件揭示后代如何拆用、填充和覆盖前代建筑。",
+        "lookFor": "票务和开放先确认；阅读构件编号与复原说明。",
+        "image": {
+          "src": "/images/guides/karnak/07.jpg",
+          "alt": "露天博物馆：拆散构件也有建筑记忆的现场或相关实物图像",
+          "credit": {
+            "author": "Francesco Gasparetti from Senigallia, Italy",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Gaspa_-_Tempio_di_Karnak,_colonnato_(3).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2006-12-28 13:28"
+          },
+          "caption": "File:Flickr - Gaspa - Tempio di Karnak, colonnato (3).jpg · Francesco Gasparetti from Senigallia, Italy · CC BY 2.0"
+        },
+        "sha256": "2285835a2905e0a23d932447a42752620a1093149c166bd53517f5a49d329201"
+      },
+      {
+        "id": "karnak-pylons",
+        "title": "多重塔门：每一次穿越都是年代切换",
+        "summary": "塔门并非一次建成的连续序号，而是不同工程阶段的边界。",
+        "lookFor": "在每道塔门前回望，寻找轴线偏移、未完成表面与重刻。",
+        "image": {
+          "src": "/images/guides/karnak/08.jpg",
+          "alt": "多重塔门：每一次穿越都是年代切换的现场或相关实物图像",
+          "credit": {
+            "author": "Francesco Gasparetti from Senigallia, Italy",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Gaspa_-_Tempio_di_Karnak,_esterno.jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "2006-12-28 11:59"
+          },
+          "caption": "File:Flickr - Gaspa - Tempio di Karnak, esterno.jpg · Francesco Gasparetti from Senigallia, Italy · CC BY 2.0"
+        },
+        "sha256": "bd8e86f7d7f914f65c4dddfcd1e652180074b34a8679265367c1fe97479a180f"
+      },
+      {
+        "id": "karnak-relief",
+        "title": "浮雕重刻：胜利图像也会被继承",
+        "summary": "后来的统治者可能覆盖、补刻或重新署名既有图像。",
+        "lookFor": "找轮廓重叠、凿除和深浅不同的王名框。",
+        "image": {
+          "src": "/images/guides/karnak/09.jpg",
+          "alt": "浮雕重刻：胜利图像也会被继承的现场或相关实物图像",
+          "credit": {
+            "author": "SiefkinDR",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Gardens_of_Nakh_3.JPG",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2012-03-18"
+          },
+          "caption": "File:Gardens of Nakh 3.JPG · SiefkinDR · CC BY-SA 3.0"
+        },
+        "sha256": "50831907d0e1ee87ccb9f4d29f42466fcfa4a6696750b84aca3d1b4312567fa8"
+      }
+    ]
+  },
+  {
+    "slug": "orange-bay",
+    "title": "Orange Bay 与红海海洋体验",
+    "images": [
+      {
+        "id": "cover",
+        "title": "封面",
+        "image": {
+          "src": "/images/covers/orange-bay.jpg",
+          "alt": "Orange Bay 的木栈桥、遮阳设施与吉夫顿岛浅海",
+          "caption": "Mahmoudxx1 · CC BY-SA 4.0 · 拍摄：2023-06-23 11:53:56",
+          "credit": {
+            "author": "Mahmoudxx1",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hurghada_gifton_island_Orange_bay.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2023-06-23 11:53:56"
+          },
+          "framing": {
+            "hero": "contain",
+            "directory": "contain",
+            "card": "contain",
+            "thumbnail": "contain"
+          },
+          "dimensions": {
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "sha256": "a5abd49f1fade6b92deb974df3826cc93544ccebb9b2bdea3e8477bde076e5dc"
+      },
+      {
+        "id": "exterior",
+        "title": "先确认这次船程实际包含什么",
+        "image": {
+          "src": "/images/guides/orange-bay/01.jpg",
+          "alt": "先确认这次船程实际包含什么的现场参观图像",
+          "credit": {
+            "author": "user:vberger",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Giftun_Soraya01.JPG",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "2007-06"
+          },
+          "caption": "File:Giftun Soraya01.JPG · user:vberger · Public domain"
+        },
+        "sha256": "ba38e9ad9e0f262932d9bea72acc141b326a1ab40496dbd8282d903afd5b2a41"
+      },
+      {
+        "id": "interior",
+        "title": "没有建筑内部，核心是安全进入海洋",
+        "image": {
+          "src": "/images/guides/orange-bay/04.jpg",
+          "alt": "没有建筑内部，核心是安全进入海洋的现场参观图像",
+          "credit": {
+            "author": "cattan2011",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Giftun_island,_Hurghada,_Egypt_-_Explore_-_Flickr_-_cattan2011.jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "Taken on 11 January 2019, 14:08"
+          },
+          "caption": "File:Giftun island, Hurghada, Egypt - Explore - Flickr - cattan2011.jpg · cattan2011 · CC BY 2.0"
+        },
+        "sha256": "44456a9b1f36d697d1205c216abb461d157f8e6cd0eeb025a3a60eae895e1e0c"
+      },
+      {
+        "id": "orange-island",
+        "title": "吉夫顿岛海域：先辨认保护环境",
+        "summary": "沙岛、浅海和珊瑚礁共同构成脆弱环境，船只与游客活动会带来压力。",
+        "lookFor": "听从划定区域和环保提示，不带走贝壳或珊瑚。",
+        "image": {
+          "src": "/images/guides/orange-bay/01.jpg",
+          "alt": "吉夫顿岛海域：先辨认保护环境的现场或相关实物图像",
+          "credit": {
+            "author": "user:vberger",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Giftun_Soraya01.JPG",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "2007-06"
+          },
+          "caption": "File:Giftun Soraya01.JPG · user:vberger · Public domain"
+        },
+        "sha256": "ba38e9ad9e0f262932d9bea72acc141b326a1ab40496dbd8282d903afd5b2a41"
+      },
+      {
+        "id": "orange-beach-card",
+        "title": "沙滩设施：确认票面包含再消费",
+        "summary": "遮阳、座位、餐饮与水上项目可能按不同产品提供。",
+        "lookFor": "上岛先拍集合点和返船时间，再确认储物、饮水与额外付费。",
+        "image": {
+          "src": "/images/guides/orange-bay/02.jpg",
+          "alt": "沙滩设施：确认票面包含再消费的现场或相关实物图像",
+          "credit": {
+            "author": "Caprice4540",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Beach_of_giftun_island.JPG",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "photographedAt": "2008-06-15 13:09:47"
+          },
+          "caption": "File:Beach of giftun island.JPG · Caprice4540 · CC BY-SA 3.0"
+        },
+        "sha256": "b9297c6829dd1e2f7a1fbd52ba2378a79f897913827b24ddd27b7070beab2e9f"
+      },
+      {
+        "id": "orange-shallows",
+        "title": "浅水区：清澈不等于没有风险",
+        "summary": "阳光、反射、海胆、礁石碎片与流速都可能在浅水造成伤害。",
+        "lookFor": "检查鞋具、防晒方式、救生衣和可见边界；不赤脚踩未知底质。",
+        "image": {
+          "src": "/images/guides/orange-bay/03.jpg",
+          "alt": "浅水区：清澈不等于没有风险的现场或相关实物图像",
+          "credit": {
+            "author": "No machine-readable author provided. Ebief assumed (based on copyright claims).",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Egypt-Hurghada-from-plane01.jpg",
+            "license": "CC BY-SA 2.5",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+            "photographedAt": "25 July 2005 (according to Exif data)"
+          },
+          "caption": "File:Egypt-Hurghada-from-plane01.jpg · No machine-readable author provided. Ebief assumed (based on copyright claims). · CC BY-SA 2.5"
+        },
+        "sha256": "af134ca5756b6d12e0c0f3ca3ea6ef38d0356b48f9edb9c11bbb97a666d94388"
+      },
+      {
+        "id": "orange-coral",
+        "title": "珊瑚礁：保持水平、保持距离",
+        "summary": "珊瑚是缓慢生长的活体生态结构，不是可站立的平台。",
+        "lookFor": "身体保持水平，脚蹼远离礁顶；不触摸、不喂鱼、不追逐。",
+        "image": {
+          "src": "/images/guides/orange-bay/04.jpg",
+          "alt": "珊瑚礁：保持水平、保持距离的现场或相关实物图像",
+          "credit": {
+            "author": "cattan2011",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Giftun_island,_Hurghada,_Egypt_-_Explore_-_Flickr_-_cattan2011.jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "photographedAt": "Taken on 11 January 2019, 14:08"
+          },
+          "caption": "File:Giftun island, Hurghada, Egypt - Explore - Flickr - cattan2011.jpg · cattan2011 · CC BY 2.0"
+        },
+        "sha256": "44456a9b1f36d697d1205c216abb461d157f8e6cd0eeb025a3a60eae895e1e0c"
+      },
+      {
+        "id": "orange-fish",
+        "title": "鱼群观察：颜色来自生态角色",
+        "summary": "不同体型、嘴形和游动层次反映觅食和栖息关系。",
+        "lookFor": "慢速呼吸、保持距离，观察鱼在礁面、沙地与水柱的位置差异。",
+        "image": {
+          "src": "/images/guides/orange-bay/05.jpg",
+          "alt": "鱼群观察：颜色来自生态角色的现场或相关实物图像",
+          "credit": {
+            "author": "Kashionyxia",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hurghada_airplane.JPG",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "photographedAt": "2015-09-05 09:09:58"
+          },
+          "caption": "File:Hurghada airplane.JPG · Kashionyxia · CC BY-SA 4.0"
+        },
+        "sha256": "6858f4779e2f842cc23d20dcb7724ee3291cb44470a450c98ce224ae3bfa45fd"
+      },
+      {
+        "id": "orange-boat",
+        "title": "船上纪律：返船时间比“再拍一张”重要",
+        "summary": "船程安全依赖点名、装备管理、天气判断和统一返航。",
+        "lookFor": "拍下船名、联系人、集合点与时间；手机离线保存并设置提前提醒。",
+        "image": {
+          "src": "/images/guides/orange-bay/06.jpg",
+          "alt": "船上纪律：返船时间比“再拍一张”重要的现场或相关实物图像",
+          "credit": {
+            "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:ISS074-E-834658_-_View_of_Egypt_-_Hurghada_-_Red_Sea_-_Giftun_Island_-_Giftun_al_Sakhir_-_El_Gouma_(cropped).jpg",
+            "license": "Public domain",
+            "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "photographedAt": "Taken on 22 July 2026"
+          },
+          "caption": "File:ISS074-E-834658 - View of Egypt - Hurghada - Red Sea - Giftun Island - Giftun al Sakhir - El Gouma (cropped).jpg · Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center · Public domain"
+        },
+        "sha256": "2102fa832481ffe941c5c6d84c571aca52bba132fde6adcce25c6bfb1e491444"
+      }
+    ]
+  }
+]

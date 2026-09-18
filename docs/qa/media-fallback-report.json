@@ -1,0 +1,77 @@
+{
+  "scenario": "Simulated WebGL unavailability, not a real hardware failure",
+  "release": "nmec-cultural-guide-d969aae70089d175",
+  "guides": [
+    {
+      "slug": "national-museum-egyptian-civilization",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "giza-plateau",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "grand-egyptian-museum",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "cairo-citadel",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "khan-el-khalili",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "abu-simbel",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "kom-ombo",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "edfu-temple",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "luxor-temple",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "valley-of-the-kings",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "hatshepsut-temple",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "colossi-of-memnon",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "karnak",
+      "interior": true,
+      "exterior": true
+    },
+    {
+      "slug": "orange-bay",
+      "interior": true,
+      "exterior": true
+    }
+  ],
+  "passed": true
+}

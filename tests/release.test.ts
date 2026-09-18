@@ -12,6 +12,7 @@ describe('full-site release scope',()=>{
  it('keeps the review-corrected NMEC media and a real Nubian site cover',()=>{
   expect(cityProfiles.find(c=>c.slug==='aswan-nubia')?.hero.src).toContain('/covers/abu-simbel.jpg');
   const nmec=guideCatalog.find(g=>g.slug==='national-museum-egyptian-civilization')!;
-  expect(nmec.highlights.find(h=>h.id==='nmec-mummies-parade')?.image.caption).toContain('历史展板');
+  expect(nmec.highlights.find(h=>h.id==='nmec-mummies-parade')?.image.caption).toContain('黄金游行的新闻影像');
+  expect(nmec.highlights.find(h=>h.id==='nmec-mummies-parade')?.image.src).toContain('/reviewed/');
  });
 });

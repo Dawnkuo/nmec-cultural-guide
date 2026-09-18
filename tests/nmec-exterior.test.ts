@@ -15,11 +15,16 @@ describe('NMEC exterior: rejected flat slab regression',()=>{
  });
  it('does not reuse the tourism sign as an interior photograph',()=>{
   const guide=guideCatalog.find(g=>g.slug==='national-museum-egyptian-civilization')!;
-  const photos=[guide.visitChapters!.find(c=>c.id==='interior')!.image,guide.highlights.find(h=>h.id==='nmec-architecture')!.image];
+  const hall=guide.visitChapters!.find(c=>c.id==='interior')!.image;
+  const architecture=guide.highlights.find(h=>h.id==='nmec-architecture')!.image;
+  expect(hall.src).toContain('main-hall-reviewed.jpg');
+  expect(hall.caption).toContain('2017');
+  expect(hall.credit?.sourcePage).toContain('NMEC-MainHall.jpg');
+  expect(architecture.credit?.sourcePage).toContain('National_Museum_of_Egyptian_Civilization_2022_04.jpg');
+  const photos=[hall,architecture];
   for(const photo of photos){
-   expect(photo.src).toContain('main-hall-reviewed.jpg');
-   expect(photo.caption).toContain('2017');
-   expect(photo.credit?.sourcePage).toContain('NMEC-MainHall.jpg');
+   expect(photo.src).not.toContain('/03.jpg');
+   expect(photo.caption).toContain('展厅');
    expect(existsSync('public'+photo.src)).toBe(true);
   }
  });

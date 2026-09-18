@@ -1,0 +1,22 @@
+{
+  "scenario": "Actual Service Worker network interruption, page reopen, resume and partial release update",
+  "release": "nmec-cultural-guide-d969aae70089d175",
+  "interrupted": {
+    "completed": 90,
+    "total": 310,
+    "phase": "failed",
+    "version": "nmec-cultural-guide-d969aae70089d175",
+    "error": "/nmec-cultural-guide/images/guides/grand-egyptian-museum/08.jpg (503)",
+    "savedAt": "2026-09-18T08:30:34.577Z"
+  },
+  "resumed": {
+    "completed": 310,
+    "total": 310,
+    "phase": "ready",
+    "version": "nmec-cultural-guide-d969aae70089d175",
+    "savedAt": "2026-09-18T08:30:36.252Z"
+  },
+  "oldReleaseOffline": true,
+  "unrelatedCachePreserved": true,
+  "passed": true
+}
